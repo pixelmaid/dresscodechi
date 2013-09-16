@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  16 SEP 2013 16:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  16 SEP 2013 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -432,117 +432,98 @@ Non-PDF special ignored!
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 147.
-
-
-LaTeX Warning: Citation `reas' on page 2 undefined on input line 147.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
 
 
 LaTeX Warning: Citation `the_craftsman' on page 2 undefined on input line 171.
 
-
-LaTeX Warning: Citation `dunn' on page 2 undefined on input line 175.
-
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--198
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--202
+Underfull \hbox (badness 10000) in paragraph at lines 202--205
 
  []
 
-<images/dresscode_interface.jpg, id=205, 1253.68375pt x 744.7825pt>
+<images/dresscode_interface.jpg, id=213, 1253.68375pt x 744.7825pt>
 File: images/dresscode_interface.jpg Graphic file (type jpg)
 
 <use images/dresscode_interface.jpg>
-Package pdftex.def Info: images/dresscode_interface.jpg used on input line 209.
+Package pdftex.def Info: images/dresscode_interface.jpg used on input line 212.
 
 (pdftex.def)             Requested size: 243.98238pt x 144.9422pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 210.
-
-<images/interpreter_structure_horz.png, id=206, 1439.3775pt x 496.85625pt>
-File: images/interpreter_structure_horz.png Graphic file (type png)
-
-<use images/interpreter_structure_horz.png>
-Package pdftex.def Info: images/interpreter_structure_horz.png used on input li
-ne 221.
-(pdftex.def)             Requested size: 512.1496pt x 176.7908pt.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 228.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 213.
+ [3 <./images/dresscode_interface.jpg>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 223.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 228.
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 223.
 
-Underfull \hbox (badness 1454) in paragraph at lines 228--228
+Underfull \hbox (badness 1454) in paragraph at lines 223--223
 \OT1/ptm/m/n/9 at: [][]$\OT1/pcr/b/n/8 http : / / jacobsj . scripts . mit . edu
  / dresscode / index .
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 228--229
+Underfull \hbox (badness 1337) in paragraph at lines 223--224
 \OT1/ptm/m/n/10 ports con-ven-tional datatypes in-clud-ing num-bers, strings,
  []
 
-[3 <./images/dresscode_interface.jpg>]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<images/auto_generated_code.jpg, id=231, 1866.975pt x 993.7125pt>
+<images/auto_generated_code.jpg, id=239, 1866.975pt x 993.7125pt>
 File: images/auto_generated_code.jpg Graphic file (type jpg)
 
 <use images/auto_generated_code.jpg>
-Package pdftex.def Info: images/auto_generated_code.jpg used on input line 263.
+Package pdftex.def Info: images/auto_generated_code.jpg used on input line 258.
 
 (pdftex.def)             Requested size: 243.98238pt x 129.85432pt.
 
 
 LaTeX Warning: Reference `fig:declarative_view' on page 5 undefined on input li
-ne 269.
+ne 264.
 
-[5 <./images/auto_generated_code.jpg>]
-Underfull \vbox (badness 1688) has occurred while \output is active []
-
- [6]
-[7]
-Underfull \vbox (badness 1072) has occurred while \output is active []
-
- [8]
+[5 <./images/auto_generated_code.jpg>] [6] [7] [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-Underfull \vbox (badness 1253) has occurred while \output is active []
-
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 
-Underfull \hbox (badness 2799) in paragraph at lines 455--461
+Underfull \hbox (badness 2799) in paragraph at lines 450--456
 []\OT1/ptm/m/n/10 All par-tic-i-pants felt com-pu-ta-tional and screen print-in
 g
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 493--498
+Underfull \hbox (badness 10000) in paragraph at lines 488--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--530
+Underfull \hbox (badness 10000) in paragraph at lines 524--525
 
  []
 
-[11]
+
+Underfull \vbox (badness 4505) has occurred while \output is active []
+
+ [11]
 Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ú in font ptmri7t!
@@ -556,7 +537,7 @@ Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ù in font ptmri7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--570
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
 
  []
 
@@ -570,49 +551,41 @@ Missing character: There is no ‚ in font ptmri7t!
 Missing character: There is no Ä in font ptmri7t!
 Missing character: There is no ¶ in font ptmri7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 592--593
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
 
  []
 
-(./dresscode.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 639.
-
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[12] [13 <./images/interpreter_structure_horz.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 639.
+[12] (./dresscode.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 634.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 634.
  (./dresscode.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 639.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 639.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 634.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 634.
+Package rerunfilecheck Info: File `dresscode.out' has not changed.
+(rerunfilecheck)             Checksum: EF1A744D7D5B0568FCEF383D1B179F89;3080.
 
-
-Package rerunfilecheck Warning: File `dresscode.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `dresscode.out':
-(rerunfilecheck)             Before: 146D02CB858A5450E1FF2D3359F473E9;3080
-(rerunfilecheck)             After:  0CB91A1144E73CE3B19CB764A6598E3D;3080.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 639.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 634.
  ) 
 Here is how much of TeX's memory you used:
- 7615 strings out of 493311
- 109508 string characters out of 6137857
- 214997 words of memory out of 5000000
- 10859 multiletter control sequences out of 15000+600000
+ 7617 strings out of 493311
+ 109404 string characters out of 6137857
+ 214087 words of memory out of 5000000
+ 10860 multiletter control sequences out of 15000+600000
  38830 words of font info for 87 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,10n,32p,2442b,1129s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.46} has been referenced but does not exi
-st, replaced by a fixed one
+pdfTeX warning (dest): name{figure.6} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.46} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.45} has been referenced but does not exist
 , replaced by a fixed one
@@ -651,10 +624,10 @@ t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts
 /urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on dresscode.pdf (13 pages, 1049343 bytes).
+Output written on dresscode.pdf (13 pages, 969052 bytes).
 PDF statistics:
- 341 PDF objects out of 1000 (max. 8388607)
- 310 compressed objects within 4 object streams
- 88 named destinations out of 1000 (max. 500000)
- 360 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 319 compressed objects within 4 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 355 words of extra memory for PDF output out of 10000 (max. 10000000)
 

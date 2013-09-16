@@ -1,14 +1,21 @@
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
 \begin{thebibliography}{1}
-
-\bibitem{k12ModelCur}
-{\em {A Model Curriculum for K-12 Computer Science:Final Report of the ACM K-12
-  Task Force}}, second edition~ed.
-\newblock Association for Computing Machinery, 2003.
 
 \bibitem{stemReport}
 {Report To The President. Prepare and Inspire: K-12 Education In Science,
   Technology, Engineering and Math (STEM) for America's Future}.
 \newblock Tech. rep., Executive Office of the President, 09 2010.
+
+\bibitem{rosner_craft_vs_design}
+Bean, J., and Rosner, D.
+\newblock Old hat: Craft versus design.
+\newblock In {\em Interactions Magazine} (2012).
+
+\bibitem{dunn}
+Dunn, N.
+\newblock {\em Digital Fabrication in Architecture}.
+\newblock Laurence King Publishing LTD, London, England, 2012.
 
 \bibitem{maketolearn}
 Make to learn.
@@ -25,11 +32,22 @@ McCullough, M.
 \newblock {\em Abstracting Craft: The Practiced Digital Hand}.
 \newblock The MIT Press, Cambridge, Massachusetts, 1996.
 
-\bibitem{on_craft}
-Rosner, D., and Ryokai, K.
-\newblock Reflections on craft: probing the creative process of everyday
-  knitters.
-\newblock In {\em Proceedings of the seventh ACM conference on Creativity and
-  cognition}, C\&\#38;C '09, ACM (New York, NY, USA, 2009), 195--204.
+\bibitem{reas}
+Reas, N., McWilliams, C., and LUST.
+\newblock {\em Form and Code: In Design, Art and Architecture, A Guide to
+  Computational Aesthetics}.
+\newblock Princeton Architectural Press, 2010.
+
+\bibitem{resnick1}
+Resnick, M., and Silverman, B.
+\newblock Some reflections on designing construction kits for kids.
+\newblock In {\em Proceedings of the 2005 Conference on Interaction Design and
+  Children} (2005).
+
+\bibitem{zoran}
+Zoran, A., and Buechley, L.
+\newblock Hybrid reassemblage: An exploration of craft, digital fabrication and
+  artifact uniqueness.
+\newblock In {\em LEONARDO}, vol.~46 (2013).
 
 \end{thebibliography}
