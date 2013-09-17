@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  17 SEP 2013 15:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  17 SEP 2013 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,13 +448,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--212
 
  []
 
-<images/dresscode_interface.jpg, id=225, 1253.68375pt x 744.7825pt>
+<images/dresscode_interface.jpg, id=225, 880.28876pt x 541.02126pt>
 File: images/dresscode_interface.jpg Graphic file (type jpg)
 
 <use images/dresscode_interface.jpg>
 Package pdftex.def Info: images/dresscode_interface.jpg used on input line 220.
 
-(pdftex.def)             Requested size: 243.98238pt x 144.9422pt.
+(pdftex.def)             Requested size: 243.98238pt x 149.94942pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 221.
  [3 <./images/dresscode_interface.jpg>]
@@ -508,34 +508,92 @@ File: images/stamps.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/stamps.jpg used on input line 288.
 (pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
 
-[5 <./images/auto_generated_code.jpg> <./images/selection_mechanism.jpg> <./ima
-ges/stamps.jpg>] [6] [7] [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1515) has occurred while \output is active []
+
+ [5 <./images/auto_generated_code.jpg> <./images/selection_mechanism.jpg> <./im
+ages/stamps.jpg>] [6] <images/bracelet_process.png, id=277, 469.755pt x 296.106
+25pt>
+File: images/bracelet_process.png Graphic file (type png)
+
+<use images/bracelet_process.png>
+Package pdftex.def Info: images/bracelet_process.png used on input line 321.
+(pdftex.def)             Requested size: 243.98238pt x 153.79088pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/bracelet_results.png, id=279, 1252.68pt x 967.615pt>
+File: images/bracelet_results.png Graphic file (type png)
+
+<use images/bracelet_results.png>
+Package pdftex.def Info: images/bracelet_results.png used on input line 333.
+(pdftex.def)             Requested size: 243.98238pt x 188.4553pt.
+ [7 <./images/bracelet_process.png (PNG copy)> <./images/bracelet_results.png (
+PNG copy)>]
+<images/pattern_examples.png, id=288, 1734.48pt x 1228.59pt>
+File: images/pattern_examples.png Graphic file (type png)
+
+<use images/pattern_examples.png>
+Package pdftex.def Info: images/pattern_examples.png used on input line 345.
+(pdftex.def)             Requested size: 243.98238pt x 172.80754pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+
+<images/screen_printing_process.png, id=290, 2522.42375pt x 1228.59pt>
+File: images/screen_printing_process.png Graphic file (type png)
+
+<use images/screen_printing_process.png>
+Package pdftex.def Info: images/screen_printing_process.png used on input line 
+353.
+(pdftex.def)             Requested size: 243.98238pt x 118.83565pt.
+
+
+LaTeX Warning: Reference `fig:screen results' on page 8 undefined on input line
+ 360.
+
+[8 <./images/pattern_examples.png (PNG copy)> <./images/screen_printing_process
+.png (PNG copy)>]
+<images/shirt_results.jpg, id=297, 2204.235pt x 1572.87625pt>
+File: images/shirt_results.jpg Graphic file (type jpg)
+
+<use images/shirt_results.jpg>
+Package pdftex.def Info: images/shirt_results.jpg used on input line 364.
+(pdftex.def)             Requested size: 243.98238pt x 174.09692pt.
+
+Underfull \vbox (badness 1418) has occurred while \output is active []
+
+ [9 <./images/shirt_results.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+ [10]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 
-Underfull \hbox (badness 2799) in paragraph at lines 463--469
+Underfull \hbox (badness 2799) in paragraph at lines 486--492
 []\OT1/ptm/m/n/10 All par-tic-i-pants felt com-pu-ta-tional and screen print-in
 g
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 501--506
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 538--539
-
- []
-
 [11]
+Underfull \hbox (badness 10000) in paragraph at lines 524--529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+[12]
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no œ in font ptmri7t!
@@ -549,7 +607,7 @@ Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no  in font ptmri7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 578--579
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
 
  []
 
@@ -559,14 +617,11 @@ Missing character: There is no œ in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no  in font ptmri7t!
-
-Underfull \vbox (badness 1122) has occurred while \output is active []
-
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no ¦ in font ptmri7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 601--602
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
 
  []
 
@@ -575,33 +630,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 601--602
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
-[12])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 648.
-
-Overfull \vbox (0.82745pt too high) has occurred while \output is active []
-
-
-[13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 648.
+[13])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 671.
+ [14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 671.
  (./dresscode.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 648.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 648.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 671.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 671.
 Package rerunfilecheck Info: File `dresscode.out' has not changed.
-(rerunfilecheck)             Checksum: 7584D7083ABA85BF4E5392EB9FD31B0E;3295.
+(rerunfilecheck)             Checksum: 48CB2976B99A44995064887484292D51;3293.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 648.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 671.
  ) 
 Here is how much of TeX's memory you used:
- 7643 strings out of 493311
- 109948 string characters out of 6137857
- 217626 words of memory out of 5000000
- 10877 multiletter control sequences out of 15000+600000
+ 7677 strings out of 493311
+ 110823 string characters out of 6137857
+ 215310 words of memory out of 5000000
+ 10901 multiletter control sequences out of 15000+600000
  38830 words of font info for 87 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,32p,2442b,1129s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,32p,2014b,1129s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{section*.49} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -642,10 +693,10 @@ t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts
 /urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on dresscode.pdf (13 pages, 1545729 bytes).
+Output written on dresscode.pdf (14 pages, 12108976 bytes).
 PDF statistics:
- 373 PDF objects out of 1000 (max. 8388607)
- 340 compressed objects within 4 object streams
- 97 named destinations out of 1000 (max. 500000)
- 394 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 387 PDF objects out of 1000 (max. 8388607)
+ 348 compressed objects within 4 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 419 words of extra memory for PDF output out of 10000 (max. 10000000)
 
