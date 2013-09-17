@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  17 SEP 2013 11:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  17 SEP 2013 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -424,11 +424,8 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 125.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-Underfull \vbox (badness 3492) has occurred while \output is active []
-
- [1{/Users/jenniferjacobs/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdftex
-.map}
+) [1{/Users/jenniferjacobs/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdfte
+x.map}
 
 
 Non-PDF special ignored!
@@ -436,11 +433,7 @@ Non-PDF special ignored!
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
-
-
-LaTeX Warning: Citation `the_craftsman' on page 2 undefined on input line 171.
-
-[2]
+ [2]
 Underfull \hbox (badness 10000) in paragraph at lines 201--203
 
  []
@@ -455,7 +448,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--212
 
  []
 
-<images/dresscode_interface.jpg, id=222, 1253.68375pt x 744.7825pt>
+<images/dresscode_interface.jpg, id=225, 1253.68375pt x 744.7825pt>
 File: images/dresscode_interface.jpg Graphic file (type jpg)
 
 <use images/dresscode_interface.jpg>
@@ -479,14 +472,14 @@ Underfull \hbox (badness 1454) in paragraph at lines 231--231
  / dresscode / index .
  []
 
-<images/graphic_tools.jpg, id=237, 770.88pt x 103.38625pt>
+<images/graphic_tools.jpg, id=239, 770.88pt x 103.38625pt>
 File: images/graphic_tools.jpg Graphic file (type jpg)
 
 <use images/graphic_tools.jpg>
 Package pdftex.def Info: images/graphic_tools.jpg used on input line 258.
 (pdftex.def)             Requested size: 243.98238pt x 32.72144pt.
  [4 <./images/graphic_tools.jpg>]
-<images/auto_generated_code.jpg, id=254, 1866.975pt x 993.7125pt>
+<images/auto_generated_code.jpg, id=256, 1866.975pt x 993.7125pt>
 File: images/auto_generated_code.jpg Graphic file (type jpg)
 
 <use images/auto_generated_code.jpg>
@@ -498,7 +491,7 @@ Package pdftex.def Info: images/auto_generated_code.jpg used on input line 268.
 LaTeX Warning: Reference `fig:declarative_view' on page 5 undefined on input li
 ne 274.
 
-<images/selection_mechanism.jpg, id=255, 2354.7975pt x 1182.4175pt>
+<images/selection_mechanism.jpg, id=257, 2354.7975pt x 1182.4175pt>
 File: images/selection_mechanism.jpg Graphic file (type jpg)
 
 <use images/selection_mechanism.jpg>
@@ -509,16 +502,14 @@ Package pdftex.def Info: images/selection_mechanism.jpg used on input line 278.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/stamps.jpg, id=257, 2003.485pt x 1442.38875pt>
+<images/stamps.jpg, id=259, 2003.485pt x 1442.38875pt>
 File: images/stamps.jpg Graphic file (type jpg)
  <use images/stamps.jpg>
 Package pdftex.def Info: images/stamps.jpg used on input line 288.
 (pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
 
-Underfull \vbox (badness 1515) has occurred while \output is active []
-
- [5 <./images/auto_generated_code.jpg> <./images/selection_mechanism.jpg> <./im
-ages/stamps.jpg>] [6] [7] [8]
+[5 <./images/auto_generated_code.jpg> <./images/selection_mechanism.jpg> <./ima
+ges/stamps.jpg>] [6] [7] [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -529,22 +520,36 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 
-[10]
-Underfull \hbox (badness 2799) in paragraph at lines 466--472
+Underfull \hbox (badness 2799) in paragraph at lines 463--469
 []\OT1/ptm/m/n/10 All par-tic-i-pants felt com-pu-ta-tional and screen print-in
 g
  []
 
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 501--506
 
-Underfull \vbox (badness 1655) has occurred while \output is active []
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--509
+Underfull \hbox (badness 10000) in paragraph at lines 538--539
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no œ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no  in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no œ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no  in font ptmri7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
 
  []
 
@@ -554,51 +559,46 @@ Missing character: There is no œ in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no  in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no € in font ptmri7t!
-Missing character: There is no œ in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no € in font ptmri7t!
-Missing character: There is no  in font ptmri7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--581
+Underfull \vbox (badness 1122) has occurred while \output is active []
 
- []
-
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no € in font ptmri7t!
-Missing character: There is no œ in font ptmri7t!
-Missing character: There is no â in font ptmri7t!
-Missing character: There is no € in font ptmri7t!
-Missing character: There is no  in font ptmri7t!
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no ¦ in font ptmri7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--604
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
 
  []
 
-[12] (./dresscode.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 650.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 650.
+(./dresscode.bbl
+
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
+
+[12])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 648.
+
+Overfull \vbox (0.82745pt too high) has occurred while \output is active []
+
+
+[13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 648.
  (./dresscode.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 650.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 650.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 648.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 648.
 Package rerunfilecheck Info: File `dresscode.out' has not changed.
-(rerunfilecheck)             Checksum: 64140424BFB8E1E188672AC4C9A6648A;3296.
+(rerunfilecheck)             Checksum: 7584D7083ABA85BF4E5392EB9FD31B0E;3295.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 650.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 648.
  ) 
 Here is how much of TeX's memory you used:
- 7640 strings out of 493311
- 109879 string characters out of 6137857
- 214545 words of memory out of 5000000
- 10876 multiletter control sequences out of 15000+600000
+ 7643 strings out of 493311
+ 109948 string characters out of 6137857
+ 217626 words of memory out of 5000000
+ 10877 multiletter control sequences out of 15000+600000
  38830 words of font info for 87 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,10n,32p,2442b,1129s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -642,10 +642,10 @@ t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts
 /urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on dresscode.pdf (13 pages, 1545718 bytes).
+Output written on dresscode.pdf (13 pages, 1545729 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
- 334 compressed objects within 4 object streams
- 95 named destinations out of 1000 (max. 500000)
+ 373 PDF objects out of 1000 (max. 8388607)
+ 340 compressed objects within 4 object streams
+ 97 named destinations out of 1000 (max. 500000)
  394 words of extra memory for PDF output out of 10000 (max. 10000000)
 

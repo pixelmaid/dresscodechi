@@ -1,16 +1,18 @@
 \newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
   \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
-\begin{thebibliography}{1}
-
-\bibitem{stemReport}
-{Report To The President. Prepare and Inspire: K-12 Education In Science,
-  Technology, Engineering and Math (STEM) for America's Future}.
-\newblock Tech. rep., Executive Office of the President, 09 2010.
+\begin{thebibliography}{10}
 
 \bibitem{rosner_craft_vs_design}
 Bean, J., and Rosner, D.
 \newblock Old hat: Craft versus design.
 \newblock In {\em Interactions Magazine} (2012).
+
+\bibitem{computational_thinking}
+Brennan, K., and Resnick, M.
+\newblock New frameworks for studying and assessing the development of
+  computational thinking.
+\newblock In {\em Proceedings of the Annual American Educational Research
+  Association} (Vancouver, Canada, 2012).
 
 \bibitem{dunn}
 Dunn, N.
@@ -32,6 +34,11 @@ McCullough, M.
 \newblock {\em Abstracting Craft: The Practiced Digital Hand}.
 \newblock The MIT Press, Cambridge, Massachusetts, 1996.
 
+\bibitem{stemReport}
+{Report To The President. Prepare and Inspire: K-12 Education In Science,
+  Technology, Engineering and Math (STEM) for America's Future}.
+\newblock Tech. rep., Executive Office of the President, 09 2010.
+
 \bibitem{reas}
 Reas, N., McWilliams, C., and LUST.
 \newblock {\em Form and Code: In Design, Art and Architecture, A Guide to
@@ -43,6 +50,11 @@ Resnick, M., and Silverman, B.
 \newblock Some reflections on designing construction kits for kids.
 \newblock In {\em Proceedings of the 2005 Conference on Interaction Design and
   Children} (2005).
+
+\bibitem{the_craftsman}
+Sennett, R.
+\newblock {\em The Craftsman}.
+\newblock Yale University Press, New Haven and London, 2008.
 
 \bibitem{zoran}
 Zoran, A., and Buechley, L.
