@@ -14,30 +14,33 @@ Brennan, K., and Resnick, M.
 \newblock In {\em Proceedings of the Annual American Educational Research
   Association} (Vancouver, Canada, 2012).
 
-\bibitem{dunn}
-Dunn, N.
-\newblock {\em Digital Fabrication in Architecture}.
-\newblock Laurence King Publishing LTD, London, England, 2012.
+\bibitem{spirogator}
+Hooper, P., and Freed, N.
+\newblock The spiro inquiry: exploring the application of an inquiry structure
+  for learning science content to teaching with a digital design fabrication
+  tool.
+\newblock In {\em IDC, AMC} (New York, 2013).
 
-\bibitem{maketolearn}
-Make to learn.
-\newblock \url{http://m2l.indiana.edu/}, 2013.
-\newblock (Accessed: 09/12/2013).
+\bibitem{flatcad}
+Johnson, G.
+\newblock Flatcad and flatlang: Kits by code.
+\newblock In {\em VL/HCC, IEEE,} (Herrsching am Ammersee, Germany, 2008).
 
-\bibitem{makerinitiatives}
-Maker education initiative.
-\newblock \url{http://http://makered.org/about/}, 2013.
-\newblock (Accessed: 09/12/2013).
+\bibitem{sketchit}
+Johnson, G.
+\newblock Sketch it, make it.
+\newblock \url{http://sketchitmakeit.com.}, 2012.
+\newblock (Accessed: 06/3/2013).
 
 \bibitem{abstracting_craft}
 McCullough, M.
 \newblock {\em Abstracting Craft: The Practiced Digital Hand}.
 \newblock The MIT Press, Cambridge, Massachusetts, 1996.
 
-\bibitem{stemReport}
-{Report To The President. Prepare and Inspire: K-12 Education In Science,
-  Technology, Engineering and Math (STEM) for America's Future}.
-\newblock Tech. rep., Executive Office of the President, 09 2010.
+\bibitem{processing}
+Processing.
+\newblock \url{ http://www.processing.cc.}, 2001.
+\newblock (Accessed: 06/3/2013).
 
 \bibitem{reas}
 Reas, N., McWilliams, C., and LUST.
@@ -50,6 +53,11 @@ Resnick, M., and Silverman, B.
 \newblock Some reflections on designing construction kits for kids.
 \newblock In {\em Proceedings of the 2005 Conference on Interaction Design and
   Children} (2005).
+
+\bibitem{sketchchair}
+Saul, G., Lau, M., Mitani, J., and Igarashi, T.
+\newblock Sketchchair: an all-in-one chair design system for end users.
+\newblock In {\em TEI, ACM} (Funchal, Portugal, 2011).
 
 \bibitem{the_craftsman}
 Sennett, R.
