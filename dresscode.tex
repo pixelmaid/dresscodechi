@@ -24,6 +24,8 @@
 \usepackage{url}   % llt: nicely formatted URLs
 \usepackage{listings}
 \usepackage{color}
+\usepackage[english]{babel}
+\usepackage{setspace}
 
 \definecolor{mygreen}{rgb}{0,0.6,0}
 \definecolor{mygray}{rgb}{0.5,0.5,0.5}
@@ -141,7 +143,7 @@ As researchers, we feel strongly that working with young people in making and te
 The combination of these disciplines raises many difficult questions. What are the important design principles to consider when creating programming environments for physical design? How do we compellingly link textual code with visual designs, and what are the appropriate intersection points between textual manipulation and visual manipulation? What support is required to help people move back and forth from programming to building real objects in a way that is comfortable, expressive, and pleasurable? How can we remove the technical challenges involved in translating code into an object that can be successfully built by hand, but still support a wide variety of design styles, aesthetics, and approaches? What values and concepts can people gain from creating artifacts in this manner, and how do they apply to other parts of a person's life? To explore these questions we developed a software tool called DressCode, to enable novice programers to participate in computational design. We designed and implementation of a set of craft activities in which high-school students designed artifacts in DressCode and then realized them in physical form through a combination of digital fabrication and hand craft. Throughout our description and analysis of these experiences, we discuss design factors that enable young people to use computation in ways that emphasize pleasure, exploration, and utility in the service of personal expression. We then describe how participating algorithmic craft creatively engages young people in intellectually during the activity, as well as providing motivation and inspiration for future forms of learning and creation. We conclude with a set of recommendations for the development of tools and activities for future forms of engagement in computational design and making.
 
 \section{Creative Properties of Algorithmic Craft}
-As individual disciplines, both computational design and physical craft have specific properties that support distinct forms of creation. In computational design, the abstract qualities of computer programming provide a powerful way of thinking about design. Although individual applications of computational design often consider material properties that are relevant to a specific domain, computational design does not possess an inherent connection to the material world. Conversely, hand craft is closely linked to materiality and the physical world. Digital fabrication provides a connection between the abstraction of computational design and the material domain of craft by converting digital concepts to physical forms. In the following section we briefly describe the properties of computational design and craft in greater detail and describe some forms of how digital fabrication can serve as a connection between them.
+As individual disciplines, both computational design and physical craft have specific properties that support distinct forms of creation. In computational design, the abstract qualities of computer programming provide a powerful way of thinking about design. Although individual applications of computational design often consider material properties that are relevant to a specific domain, computational design does not possess an inherent connection to the material world. Conversely, hand craft is closely linked to materiality and the physical world. Algorithimic craft provides a connection between the abstraction of computational design and the material domain of craft by converting digital concepts to physical forms. In the following section we briefly describe the properties of computational design and craft in greater detail and describe some forms of how digital fabrication can serve as a connection between them.
 
 \subsection{Properties of Computational Design}
 Although computational design can embody a range of practices, our use of the term refers the process of using computational processes to create visual forms and patterns. Because computational design usually requires the designer to write programs, it is possible to mistake the practice of computational design as a technical skill rather than a way of thinking \cite{reas}. While it is dependent on programing ability, computational design is better represented as a way of applying procedural thinking to a design task. Rather than producing specific design representations, the designer authors a set of rules that define a system capable of producing many outcomes. Designs are presented in abstract terms, resulting in the potential to create multiple variations that share a set of constraints. Through this abstraction, the following properties are possible:
@@ -298,48 +300,44 @@ Domain-specific software is an important component of engaging youth in algorith
 Learning components of activities relate to participants' understanding of the core affordances of computational design (precision, complexity, generativity, parameterization and documentation), and the values of craft (materiality, pleasure, unification of form and function and craftsmanship). Computational learning in algorithmic craft entails learning programing concepts\cite{computational_thinking}, including, sequences, data, loops, conditionals, operators and noise, and recognizing how these components relate to visual design objectives. Respectively, craft learning involves participants learning technical aspects of manual craft practices (jewelry making, screen printing, sewing), evaluating their computational designs in respect to the affordances and limits of these practices, and understanding the workflow in combining computational design and craft to produce a unified artifact. 
 
 \subsection{Creation}
-Creation components of activities emphasize practices that participants rely upon to successfully create finished algorithmic craft artifacts. Here we focus on \emph{iteration and repetition}, \emph{reusing and remixing}, and \emph{critique and debugging}. These components connect relate to Brennan's computational thinking practices, but are expanded to include mechanisms for successful craft practices. In practicing computational design, participants engage in a process of design iteration, wherein they approach a design solution through incremental steps. Iteration in the craft aspects of a project is better represented as repetition, where the objectives are simpler than in computational design objectives, but their successful execution requires repeated practice of nuanced manual skills. Reusing and remixing play key roles both in computational and craft aspects; example programs serve as starting points and references for novice designers, participants combine existing designs to produce something new, or borrow code from the designs of other participants. Parallels occur in craft, where participants duplicate and trade parts, produce multiple versions physical of a design, or incorporate found materials into their artifact. Problem solving in algorithmic craft occurs through critique and debugging. Designs and artifacts are ``debugged'' by peers and instructors in group critiques where the role of the group is to understand the creative goal of the maker, and offer advice on how they can reach that goal. Feedback is often simultaneously provided in the form of stylistic suggestions, technical tips on how modify the code of a design, and recommendations on how to improve aspects of a craft technique to achieve a better result.
+Creation components of activities emphasize practices that participants rely upon to successfully create finished algorithmic craft artifacts. Here we focus on \emph{iteration and repetition}, \emph{reusing and remixing}, and \emph{critique and debugging}. These components connect relate to Brennan's computational thinking practices, but are expanded to include mechanisms for successful craft practices. In practicing computational design, participants engage in a process of design iteration, wherein they approach a design solution through incremental steps. Iteration in the craft aspects of a project is better represented as repetition, where the objectives are simpler than in computational design objectives, but their successful execution requires repeated practice of nuanced manual skills. Reusing and remixing play key roles both in computational and craft aspects; example programs serve as starting points and references for novice designers, participants combine existing designs to produce something new, or borrow code from the designs of other participants. Parallels occur in craft, where participants duplicate and trade parts, produce multiple versions physical of a design, or incorporate found materials into their artifact.
 
 \subsection{Extension}
 Algorithimic craft activities emphasize forms of extension through \emph{reflection, sharing and connection}. Reflection occurs when participants examine what they have created and evaluate successes and challenges in its' production. Reflection is often facilitated by the process of sharing, where participants engage people outside the activity, by sharing the process behind their artifacts, and giving them as gifts. Participants also make connections with the skills, ideas and techniques they have learned with future objectives, in the form of more additional forms of computation they wish to explore, other craft and fabrication practices they want to learn, and future artifacts they plan to create. 
 
-\section{User Studies}
-To better understand young people's practices in algorithmic craft, and evaluate the effectiveness of DressCode, we developed two algorithmic craft activities that featured DressCode software as the primary design tool. Using these activities we conducted one preliminary study and one long-term study. The preliminary study consisted of a one-day workshop in which participants designed and fabricated leather wrist-cuffs. The long-term evaluation was conducted through a four-day workshop, divided between two consecutive weekends, in which participants created computational designs in DressCode and screen-printed them onto t-shirts. The preliminarily study used a version of DressCode that was absent of the graphic drawing tools, stamps and the declarative design view, whereas the long term study included the the full version of the software. This format allowed us to make comparisons between the experience of the participants who used graphic tools, versus the experience of those who relied solely on programing. 
+\section{User Study}
+To better understand young people's practices in algorithmic craft, and evaluate the effectiveness of DressCode, we conducted an algorithmic craft activity using DressCode as the primary design tool. The activity consisted of a four-day workshop, divided between two consecutive weekends, in which participants created computational designs in DressCode and screen-printed them onto t-shirts.
 
 \subsection{Evaluation Methods}
-The participants' experiences were evaluated through written surveys, interviews and group discussions. Pre-workshop surveys focused on participants' previous experience and attitudes towards programing, craft and design, how personally useful they felt programing to be, and how good of a tool they found it for creativity, personal expression. They also asked students to describe their views on design, programing and craft practices as they related to referencing examples, learning from other's work. Post-workshop surveys contained attitudinal questions that were matched to the pre-surveys, as well as a range of written questions asking the participants to describe their design process, their opinion on the success of their projects and their experience using DressCode. Interim surveys were also administered during the primary workshop following the first two days, and questioned the participants on experiences with DressCode programing language and graphic tools and how the combination of features hindered or supported the design process.
+The participants' experiences were evaluated through written surveys and group discussions. Pre-workshop surveys focused on participants' previous experience and attitudes towards programing, craft and design, how personally useful they felt programing to be, and how good of a tool they found it for creativity, personal expression. They also asked students to describe their views on design, programing and craft practices as they related to referencing examples, learning from other's work. Post-workshop surveys contained attitudinal questions that were matched to the pre-surveys, as well as a range of written questions asking the participants to describe their design process, their opinion on the success of their projects and their experience using DressCode. Interim surveys were also administered following the first two days, and questioned the participants on experiences with DressCode programing language and graphic tools and how the combination of features hindered or supported the design process. We held three group discussion with the participants at the start, middle and end of the workshop which were similarly recorded and transcribed. The discussions examined participants' design process, experience using DressCode in combination with craft practices, and ideas they had for modifying or augmenting future activities and software tools. In both the interviews and discussions, participants were also asked to describe what they enjoyed, what was difficult for them, and what they felt they had learned through this process. Survey results, verbal discussion responses and project outcomes were analyzed to identify repeated and notable elements of participants experiences, and how they connected to our original research objective of helping people connect to computation in ways that are relevant, personally meaningful and intellectually engaging.
 
-We also evaluated the workshops by engaging in discussions with participants. In-person interviews were conducted with the participants in the preliminary workshop. These interviews lasted an average of 10-20 minutes and were audio recorded and transcribed. During the interviews, the participants were asked to describe their artifact, and talk about the process of conceptualizing, designing, and producing it. In the primary study, we held three group discussion with the participants at the start, middle and end of the workshop which were similarly recorded and transcribed. The discussions examined participants' design process, experience using DressCode in combination with craft practices, and ideas they had for modifying or augmenting future activities and software tools. In both the interviews and discussions, participants were also asked to describe what they enjoyed, what was difficult for them, and what they felt they had learned through this process. Survey results, verbal interview and discussion responses and project outcomes were analyzed to identify repeated and notable elements of participants experiences, and how they connected to our original research objective of helping people connect to computation in ways that are relevant, personally meaningful and intellectually engaging.
-
-\subsection{Preliminary Study: Bracelets}
-The bracelet workshop was conducted among 10 young adults, aged 15-17, 20\% male and 80\% female. Of those surveyed, three participants had prior experience with Scratch, and two had worked briefly with the Arduino programming environment in a prior workshop. All participants said they had some prior experience in art, design, or craft. Prior to the workshop, 60\% of the participants indicated that they did not feel comfortable programming on their own; however, the majority indicated they were interested in learning more about the process. 
-
-During the workshop, participants used DressCode to design a pattern for a bracelet, laser-cut their patterns into leather and assembled the finished bracelet by hand (figure \ref{fig:bracelet_process}). The computational design in the preliminary study was structured around radial symmetry, and the majority of the resulting artifacts featured patterns that were derived from radially symmetric structures. Participants wrote their own radial symmetry algorithms, and were then provided with a template in DressCode that automatically clipped their designs to the dimensions of a cuff sized to their wrist. Participants were given two hours to design, and 3 hours to fabricate and assemble their piece. We periodically held in-progress critiques throughout the design period, and ended the activity with a final group show-and tell and reflection. 
-
-\begin{center}
-\begin{figure}[h!]
-\includegraphics[width=\columnwidth]{images/bracelet_process.png}
-\caption{Process of creating a bracelet using DressCode. (Clockwise from upper-left: digital design generated in DressCode, laser-cutting pieces from exported vector file, construction of bracelet by hand by adding fasteners and rounding edges, completed bracelet.)}
-\label{fig:bracelet_process}
-\end{figure}
-\end{center}
-
-\subsection{Preliminary Results}
-Each participant in the preliminary workshop was successfully able to use DressCode to produce a unique leather cuff (figure \ref{fig:bracelet_results}). The design approaches and aesthetics of participants varied greatly. Some cuffs were geometric, some were floral, and many styles were difficult to link back to the original radial algorithm. Each participant was able to write their own radial symmetry algorithm in the initial lesson and produce a variety of patterns with it. During the design portion, several participants extended the radial symmetry algorithm with additional design elements, however most participants designs relied exclusively on structures that were possible with radial symmetry. Eight of the participants said they planned to wear the bracelets they created, and two indicated that they planned to give them as gifts. A comparison of the
-pre-and post-workshop surveys demonstrated increased comfort with programming as a result of the activity. After the workshop, more participants indicated that they thought programming was a good tool for personal expression and design. All participants stated that they believed they could use programming to make things that were beautiful, whereas several had disagreed with this statement before the workshop. The majority of participants identified the programing portion as the most difficult component of the workshop, however the majority said they were interested in continuing to learn more about computational design for craft applications. 
-
-\begin{center}
-\begin{figure}[h!]
-\includegraphics[width=\columnwidth]{images/bracelet_results.png}
-\caption{Completed artifacts from the bracelet workshop.}
-\label{fig:bracelet_results}
-\end{figure}
-\end{center}
-
-\subsection{Primary Study: Screen Printing}
-The screen printing workshop was conducted among 7 young adults, aged 13-17, and one older participant, aged 21. Three participants were male and five were female. Participants for the workshop were deliberately selected to represent a range of programing and design experience. Two participants, (one being the oldest participant), were relatively experienced programers, having worked extensively with java, python and lua. Two participants considered themselves intermediate to novice programers with basic experience in Scratch, HTML, Python or App Inventor. Two other participants had prior exposure to Scratch, but had not worked with it extensively. One participant had no programing experience, but was interested in learning. Participants also varied on their prior experience with digital design software. Two indicated that they had no prior experience with design software, two had previously used the graphics editor in Scratch, three had used Adobe Illustrator or Photoshop, and one person was shown Solidworks in a summer course, but had limited experience with it. The majority of participants indicated they had a variety of prior crafting experience, including making jewelry, basic woodworking, sculpture and origami. One person had screen printed before using vinyl cut stencils. Interestingly, one participant also identified soldering a electronic synthesizer kit as a craft activity. Only one participant stated that they had no prior craft experience.
-
-Because the screen printing workshop occurred over a four-day period, it provided the opportunity to explore the computational design process in DressCode in greater depth, and allowed for the participants to engage in a more complex craft process: photo-emulsion based screen printing. Prior to the workshop, we had participants select t-shirts in a size and color of their preference. The first session of the workshop, we introduced participants to the concept of generative design, and demonstrated techniques for incorporating random elements into a pattern or graphic. We introduced participants to textual programing in DressCode by guiding them through writing their own random walk algorithms that produced patterns composed of lines. Following this, we explained the functionality of the graphic drawing tools, and had participants modify their random walk patterns by incorporating shapes they created graphically. The following session we discussed the general process of screen printing and demonstrated several other forms of generative design first we provided them with images of sample designs and had them work in groups to write a set of instructions that they thought would re-produce that design. As a group we discussed their results, and then demonstrated examples in DressCode that would produce similar results to the sample designs (figure:\ref{fig:example_designs}). 
+\subsection{Demographics of Participants}
+The screen printing workshop was conducted among 7 young adults, aged 13-17, and one older participant, aged 21, three male, five female. Participants for the workshop were deliberately selected to represent a range of programing, craft and design experience (table \ref{table:experience}). Participants also varied on their prior experience with digital design software. Two indicated that they had no prior experience with design software, two had previously used the graphics editor in Scratch, three had used Adobe Illustrator or Photoshop, and one person was shown Solidworks in a summer course, but had limited experience with it.
+\begin{table}
+  \centering
+  \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    \multicolumn{1}{|p{0.75cm}|}{\centering\tabhead{}} &
+    \multicolumn{1}{|p{1.3cm}|}{\centering\small{no experience (1)}} &
+    \multicolumn{1}{|p{0.75cm}|}{\centering\small{2}}&
+    \multicolumn{1}{|p{0.75cm}|}{\centering\small{3}}&
+    \multicolumn{1}{|p{0.75cm}|}{\centering\small{4}}&
+    \multicolumn{1}{|p{0.75cm}|}{\centering\small{expert (5)}}\\
+    \hline
+    \small{art} & 0 & 0 & 4 & 4 & 0\\
+    \hline
+    \small{craft} & 1 & 0 & 3 & 4& 0  \\
+    \hline
+	\small{programing} & 1 & 1 & 4 & 1& 1  \\
+    \hline
+	\small{design} & 0 & 2 & 3 & 3& 0  \\
+    \hline
+  \end{tabular}
+  \caption{Prior participant experience}
+\label{table:experience}
+\end{table}
+\subsection{Workshop Progression}
+Prior to the workshop, we had participants select t-shirts in a size and color of their preference. The first session of the workshop, we introduced participants to the concept of generative design, and demonstrated techniques for incorporating random elements into a pattern or graphic. We introduced participants to textual programing in DressCode by guiding them through writing their own random walk algorithms that produced patterns composed of lines. Following this, we explained the functionality of the graphic drawing tools, and had participants modify their random walk patterns by incorporating shapes they created graphically. The following session we discussed the general process of photo-emulsion screen printing and demonstrated several other forms of generative design. We provided them with images of sample designs and had them work in groups to write a set of instructions that they thought would re-produce that design. As a group we discussed their results, and then demonstrated examples in DressCode that would produce similar results to the sample designs (figure:\ref{fig:example_designs}). 
 \begin{center}
 \begin{figure}[h!]
 \includegraphics[width=\columnwidth]{images/pattern_examples.png}
@@ -357,7 +355,7 @@ Participants were then provided with the design task of creating a computational
 \end{center}
 
 \subsection{Screen Printing Results}
-Each participant in the primary workshop was successfully able to use DressCode to produce a design for their t-shirt (figure \ref{fig:screen results}). The design approaches among the participants varied. Two participants created designs that were derived from their random walk algorithms, one participant created a pattern by combining two of the example patterns and making adjustments, and one participant worked solely by modifying an example. Other participants designed patterns independent of the examples, including a generative landscape, a geometric spiraling pattern and a complex radial pattern comprised of overlapping lines. The screen printing process was extremely popular among the participants. Each person was successful in creating their screen, transferring their design to the screen and printing to the shirt, although one participant had to re-expose his screen because of errors in applying the emulsion. Several participants not only printed to the provided shirts, but also brought in additional garments to print on for friends and family. The participants requested to keep their screens following the workshop, and stated on the survey that they planned to continue making prints for themselves and others. All participants indicated that they planned to wear their shirts, and two participants contacted us via email following the workshop thanking us for the experience, and requesting tips on how to properly care for their garments. 
+Each participant in the primary workshop was successfully able to use DressCode to produce a design for their t-shirt (figure \ref{fig:screen_results}). The design approaches among the participants varied. Two participants created designs that were derived from their random walk algorithms, one participant created a pattern by combining two of the example patterns and making adjustments, and one participant worked solely by modifying an example. Other participants designed patterns independent of the examples, including a generative landscape, a geometric spiraling pattern and a complex radial pattern comprised of overlapping lines. Discuss importance of booleans. The screen printing process was extremely popular among the participants. Each person was successful in creating their screen, transferring their design to the screen and printing to the shirt, although one participant had to re-expose his screen because of errors in applying the emulsion. Several participants not only printed to the provided shirts, but also brought in additional garments to print on for friends and family. The participants requested to keep their screens following the workshop, and stated on the survey that they planned to continue making prints for themselves and others. All participants indicated that they planned to wear their shirts, and two participants contacted us via email following the workshop thanking us for the experience, and requesting tips on how to properly care for their garments. 
 
 \begin{center}
 \begin{figure}[h!]
@@ -369,186 +367,138 @@ Each participant in the primary workshop was successfully able to use DressCode 
 
 From survey data and group discussions, 3 participants found the screen printing portion to be most difficult, 3 found the programing to be the most difficult, and one was equally challenged by both portions. An evaluation of the pre, mid and post-workshop surveys demonstrated that following the screen printing, participants attitudes towards programing, design and craft, changed from what they were after the computational design sessions. In the majority of cases, this change was positive; participants indicated greater interest in learning programing in the future, a stronger belief that programing was a tool that they could create things they would use in their daily life, and greater comfort in programing on their own following the craft activity. Six of the eight participants stated that they liked their design better after printing it, and all participants stated that the process of screen printing had given them ideas for additional designs they would like to create with DressCode. For a minority of participants however, the difficulty of the craft portion seemed to result in a slightly diminished interest in combining craft and programing, and a diminished interest in craft in general. Participants were positive about the graphic tools, although they requested that their functionality be extended to incorporate a greater range of transformation methods (rotation, scaling, and boolean operations). All 8 participants said they would be interested in using DressCode for another activity, and the majority indicated that they would like to combine computational design with 3D printing, and 7 of 8 participants indicated they would like to continue using the programing language in particular.
 
-\section{Analysis and Discussion}
+\section{Discussion}
+In our discussion of the workshops we focus on three primary elements of the participants' experiences. First, we examine the successes and limits of the DressCode software, with an emphasis how people used the graphic drawing and manipulation functionality. Second, we evaluate participant's design practices and discuss how they connect to the  affordances algorithmic craft. Finally we consider what participants got out of the workshop, by describing participant reactions to their finished artifacts and evaluating how these artifacts resonate with participants' personal values and daily lives.
 
 \subsection{Design Principles for Combining Graphic Manipulation with Textual Programing}
-\textbf{how well did the software work?}
-The graphic drawing tools played a substantial role in the designs of most participants in the primary workshop. Out of the eight participants, five people strongly felt the graphic tools helped them create their design, two people were neutral, and only one person, the most experienced programer of the group, refrained from using them. A comparison of the finished products between the preliminary and primary user studies demonstrate that graphic drawing tools had an impact on the nature of the designs themselves. While the bracelets produced by the preliminary participants are comprised of different forms and patterns, the majority of them share stylistic properties. The graphic drawing tools in the primary study enabled participants to incorporate their personal drawing styles with the computational elements to produce a set of designs that were relied on similar or identical algorithims, but varied stylistically according to the drawing techniques of the creator. 
+	One of our primary research objectives was to develop techniques that were accessible while also supporting personal aesthetics and styles through computational design. Analysis of participants' use of DressCode indicates that for many people, the graphic tools were helpful in this regard. The graphic drawing tools were used in the majority of participants' designs (table \ref{table:graphic_tools}. 
 
-It is more difficult to accurately gauge the effect the drawing tools had on mitigating the difficulty of computational design for novice programmers from one workshop to the next. There are several indicators that suggest the tools provided greater degrees of accessibility and independence to the process of computational design. During the first session of the primary workshop, before the graphic tools were formally introduced, several participants independently started experimenting with them on their own. In the primary workshop, three people indicated that the graphic drawing tools also helped them to better understand the process of writing their program. Participants expanded on this idea during the discussion when they were asked if the tools helped them understand their code: 
+\begin{table}
+  \centering
+  \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    \multicolumn{1}{|p{0.75cm}|}{\centering\tabhead{}} &
+    \multicolumn{1}{|p{1cm}|}{\centering\small{str. disagree}} &
+    \multicolumn{1}{|p{0.8cm}|}{\centering\small{disagree}}&
+    \multicolumn{1}{|p{0.8cm}|}{\centering\small{neutral}}&
+    \multicolumn{1}{|p{0.8cm}|}{\centering\small{agree}}&
+    \multicolumn{1}{|p{0.8cm}|}{\centering\small{str. agree}}\\
+    \hline
+    \small{helped create design} & 0 & 1 & 1 & 3 & 2 \\
+    \hline
+    \small{helped understand program} & 0 & 0 & 5 & 3& 0  \\
+    \hline
+  \end{tabular}
+  \caption{participant survey responses on the role of graphic tools}
+\label{table:graphic_tools}
+\end{table}
+
+Participant responses on the survey and during discussion suggest the tools were accessible to use, and assisted many in understanding the functionality of their programs. Before the graphic tools were formally introduced, several participants independently started experimenting with them on their own. Several people also indicated that the graphic drawing tools also helped them to better understand the process of writing their program. Participants expanded on this idea during the discussion:
 \begin{quotation}
 \textit{I think that the way it already is, is pretty good. You find a tool, you draw on the canvas and it shows you the code, that's basically it.}
-\\Screen Printing Participant Z
+\\Participant Z
 \end{quotation}
 
 \begin{quotation}
 \textit{I think that having the drawing tools and having it also show the code there makes it so that you can see as you're doing it, like if you make a line from this point to this point to this point this is actually what the code is doing, so having a graphical side and having it auto update the code, and so it can show you that you want to work with the code you're learning as you're using the GUI too. So that people could try and say ok, if I can't do something with the graphical tools, let me try and manipulate the code. And then you already have some understanding because you've been using the graphical tools and it's been appearing over there the entire time.}
-\\Screen Printing Participant B
+\\Participant B
 \end{quotation}
 
-In comparison, participants in the preliminary workshop refrained from using any elements of DressCode prior to having formal instruction in them. Furthermore, a number of participants explicitly stated their preference for working with graphic forms of software in comparison to textual programing environments. One young woman described herself as a ``graphic software" person, and said that she felt that she naturally understood visual forms of manipulation as opposed to writing textual instructions in a program. 
+A visual examination of many of the finished products in the workshop demonstrates the impact the graphic drawing tools on the aesthetics of the designs themselves. The pen, and shape generation tools allowed participants to blend their personal drawing styles with computational elements, resulting in computational forms that reflected the drawing techniques of the creator. 
 
-Beyond facilitating the design process, the introduction of the graphic tools also resulted in a discussion among participants in the primary workshop about future paradigms for graphic design and programing tools. This discussion pointed to specific elements in the graphic tools that participants found confusing or helpful. Participants were unanimously agreed on the utility of the drawing tools, but requested that they be developed further to provide more sophisticated forms of drawing, control, and visual feedback. Below, a participants describes her issues with bezier curve tool:%maybe remove this part
+%put in image of heart and cloud
+
+Beyond facilitating the design process, the introduction of the graphic tools also resulted in a discussion among participants in the primary workshop about future paradigms for graphic design and programing tools. This discussion pointed to specific elements in the graphic tools that participants found confusing or helpful. Participants were unanimously agreed on the utility of the drawing tools, but requested that they be developed further to provide more sophisticated forms of drawing, control, and visual feedback. Incorporation of more sophisticated drawing tools would provide the opportunity for further personalization of computational forms.
+
+While the primitive drawing tools proved to be popular among the participants, several had difficulty with the move tool. From a development perspective, the move tool was challenging to implement because there were numerous possibilities on how it could be represented in the user's code. We implemented what we felt to be the simplest option (inserting a move statement for primitives with identifiers, or wrapping the declaration statement of un-identified primitives), but doing so required us to speculate about what would be most useful and intuitive for novice programmers. In practice, participants who had large numbers of primitives in their programs without identifiers found the move tool behavior confusing because it modified an existing statement in their program, rather than generating a new line of code. This frequently resulted in syntax errors when the participant then modified shape statement and omitted a parentheses or placed arguments in the incorrect portion of the statement. These issues make it clear that we should re-consider the functionality of the tool, however they also convey a general design principle for future tools. The fewer assumptions a tool has to make about the intentions of the user, the less likely it is that it will conflict with the user's coding and design process. Furthermore, the fewer the assumptions, the easier the tool will be to implement. We feel the creation of more sophisticated primitive generation tools is a form of low hanging fruit that will provide immediate benefits to the user's design process, whereas transformation tools require greater analysis on how to be implemented effectively. Participants responses in the discussion also demonstrated ways in which the tools had expanded their comprehension of the computational design process. One participant suggested adding an graphic erasing tool, which resulted in a conversation on how such a tool could be implemented:
+
 \begin{quotation}
-Screen Printing Participant L:\textit{ It would be a lot easier if it were like that with the points (referring to visual feedback as the individual points of the curve are placed)..you don't actually see the actual curve until you've made it.. [you should be able] to track how it would look like.}
+Participant M: \textit{[I want] an erasing tool, so you can erase the line kind of like in Sketchup.}  
+Participant Z: \textit{So if you erase one line, it becomes two lines...so it's going to generate the code for two lines?}
+Participant M: \textit{No like if you drew a line with the sidebar, and then you decided you didn't like, you don't have to go to the code, erase it and press play, you could just take the erase tool, click on it and then it goes away.}
+Participant Z:  \textit{No, what I mean is like if you just wanted to erase half?}
+Participant M: \textit{Or you could just drag the shapes and it just goes away.}
 \end{quotation}
 
-While the primitive drawing tools proved to be popular among the participants, several had difficulty with the move tool. From a development perspective, the move tool was challenging to implement in comparison to the drawing tools, because there were numerous possibilities on how it could be represented in the user's code. We chose what what we felt was the simplest option (inserting a move statement for primitives with identifiers, or wrapping the declaration statement of un-identified primitives), but in doing so, we were forced to guess about what would be most useful and intuitive for the user. In practice, participants who had large numbers of primitives in their programs without identifiers found the move tool behavior confusing because it modified an existing statement in their program, rather than generating a new line of code. This frequently resulted in syntax errors when the participant then modified shape statement and omitted a parentheses or placed arguments in the incorrect portion of the statement. The experience of the workshops makes it apparent that we should re-consider the functionality of the tool, however it also points to a general design principle for future tools. The fewer assumptions a tool has to make about the intentions of the user, the less likely it is that it will conflict with the user's coding and design process. Furthermore, the fewer the assumptions, the easier the tool will be to implement. We feel the creation of more sophisticated primitive generation tools is a form of low hanging fruit that will provide immediate benefits to the user's design process, whereas transformation tools require greater analysis on how to be implemented effectively. Participants responses in the discussion also demonstrated ways in which the tools had expanded their comprehension of the computational design process. One participant suggested adding an graphic erasing tool, which resulted in a conversation on how such a tool could be implemented:
-
-\begin{quotation}
-Screen Printing Participant M: \textit{[I want] an erasing tool, so you can erase the line kind of like in Sketchup.}  
-Screen Printing Participant Z: \textit{So if you erase one line, it becomes two lines...so it's going to generate the code for two lines?}
-Screen Printing Participant M: \textit{No like if you drew a line with the sidebar, and then you decided you didn't like, you don't have to go to the code, erase it and press play, you could just take the erase tool, click on it and then it goes away.}
-Screen Printing Participant Z:  \textit{No, what I mean is like if you just wanted to erase half?}
-Screen Printing Participant M: \textit{Or you could just drag the shapes and it just goes away.}
-\end{quotation}
-
-This discussion demonstrates a degree of sophistication in the participant's understanding of how the graphic tools would have to correspond to writing code. It also reinforces the previous point about the difficulty in making assumptions about individuals' design processes in the implementation of these tools. A similar discussion occurred around the topic of preserving generative forms. Participants had different ideas for how they would wanted to preserve static instances of randomly generated designs. Several participants used the static stamp tool for its intended purpose during the workshop, but others requested different forms of control over the randomly generated values. One participant wondered if they could have the software store the randomly created values for a specific program, and allow the user to specify the point at which new values would be generated. Building on this idea, we asked participants about if they would have preferred to specify random and noise generation through a form of graphic input similar to the graphic dialog tools, or if they felt creating random methods in the programing environment was useful. Two participants said they would prefer that as an option, however others disagreed, stating that they felt you would lose some of the functionality of the program in the process.
+This conversation reinforces the difficulty in making assumptions about individuals' design processes in the implementation of graphic tools. Moreover, this discussion shows the participants actively considering how new graphic tools could correspond to writing code. Conversations of this nature demonstrate how graphic tools can stimulate thinking about computational processes for young programmers, rather than making them opaque. During the workshop, a similar discussion occurred around the topic of preserving generative forms. Participants had different ideas for how they would wanted to preserve static instances of randomly generated designs. Several participants used the static stamp tool for its intended purpose during the workshop, but others requested different forms of control over the randomly generated values. One participant wondered if they could have the software store the randomly created values for a specific program, and allow the user to specify the point at which new values would be generated. Building on this idea, we asked participants if they would have preferred to specify random and noise generation through a form of graphic input similar to the graphic dialog tools, or if they felt creating random methods in the programing environment was useful. Two participants said they would prefer that as an option, however others disagreed, stating that they felt you would lose some of the functionality of the program in the process.
 \begin{quotation} 
 \textit{Well that would kind of take away from the programing part of it, because you'd be trying to turn everything into a UI.
 The important thing I really feel about DressCode is you can turn things like random, these are drawn (indicating a hand drawn graphic) and these are from the programing part (indicating the random repetition of the graphic), but in Illustrator it's just drawing, you can't have everything.}
-\\Screen Printing Participant Z
+\\Participant Z
 \end{quotation}
 
-The introduction of graphic manipulation tools in conjunction with textual programing demonstrated several key conclusions. Drawing tools proved to be largely intuitive and easy to use and they distinguished the participants' designs from one another, and from the work of participants in the prior workshop without the tools. The incorporation of personal drawing styles techniques relevant to the larger goal of algorithmic craft because it allows people create artifacts that are personally unique, and conform to the stylistic preferences of the individual who produced them. Furthermore, the evaluation of the tools by the participants demonstrated that the tools were assisted in communicating basic computational principles as evidenced by participants description of how they would want additional tools to function. Lastly, despite participant's requests for more sophisticated forms of transformation tools, we feel their implementation should be avoided until we can determine a successful design strategy for integrating them with the process of programing. 
+Understanding the creative potential of one's tools is essential for effective design. It is encouraging therefore, that many participants not only saw the value of the graphic tools, but also understood and embraced the applications of textual programming in combination with these tools. 
+
+The introduction of graphic manipulation tools in conjunction with textual programing demonstrated several conclusions. Drawing tools proved to be largely intuitive and easy to use and they distinguished the participants' designs from one another, and from the work of participants in the prior workshop without the tools. The incorporation of personal drawing styles techniques is highly relevant to our objectives in algorithmic craft, because it allows people create artifacts that are personally unique, and conform to the stylistic preferences of the individual who produced them. Furthermore, the evaluation of the tools by the participants demonstrated that the tools were assisted in communicating basic computational principles as demonstrated by participants description of how they would want additional tools to function. Lastly, despite participant's requests for more sophisticated forms of transformation tools, we feel their implementation should be tempered by careful consideration of a successful design strategy for integrating them with the process of programing. 
 
 \subsection{Algorithmic Crafting in Practice}
 \textbf{what did people actually end up doing?}
-\subsubsection{Awareness of creative opportunities}
-General increased awareness of programing as a graphic design tool by participants in both workshops
+If the graphic tools assisted with some of the technical challenges of algorithmic craft, we are still left with the questions regarding the actual practice of algorithmic craft. How did the experience affect participants perceptions towards computation and craft? Were individuals able to take advantages of computational design affordances in ways that connected to their personal design goals? What effect did our feedback mechanisms have on the success of people's projects? We begin our discussion of these components by describing changes in participants' perception. 
+
+Following the workshop, participants displayed an increased awareness of the design applications of programing. 
 \begin{quotation}
-	I never thought of using programming as a tool to help create a design. There are so many things you can design using programming languages.
+		\textit{I never thought of using programming as a tool to help create a design. There are so many things you can design using programming languages.}
+		\\Participant R
+		
+		\textit{I now know that there are so many more possibilities of programming because I've seen a connection.}
+		\\Participant J
+		
+		\textit{When I got the hang of [DressCode], I loved how much you could do with it. There's such a broad range of design possibilities, and with every new one you create, you learn more about the various tools and become more familiarized with DressCode.}
+		\\Participant E
 \end{quotation}
 
-More importantly, more nuanced understanding of the design process, and how computational design is a component.
-\begin{quotation}
-	\textit{When I got the hang of [DressCode], I loved how much you could do with it. There's such a broad range of design possibilities, and with every new one you create, you learn more about the various tools and become more familiarized with DressCode.}
-	\\screen printing participant E
-\end{quotation}
-
+More importantly, the participants demonstrated a nuanced understanding of the process of designing itself, and carefully considered how computation could play a role. 
 \begin{quotation}
 	\textit{Before I thought that design was relatively simple, but now I see that a lot of thought has to go into what you're making and the process of how to make it.}
-		\\screen printing participant E
+		\\Participant E
 	\end{quotation}
 
 \begin{quotation}
-	\textit{I've learned new controls like the random code and it's really just small steps and things I learn through dresscode that allow me to fully express my creative side and expand my knowledge of design.}
-	\\screen printing participant J
+	\textit{I've learned new controls like the random code and it's really just small steps and things I learn through DressCode that allow me to fully express my creative side and expand my knowledge of design.}
+	\\Participant J
 \end{quotation}
 
-\subsubsection{Design Processes}
-
-primarily trial and error in preliminary workshop
+A general perception of the applicability of programing to design is a fundamental step to participating in algorithmic craft. It is more challenging however for people to understand the specific affordances of computational design and incorporate them in their practice. The participants in the screen printing workshop performed even better than we hoped in this respect. A combined evaluation of their end products, and statements from the discussions and surveys points to the clear presence of the principles of computational design. When asked how using DressCode had changed his creative process, one participant responded that he was trying out ideas that were similar to work he had created before the workshop, but now had the opportunity to execute them with greater \textit{precision}. Another participant described her design process this way:
 \begin{quotation}
-\textit{``You just have to fool around with it until you like how it comes out."}
-\\Youth Participant G
+	\textit{It's very different- I draw everything, and I never could've created my design by hand.}
+	\\Participant J
 \end{quotation}
 
+Her description of her process, like her design itself \ref{emily_design} revolves around the idea of the \textit{visual complexity} that is enabled through computational iteration and repetition. Her design is also an example of \textit{remixing}, as she combined portions of the code from an example with a program she had written herself, making adjustments to both to produce a novel composition. Another participant incorporated aspects of a fellow participant's program into his own design by adding the code for the stars in the landscape design to his heart design. The landscape design serves as an example of the benefits of parameterization. In the last five minutes of the design session, the participant decided that a horizontal composition would look better on his t-shirt than a vertical one. Because he had defined variables for the random distribution of clouds, mountains and stars that corresponded to the width and height of the drawing board, when he resized his drawing board, the design was automatically re-generated to correspond to the new size. The participant stated in the survey that:
 \begin{quotation}
-Youth Participant S: \textit{``I just typed it in and started messing around with this, and then I gave it a go."}
-\\Interviewer: \textit{``How did you know you were done with it?"}
-\\Youth Participant S:\textit{`` I ran out of ideas."} 
+	\textit{[DressCode] made changes much easier to change, rather than redoing the entire design}
+	\\Participant R
 \end{quotation}
-
-Experimentation through trial and error can be a useful tactic; however too much reliance on this form of design can result in a diminished sense of accomplishment. One participant stated that he enjoyed the design process at first, but for him:
-
-	 \begin{quotation}
-	  \textit{``The more `trial and error" kind of ruined it a little. The more anyone messes up with anything it kind of takes away the fun from it of it. But then the end result made up for it."} \\Youth Participant N
-	 \end{quotation}
-
-Zeyu: It started off very randomly, but ideas started to form afterwards
-Beckett: I was experimenting with symmetry, how lines came together and got the idea.
-Roger: I decided I wanted to create a landscape kind of design.
-Luisa: I fiddled with the size, theta and the radius until I found a shape that I liked.
-Aleah: I tried to improve the previous design by adding features.
-Janice: It was one of the first things on my mind
-
-
-Embracing of computational principles
-Zeyu: similar ideas, but with better precision (precision)
+Generativity played a role in the majority of participants designs. All but two of them incorporated some form of noise in their code. Below, a participant with no prior programing experience describes her experience in using uniform noise in her design:
 \begin{quotation}
- \textit{``Basically with programming, it like- say I wanted to draw it by hand with the mouse- it would be a lot harder to make the image um , perfect's not the word..everything was scaled perfectly. Say you wanted certain shapes to be certain angles or certain sizes, if you were to code it, you can get it at the right angle, where if you were to draw it by hand, you wouldn't know what angle it is."}
- Inteviewer:\textit{`` So the precision?"}
-Youth Participant N: \textit{``Yes."}
+	\textit{The random thing.. if you made it random by hand then it wouldn't really be random, because you would just put it in a special place.. so the computer just has to choose where to put it.}
+		\\Participant M
 \end{quotation}
-Emily: It's very different- I draw everything, and I never could've created my design by hand (complexity)
-Beckett: [Dresscode] allowed me to see random patterns such as the one I made. I may have been able to otherwise, but I probably wouldn't have thought to. (generativty)
-On what they would still want to use programing for
-Miriram: The random thing – if you made it random by hand then it wouldn't really be random, because you would just put it in a special place- so the computer just has to choose where to put it.
-Roger: It made changes to me much easier to change rather than redoing the entire design (parameterization)
+The participant who created the randomized radial pattern was demonstrated the most elaborate use of generative design in the workshop. During the second critique, he presented 17 unique and complex patterns, solely comprised of overlapping lines. This astonished the other participants who were surprised to see that such variety could be produced by one algorithm. He described his process with DressCode in this way:
+\begin{quotation} [DressCode] allowed me to see random patterns such as the one I made. I may have been able to otherwise, but I probably wouldn't have thought to.
+		\\Participant B
+	\end{quotation}
 
-Challenges:
-Miriam struggling with gaussian distribution of dandelions (Creating Singularities)
-Roger trying to conceptualize process of creating a landscape (Formalizing complex problems)
+Aside from implementing specific affordances of computational design, participants also ran in to challenges that are particular to computational design. 
+One participant used gaussian noise to distribute elements of her design, but wanted to deviate from this structure at several key instances to produce an emphasis in her composition. In attempting to do so however, she struggled in determining how to have her algorithm deviate from the gaussian distribution and arbitrary points. Her struggles touch upon the larger challenge in computational design of creating singularities. Because computational design is governed by a systematized ruleset, the methods of breaking these rules at arbitrary points are often unclear or tedious to implement. Another challenge in computational design involves the process of formalizing complex problems. As design problems grow in complexity, formalizing the problem in a manner that can be expressed programmatically becomes increasingly difficult. The participant who created the generative landscape pattern wished to modify his design so that the distribution of the mountains, clouds and stars appeared more ``realistic''. He had difficulty reconciling his intuitive understanding of the qualities realistic landscapes with a set of formal properties that could be communicated through programing. Lastly, the the participant who created 17 instances of his design was challenged when it was time to choose a single instance to screen print with. Computational design gives the designer the ability to produce extremely large numbers of solutions to a single design problem. While this is useful in situations where multiple solutions are required, when a single design must be chosen, the process of deciding on a solution is difficult, especially if the decision is based on aesthetic criteria.
 
-
-\subsubsection{Craft and Computational Compatibility}
-All participants felt computational and screen printing worked well together
-All participants said that after screen printing they were more interested in computational design
-All participants stated that they would like to use computational design for screen printing in the future.
-All participants indicated that screen printing gave them additional ideas for things they would like to create with DressCode
-All participants felt DressCode worked well with screen printing
-Consideration of materials in design
+The challenges participants encountered in the design process were addressed primarily through two forms, individual instructor assistance and group critiques. Although instructor assistance was important to the success of the workshop, in many ways it mirrored instructor help in a general programing context and consisted of helping to correct syntax errors and pointing participants towards relevant programing methods. Here, we focus on the group critiques as the most interesting and novel form of design feedback that occurred in the workshop. As we explained to participants, in design critiques, the role of the group is to understand the creative goal of the designer, and offer advice on how they can reach that goal. Prior to the workshop, most participants had not participated in design critiques, and they were hesitant to criticize the work of their peers or offer suggestions. Through successive critique sessions participants gradually became more comfortable in voicing their opinions. By the end of the workshop, several participants stated that the critiques had helped to improve their design. For example:
 \begin{quotation}
-\textit{``I deliberately made it more delicate and feminine, because I'm putting it on black leather, I just made it a lot prettier- with thinner lines- I have more thin than thick."}
-\\Youth Participant J
-\end{quotation}
-Zeyu's heart placement
-\begin{quotation}
-\textit{``Well, I printed out the different widths of the line because if you're going to wear it, you want it to be durable. The thinness of it, I don't want it to be easily ripped, rather than if I was like a thing to hang on a wall, I could just do anything I wanted, because it's not like it's going to have to withstand any elements. And you want it to look nice because I care about what I wear, cause what you wear, you're presenting an image of yourself to people."}
-\\Youth Participant R
+	I started with a design I was ok with, but group critique and getting others' opinions helped me create a design I loved.
+	\\Participant E
 \end{quotation}
 
-\subsubsection{Personally-Relevant Computational Aesthetics}
-Beauty
-\begin{quotation}
-	\textit{Now I see that with programming I can make something beautiful.}
-	\\screen printing participant M
-\end{quotation}
-Complexity vs Simplicity
-\begin{quotation}
-\textit{``[My design] feels complicated and simple to me at the same time- it may seem simple to me because I know the rules behind it."}
-\\Youth Participant R.
-\end{quotation}
-Emergence of narrative in random structures
-Unexpectedly, aesthetic connotations converged in one participant's piece, and produced a personally relevant narrative:
-\begin{quotation}
-\textit{``The rose right there, and then the scientific part of it, those two things I like- nature and science, but sometimes nature conflicts with science. I want to do aerospace engineering when I get to college, but aerospace engineering conflicts with the environment in some ways, aerospace has to do with machines so that means a lot of gas is burning stuff like that. "}
-\\Youth Participant S.M.
-\end{quotation}
-Aleah's design, Emily's design
+During the critiques, designs were collectively ``debugged'' by the group. Feedback was often simultaneously provided in the form of stylistic suggestions and technical tips on how modify the code of a design to achieve the stylistic goal. In one instance, a participant noticed that the linear spiral pattern we were critiquing came close to producing a Moiré effect. The designer said that she had noticed the effect too, and wished to make it more apparent. As she demonstrated the code used to  create the pattern, and other participants began suggesting values she could modify to change the density of the lines and produce a more intense effect. Debugging often occurred in a craft context as well. When critiquing a design, participants considered the material limitations of screen printing, and offered suggestions on how to make a design correspond to these factors.
 
+Group critiques also applied well to the challenge of generative design selection. The critique provided the participant with 20 design instances with the opportunity to receive group suggestions on what his final design should be, while simultaneously stimulating a discussion on the challenges of generatively among the participants. Critiques in the workshop ended up serving a purpose beyond optimizing the designs of the participants. In the process of critiquing others' work, participants \emph{learned} from their peers about the computational approaches behind their designs, and \emph{thought about} the challenges and opportunities of this form of making.
 
-
-\subsubsection{Forms of knowledge Sharing in Algorithmic Fabrications}
-Levels of design- tinkering with examples to building from scratch\\
-Sharing code and sharing craft artifacts\\
-Teaching physical techniques\\
-Feedback Mechanisms
-Community Setting\\
- \begin{quotation}
-\textit{I enjoyed the people who participated in the program because they make the whole process really fun. I love the environment we worked in, everything around us is so fascinating.}
-\\Screen printing participant J
-\end{quotation}
-
-Digital Feedback mechanisms vs social feedback mechanisms (critique)\\
-Beckett with 20 different designs (Selecting a final design)
-Emily I started with a design I was ok with, but group critique and getting others' opinions helped me create a design I loved.
-Blurring the boundaries between technical programing advice and objective design criticism.
+As a whole, the workshop changed participants's perceptions of the creative affordances of programing by allowing them to produce their own computational designs. Through the production of these designs, participants demonstrated both the application and understanding of key computational design affordances. Finally, group critiques helped people to improve their designs, enabled them to learn from peers about computational processes, and provided the opportunity for intellectual discussion on the advantages and challenges of computational design in general.
 
 \subsection{Physical and Digital Notions of Value}
 \textbf{what mattered to people in the end?}
+\textcolor{red}{This section is not done.}
 Participants varied in both workshops on the elements of algorithmic craft they found to be the most difficult, as well as the parts they found most enjoyable. People in the bracelet workshop were unanimous in their identification of the programing component as the component that they found most frustrating.
- \begin{quotation}
-\textit{``The computer programming was enjoyable for me; however; it was a bit frustrating and confusing at times."}
-\\Bracelet Participant 123097f
-
-\textit{``[The programming] was fairly enjoyable, if arduous and frustrating. Once I figured out how to do it it wasn't too hard."}
-\\Bracelet Participant 100397c
-
-\textit{``It was alright except a bit hard to learn but once you know it its pretty much simple for the rest of the time."}
-\\Bracelet Participant 05231997
-\end{quotation}
+ 
 In comparison, the screen printing participants also found aspects of the programing challenging, but expressed a greater variety of between what they found to be difficult. Two people said the actual process of coding was most difficult, and another said that the process of understanding the concept behind her design was challenging. The remainder of the participants identified aspects of screen printing as the most challenging portion, such as preparing the screen, avoiding alignment issues, or printing without error.
 
 Screen printing, the first print had too little ink, the next one too much, and the third one came out and that was on my t-shirt so that was good.
@@ -558,11 +508,6 @@ Roger: I enjoyed being able to do things myself and get help when I needed. I fo
 
 %vs first workshop where people consistently found programing portion to be difficult
 %their perception of difficulty of programing increased following the workshop, but their desire to learn programing also increased directly following either the programming or craft portions.
-Added value of code-derived artifact.\\
- \begin{quotation}
-\textit{``You type it in and it brings it to life for you. You can do it on your own....you don't have to buy it. It's different than the casual way that somebody gets a bracelet."}
-\\Wrist Cuff Participant S
- \end{quotation}
 Added value as the result of physical labor.
 Does the difficulty of screen printing change how you feel about the piece
 Roger: It lets you take pride in it.
@@ -571,96 +516,58 @@ Luisa: After all this hard work, you have this
 Is that similar to the difficulty of programing
 I feel as though maybe like when you're programing stuff, you're on the computer but you're not using any physical work, but when you're screen printing there's the manual labor involved, so when you actually get something right it's I guess more gratifying, since you put like hard work, well you do put hard work into programing, but it's more a thinking thing, besides actual physical labor.
 
+subsubsection{Craft and Computational Compatibility}
+All participants felt computational and screen printing worked well together
+All participants said that after screen printing they were more interested in computational design
+All participants stated that they would like to use computational design for screen printing in the future.
+All participants indicated that screen printing gave them additional ideas for things they would like to create with DressCode
+All participants felt DressCode worked well with screen printing
+Consideration of materials in design
 
 Personal Accomplishment
-\begin{quotation}
- \textit{``I think [the programming] kind of reminded me of learning something difficult in like math, because I don't really like math, but when I figure out something, then I start doing it, and can do it and then I feel proud of myself"}
- \\Youth Participant C
-\end{quotation}
-
- \begin{quotation}
- Interviewer:  \textit{``What stands out to you about your design?"}
- \\Youth Participant S.M.: \textit{``That I actually created it. I'm not really a programming person, doing it and typing it out."}
- \end{quotation}
- 
- \begin{quotation}
-Youth Participant J: \textit{``It's on computers and I'm terrible at computers and for me to actually get something like this is really big."} 
-\\Interviewer:  \textit{``How do you feel about that?"}
-\\Youth Participant J:  \textit{``Really proud."}	
-\end{quotation}
-
-
 Uniqueness
-\begin{quotation}
-Youth Participant C: \textit{``You can't find it at American Eagle. I buy a lot of my bracelets there, and you can't just go there and find this. I think it's cool if someone were to say “Oh where did you get that from”, “You can't find it”. (Laughs)."}
-\\Interviewer:\textit{``You can say that you made it yourself, you love how it's unique?"}
-\\YouthParticipant C: \textit{``yeah"}
-\end{quotation}
 
-\subsection{Personal and Cultural Relevance in Algorithmic Craft}
-Aesthetics- enabled through code and graphic manipulation\\
-\begin{quotation}
-\textit{``Usually when you make something you're making it like “oh I hope society likes this” but this[making the bracelet] was about self satisfaction, so I don't have to take into consideration someone else's opinion."}
-\\Youth Participant S
-\end{quotation}
+\subsubsection{Personal and Cultural Relevance in Algorithmic Craft}
 
 cultural appropriateness of aesthetics (gender, youth)\\
-One other important element in the discussion of aesthetics is the social connotations of certain forms and patterns. Because I emphasized designs with radial symmetry in the workshops, many of the outcomes had a floral quality, although it was possible to create patterns without floral qualities by using other forms of repetition, and relying on polygon primitives rather than elliptical forms.  Despite this flexibility, several of the male participants in the youth workshop remarked on the feminine aesthetics of their finished pieces:
 
-\begin{quotation}
- \textit{``I put it on my wrist and I was like wow that's feminine. That's very feminine."} \\Youth Participant G
-\end{quotation}
-
-\begin{quotation}
- \textit{``I think it is beautiful for females. Not me. Because, I don't go that way. Because on a female's wrist it looks right… not on mine."}
- \\Youth Participant G
-\end{quotation}
-Utility- changes in understanding of applications of programming, design.
-Material importance
-entreprenuership
+entrepreneurship
 Open question of what the resultant product is. (screen? artifact? program?)
-
+Community Setting\\
+ \begin{quotation}
+\textit{I enjoyed the people who participated in the program because they make the whole process really fun. I love the environment we worked in, everything around us is so fascinating.}
+\\Participant J
+\end{quotation}
 
 Isolation\\
  \begin{quotation}
 \textit{Something I found really challenging was that many of the other participants already have lots more experience in this field than me so I kind of feel isolated and behind everyone else.}
-\\Screen printing participant J
+\\Participant J
 \end{quotation}
 
 
-\section{Recommendations for Future Design}
-\subsection{Transparency}
+\section{Recommendations for the Design of Future Algorithmic Craft Tools and Activities}
+Based on our evaluation of the workshop, we conclude with a set of recommendations for future work in developing activities and tools for algorithmic craft. 
+
 \begin{itemize}
-\item \textbf{Tools should support design techniques that demonstrate the benefits of computational design.} %Tools for algorithmic crafting should effectively communicate the affordances of computational design in ways that are accessible to new programmers. This goal can be achieved by providing programming examples that suggest design approaches or by creating built-in programming methods with compelling aesthetic potential. The radial symmetry algorithms in the DressCode study provide one example. By relying on radial symmetry as a design mechanism, participants were given a wide range of design possibilities in a format that was relatively easy to understand. Algorithms that produce spirals, waves, and basic fractals offer some possibilities for introducing new programmers to computational design. 
-				
-\item \textbf{The software interface should prioritize interaction through programming.} %Programming should be the chief method of generating and manipulating designs, and this focus should be reflected in the software interface. The visual design that is produced by the program should be persistent in the software interface and be rapidly updated to reflect changes in the user's code. Additional visual feedback through simulation of a finished artifact is also helpful as in the case of the 3D preview in Codeable Objects. It should be noted that this form of simulation presents a significant technical challenge for complex artifacts.
+\item \textbf{Tools should support design techniques that demonstrate the benefits of computational design.} Tools for algorithmic crafting should effectively communicate the affordances of computational design in ways that are accessible to new programmers by providing programming examples that suggest design approaches or by creating built in functionality with compelling aesthetic potential.
 
-\item \textbf{Programming languages should have a design-oriented programming syntax, developed with novice programmers in mind.} %Algorithmic crafting tools should have a programming syntax and API that is designed to accommodate individuals with no prior programming experience, rather than rely on a general-purpose programming language. The API should be limited to methods and structures relevant to the task of design. By providing users with a small set of useful programming methods that can be used to generate complex forms and patterns, it becomes feasible for novices to engage in intentional and independent computational design.
-\end{itemize}
-\subsection{Literacy}
-\begin{itemize}
-\item \textbf {Tools should reduce the technical challenges of fabrication.} %The software should include programming and drawing methods that allow for the production of designs that are suitable for digital fabrication and support for exporting to relevant file formats. The transition from the design tool to the fabrication device should require as few intermediary steps as possible. When possible, it is useful to incorporate methods that give assurance that the design will fabricate as desired. This may include merging all polygons of the same color into one complete path or automatically optimizing lines to increase fabrication speed. 
+\item \textbf{Programming languages should be augmented with visual feedback and intuitive drawing methods to support multiple forms of creation.} Algorithmic crafting tools should have a programming syntax and API that is designed to accommodate individuals with no prior programming experience, rather than rely on a general-purpose programming language. The API should be limited to methods and structures relevant to the task of design. By providing users with a small set of useful programming methods that can be used to generate complex forms and patterns, it becomes feasible for novices to engage in intentional and independent computational design.
 
-\item \textbf{Tools should be supported through fabrication and craft-specific documentation.} %In addition to the documentation of the application and programming language, the fabrication and crafting techniques intended for use with the software should be well-documented. This documentation should include an explanation of suitable materials, advice on digital fabrication access, specifications on machine use and settings, and tutorials describing craft components of example projects.
+\item \textbf{Tools should be supported through fabrication and craft-specific documentation.} In addition to the documentation of the application and programming language, the fabrication and crafting techniques intended for use with the software should be well-documented. This documentation should include an explanation of suitable materials, advice on digital fabrication access, specifications on machine use and settings, and tutorials describing craft components of example projects.
 
-\item \textbf{Activities should encourage discussion and group critiques of work, and when possible, use in-person facilitation and guidance.} %Algorithmic craft is a creative practice, not a technical exercise, and as such, it benefits from discussion among peers, critique, and reflection. With novice programmers, engagement in these reflective practices is best conducted in a group setting with some form of facilitation. Facilitators can simultaneously provide assistance by addressing coding errors, answering syntax questions, and offering aesthetic design advice. Group algorithmic crafting activities can also provide a casual social atmosphere that is conducive to hand-craft.
-\end{itemize}
-\subsection{Flexibility}
-\begin{itemize}
-\item \textbf{Activities should blend domain specificity with creative openness.} %Algorithmic craft tools should be able to support numerous creative applications which will encourage the creation of personally relevant, aesthetic outcomes. To encourage the creation of personally relevant aesthetics algorithmic craft tools should be open enough to support numerous creative applications. Algorithmic craft tools should be introduced in a way that provides users with a compelling motivation for their use. For first-time users, algorithmic craft activities should be constrained to the design of a limited set of end products, along with the potential for aesthetic variation. In more general design scenarios, it may be useful to engage designers by asking them to create artifacts that express a specific feeling or emotion, represent a character, or tell a story. Design briefs such as these may further people's awareness of the diverse applications of computational design and digital fabrication in the realm of self-expression.
+\item \textbf{Activities should encourage discussion and group critiques of work, and when possible, use in-person facilitation and guidance.} Algorithmic craft is a creative practice, not a technical exercise, and as such, it benefits from discussion among peers, critique, and reflection. With novice programmers, engagement in these reflective practices is best conducted in a group setting with some form of facilitation. Group algorithmic crafting activities can also provide a casual social atmosphere that is conducive to hand-craft.
 
-\item \textbf{ Software tools should be free and open-source.} %The software should be freely available and built to function on multiple platforms with low requirements for computational processing power/ These conditions afford high levels of access to casual users. If possible, the software should also be open source in order to encourage the proliferation of additional novice-oriented tools that can be developed for the specific needs of distinct user groups. 
-\end{itemize}
-\subsection{Specificity}
-\begin{itemize}
-\item \textbf{Materials matter.} %The use of rich, interesting materials greatly enriches the experience of algorithmic craft and contributes to the success of the finished artifacts. Raw materials like leather, wood, textiles, and art-quality paper complement the precision and complexity of computational design and digital fabrication. Combined in the hands of an engaged user, they can result in objects that are attractive and durable. Care should also be taken to demonstrate construction techniques that will hold up over time.
+\item \textbf{Activities should blend domain specificity with creative openness.} Algorithmic craft tools should be able to support numerous creative applications which will encourage the creation of personally relevant, aesthetic outcomes. To encourage the creation of personally relevant aesthetics algorithmic craft tools should be open enough to support numerous creative applications. Algorithmic craft tools should be introduced in a way that provides users with a compelling motivation for their use.
 
-\item \textbf{Select approaches with Craft and Computational Resonance} %ie screen printing and computational t-shirt design
+%\item \textbf{Select approaches with Craft and Computational Resonance} %ie screen printing and computational t-shirt design
 
-\item \textbf{Consider the cultural implications of algorithmic craft experiences.} %Because algorithmic craft can provide a form of self expression and communication, activities should aim to be mindful of the gender, age, cultural background, and social norms for participants. It is useful to engage with participants in a dialog about these topics and how they could be further supported in future algorithmic crafting experiences.
+\item \textbf{Materials matter.} The use of rich, interesting materials greatly enriches the experience of algorithmic craft and contributes to the success of the finished artifacts. Raw materials like leather, wood, textiles, and art-quality paper complement the precision and complexity of computational design and digital fabrication. Combined in the hands of an engaged user, they can result in objects that are attractive and durable. Care should also be taken to demonstrate construction techniques that will hold up over time.
+
+\item \textbf{Consider the cultural implications of algorithmic craft experiences.} Because algorithmic craft can provide a form of self expression and communication, activities should aim to be mindful of the gender, age, cultural background, and social norms for participants. It is useful to engage with participants in a dialog about these topics and how they could be further supported in future algorithmic crafting experiences.
 \end{itemize}
 
-\section{Conclusion}
+
 \balance
 
 % REFERENCES FORMAT
