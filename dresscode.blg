@@ -3,46 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: dresscode.aux
 The style file: acm-sigchi.bst
 Database file #1: dresscode.bib
-Warning--I didn't find a database entry for "pervasive_fab"
-You've used 12 entries,
+You've used 17 entries,
             2243 wiz_defined-function locations,
-            587 strings with 5580 characters,
-and the built_in function-call counts, 3090 in all, are:
-= -- 262
-> -- 134
+            612 strings with 6175 characters,
+and the built_in function-call counts, 4427 in all, are:
+= -- 374
+> -- 199
 < -- 0
-+ -- 58
-- -- 44
-* -- 167
-:= -- 519
-add.period$ -- 37
-call.type$ -- 12
-change.case$ -- 54
++ -- 85
+- -- 66
+* -- 245
+:= -- 744
+add.period$ -- 52
+call.type$ -- 17
+change.case$ -- 77
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 161
-empty$ -- 314
-format.name$ -- 44
-if$ -- 657
+cite$ -- 17
+duplicate$ -- 233
+empty$ -- 445
+format.name$ -- 66
+if$ -- 940
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 13
-newline$ -- 65
-num.names$ -- 24
-pop$ -- 111
+int.to.str$ -- 17
+missing$ -- 20
+newline$ -- 90
+num.names$ -- 34
+pop$ -- 157
 preamble$ -- 2
-purify$ -- 46
+purify$ -- 66
 quote$ -- 0
-skip$ -- 67
+skip$ -- 96
 stack$ -- 0
-substring$ -- 62
-swap$ -- 12
+substring$ -- 87
+swap$ -- 17
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 42
+type$ -- 58
 warning$ -- 0
-while$ -- 24
-width$ -- 14
-write$ -- 121
-(There was 1 warning)
+while$ -- 34
+width$ -- 19
+write$ -- 170

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.14)  18 SEP 2013 05:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  18 SEP 2013 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -442,10 +442,8 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 127.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-Underfull \vbox (badness 3240) has occurred while \output is active []
-
- [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+) [1{/Users/jenniferjacobs/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdfte
+x.map}
 
 
 Non-PDF special ignored!
@@ -453,179 +451,138 @@ Non-PDF special ignored!
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 151.
- [2]
 
-LaTeX Warning: Citation `pervasive_fab' on page 3 undefined on input line 191.
+Underfull \hbox (badness 1824) in paragraph at lines 197--198
+\OT1/ptm/m/n/10 on prin-ci-ples of con-struc-tion-ism and em-bod-i-ment [[][]10
+[][]].
+ []
 
-
-LaTeX Warning: Citation `papert' on page 3 undefined on input line 194.
-
-
-LaTeX Warning: Citation `resnick2' on page 3 undefined on input line 194.
-
-<images/dresscode_interface.jpg, id=157, 880.28876pt x 541.02126pt>
+[2] <images/dresscode_interface.jpg, id=164, 880.28876pt x 541.02126pt>
 File: images/dresscode_interface.jpg Graphic file (type jpg)
 
 <use images/dresscode_interface.jpg>
-Package pdftex.def Info: images/dresscode_interface.jpg used on input line 205.
+Package pdftex.def Info: images/dresscode_interface.jpg used on input line 208.
 
 (pdftex.def)             Requested size: 243.98238pt x 149.94942pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 206.
- [3 <./images/dresscode_interface.jpg>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 217.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 209.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 218.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 217.
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 218.
 
-Underfull \hbox (badness 1454) in paragraph at lines 217--217
-\OT1/ptm/m/n/9 at: [][]$\OT1/pcr/b/n/8 http : / / jacobsj . scripts . mit . edu
- / dresscode / index .
- []
+Underfull \vbox (badness 2401) has occurred while \output is active []
 
-<images/graphic_tools.jpg, id=172, 770.88pt x 103.38625pt>
+ [3 <./images/dresscode_interface.jpg>]
+<images/graphic_tools.jpg, id=181, 770.88pt x 103.38625pt>
 File: images/graphic_tools.jpg Graphic file (type jpg)
 
 <use images/graphic_tools.jpg>
-Package pdftex.def Info: images/graphic_tools.jpg used on input line 231.
+Package pdftex.def Info: images/graphic_tools.jpg used on input line 232.
 (pdftex.def)             Requested size: 243.98238pt x 32.72144pt.
- [4 <./images/graphic_tools.jpg>]
+
 <images/auto_generated_code.jpg, id=184, 1866.975pt x 993.7125pt>
 File: images/auto_generated_code.jpg Graphic file (type jpg)
 
 <use images/auto_generated_code.jpg>
-Package pdftex.def Info: images/auto_generated_code.jpg used on input line 242.
+Package pdftex.def Info: images/auto_generated_code.jpg used on input line 243.
 
 (pdftex.def)             Requested size: 243.98238pt x 129.85432pt.
 
 
-LaTeX Warning: Reference `fig:declarative_view' on page 5 undefined on input li
-ne 249.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fig:declarative_view' on page 4 undefined on input li
+ne 250.
 
 <images/selection_mechanism.jpg, id=185, 2354.7975pt x 1182.4175pt>
 File: images/selection_mechanism.jpg Graphic file (type jpg)
 
 <use images/selection_mechanism.jpg>
-Package pdftex.def Info: images/selection_mechanism.jpg used on input line 253.
+Package pdftex.def Info: images/selection_mechanism.jpg used on input line 254.
 
 (pdftex.def)             Requested size: 243.98238pt x 122.50664pt.
-
-<images/stamps.jpg, id=187, 2003.485pt x 1442.38875pt>
-File: images/stamps.jpg Graphic file (type jpg)
- <use images/stamps.jpg>
-Package pdftex.def Info: images/stamps.jpg used on input line 264.
-(pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
-
-[5 <./images/auto_generated_code.jpg> <./images/selection_mechanism.jpg> <./ima
-ges/stamps.jpg>] <images/pattern_examples.png, id=200, 1734.48pt x 1228.59pt>
-File: images/pattern_examples.png Graphic file (type png)
-
-<use images/pattern_examples.png>
-Package pdftex.def Info: images/pattern_examples.png used on input line 318.
-(pdftex.def)             Requested size: 243.98238pt x 172.80754pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/screen_printing_process.png, id=202, 2522.42375pt x 1228.59pt>
+ [4 <./images/graphic_tools.jpg> <./images/auto_generated_code.jpg> <./images/s
+election_mechanism.jpg>] [5]
+<images/screen_printing_process.png, id=204, 2522.42375pt x 1228.59pt>
 File: images/screen_printing_process.png Graphic file (type png)
 
 <use images/screen_printing_process.png>
 Package pdftex.def Info: images/screen_printing_process.png used on input line 
-327.
+329.
 (pdftex.def)             Requested size: 243.98238pt x 118.83565pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[6] <images/shirt_results.jpg, id=212, 2204.235pt x 1572.87625pt>
+<images/shirt_results.jpg, id=206, 2204.235pt x 1572.87625pt>
 File: images/shirt_results.jpg Graphic file (type jpg)
 
 <use images/shirt_results.jpg>
-Package pdftex.def Info: images/shirt_results.jpg used on input line 339.
+Package pdftex.def Info: images/shirt_results.jpg used on input line 341.
 (pdftex.def)             Requested size: 243.98238pt x 174.09692pt.
- [7 <./images/pattern_examples.png (PNG copy)> <./images/screen_printing_proces
-s.png (PNG copy)> <./images/shirt_results.jpg>]
-Overfull \hbox (3.8934pt too wide) in paragraph at lines 360--360
+ [6 <./images/screen_printing_process.png (PNG copy)> <./images/shirt_results.j
+pg>]
+Overfull \hbox (3.8934pt too wide) in paragraph at lines 362--362
  []\OT1/ptm/m/n/8 disagree| 
  []
 
 
-Overfull \hbox (27.85481pt too wide) in paragraph at lines 356--370
+Overfull \hbox (27.85481pt too wide) in paragraph at lines 358--372
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [8]
-Underfull \vbox (badness 1521) has occurred while \output is active []
-
-
 
 LaTeX Warning: Reference `emily_design' on page 9 undefined on input line 445.
 
-[9]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
-Underfull \hbox (badness 1584) in paragraph at lines 497--504
-[]\OT1/ptm/m/n/10 subsubsectionCraft and Com-pu-ta-tional Com-pat-i-bil-ity All
-
- []
-
-
-Underfull \vbox (badness 2617) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--515
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
-
- []
-
-[11] (./dresscode.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 552.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 552.
+ [9]
+[10] (./dresscode.bbl
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 539.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 539.
  (./dresscode.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 552.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 552.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 539.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 539.
 Package rerunfilecheck Info: File `dresscode.out' has not changed.
-(rerunfilecheck)             Checksum: 20EC2960462C6D3648B26887105A5A5D;2023.
+(rerunfilecheck)             Checksum: 0AF4ED93275A4A8D2A4DC53D2F8DEF7D;1922.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 552.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 539.
  ) 
 Here is how much of TeX's memory you used:
- 8006 strings out of 493311
- 115135 string characters out of 6137856
- 217844 words of memory out of 5000000
- 11243 multiletter control sequences out of 15000+600000
- 37592 words of font info for 83 fonts, out of 8000000 for 9000
+ 7994 strings out of 493311
+ 114894 string characters out of 6137857
+ 224657 words of memory out of 5000000
+ 11233 multiletter control sequences out of 15000+600000
+ 36375 words of font info for 82 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,11n,32p,1964b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.32} has been referenced but does not exi
+ 41i,11n,32p,1964b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.31} has been referenced but does not exi
 st, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.31} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.30} has been referenced but does not exist
 , replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.26} has been referenced but does not exist
@@ -654,14 +611,13 @@ live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
 e/2013/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2013/t
 exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fon
-ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
-rw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/u
-tmri8a.pfb>
-Output written on dresscode.pdf (12 pages, 10803459 bytes).
+st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on dresscode.pdf (11 pages, 7574134 bytes).
 PDF statistics:
- 295 PDF objects out of 1000 (max. 8388607)
- 262 compressed objects within 3 object streams
- 77 named destinations out of 1000 (max. 500000)
- 273 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 257 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
