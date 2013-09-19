@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  18 SEP 2013 17:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  18 SEP 2013 20:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -428,159 +428,161 @@ LaTeX Info: Redefining \nameref on input line 103.
 \@outlinefile=\write3
 \openout3 = `dresscode.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 127.
+LaTeX Font Info:    Try loading font information for U+msa on input line 122.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 127.
+LaTeX Font Info:    Try loading font information for U+msb on input line 122.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 127.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 122.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [1{/Users/jenniferjacobs/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdfte
-x.map}
+)
+Underfull \vbox (badness 1642) has occurred while \output is active []
+
+ [1{/Users/jenniferjacobs/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map}
 
 
 Non-PDF special ignored!
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 151.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 148.
 
-Underfull \hbox (badness 1824) in paragraph at lines 197--198
+Underfull \hbox (badness 1824) in paragraph at lines 194--195
 \OT1/ptm/m/n/10 on prin-ci-ples of con-struc-tion-ism and em-bod-i-ment [[][]10
 [][]].
  []
 
-[2] <images/dresscode_interface.jpg, id=164, 880.28876pt x 541.02126pt>
-File: images/dresscode_interface.jpg Graphic file (type jpg)
+[2] <images/auto_generated_code.jpg, id=168, 1064.97874pt x 548.0475pt>
+File: images/auto_generated_code.jpg Graphic file (type jpg)
 
-<use images/dresscode_interface.jpg>
-Package pdftex.def Info: images/dresscode_interface.jpg used on input line 208.
+<use images/auto_generated_code.jpg>
+Package pdftex.def Info: images/auto_generated_code.jpg used on input line 204.
 
-(pdftex.def)             Requested size: 243.98238pt x 149.94942pt.
+(pdftex.def)             Requested size: 243.98238pt x 125.55489pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 209.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 205.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 218.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 222.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
-(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 218.
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 222.
 
-Underfull \vbox (badness 2401) has occurred while \output is active []
+Underfull \vbox (badness 1629) has occurred while \output is active []
 
- [3 <./images/dresscode_interface.jpg>]
-<images/graphic_tools.jpg, id=181, 770.88pt x 103.38625pt>
+ [3 <./images/auto_generated_code.jpg>]
+<images/graphic_tools.jpg, id=184, 770.88pt x 103.38625pt>
 File: images/graphic_tools.jpg Graphic file (type jpg)
 
 <use images/graphic_tools.jpg>
-Package pdftex.def Info: images/graphic_tools.jpg used on input line 232.
-(pdftex.def)             Requested size: 243.98238pt x 32.72144pt.
+Package pdftex.def Info: images/graphic_tools.jpg used on input line 236.
+(pdftex.def)             Requested size: 182.98677pt x 24.54028pt.
 
-<images/auto_generated_code.jpg, id=184, 1866.975pt x 993.7125pt>
-File: images/auto_generated_code.jpg Graphic file (type jpg)
+<images/selection_mechanism.jpg, id=188, 2354.7975pt x 1182.4175pt>
+File: images/selection_mechanism.jpg Graphic file (type jpg)
 
-<use images/auto_generated_code.jpg>
-Package pdftex.def Info: images/auto_generated_code.jpg used on input line 243.
+<use images/selection_mechanism.jpg>
+Package pdftex.def Info: images/selection_mechanism.jpg used on input line 258.
 
-(pdftex.def)             Requested size: 243.98238pt x 129.85432pt.
+(pdftex.def)             Requested size: 243.98238pt x 122.50664pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<images/stamps.jpg, id=190, 2003.485pt x 1442.38875pt>
+File: images/stamps.jpg Graphic file (type jpg)
+ <use images/stamps.jpg>
+Package pdftex.def Info: images/stamps.jpg used on input line 270.
+(pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
 
-LaTeX Warning: Reference `fig:declarative_view' on page 4 undefined on input li
-ne 250.
-
-<images/selection_mechanism.jpg, id=185, 2354.7975pt x 1182.4175pt>
-File: images/selection_mechanism.jpg Graphic file (type jpg)
-
-<use images/selection_mechanism.jpg>
-Package pdftex.def Info: images/selection_mechanism.jpg used on input line 254.
-
-(pdftex.def)             Requested size: 243.98238pt x 122.50664pt.
- [4 <./images/graphic_tools.jpg> <./images/auto_generated_code.jpg> <./images/s
-election_mechanism.jpg>] [5]
-<images/screen_printing_process.png, id=204, 2522.42375pt x 1228.59pt>
+[4 <./images/graphic_tools.jpg> <./images/selection_mechanism.jpg> <./images/st
+amps.jpg>]
+<images/screen_printing_process.png, id=203, 2522.42375pt x 1228.59pt>
 File: images/screen_printing_process.png Graphic file (type png)
 
 <use images/screen_printing_process.png>
 Package pdftex.def Info: images/screen_printing_process.png used on input line 
-329.
+333.
 (pdftex.def)             Requested size: 243.98238pt x 118.83565pt.
-
-<images/shirt_results.jpg, id=206, 2204.235pt x 1572.87625pt>
+ [5 <./images/screen_printing_process.png (PNG copy)>] <images/shirt_results.jp
+g, id=213, 2204.235pt x 1572.87625pt>
 File: images/shirt_results.jpg Graphic file (type jpg)
 
 <use images/shirt_results.jpg>
-Package pdftex.def Info: images/shirt_results.jpg used on input line 341.
+Package pdftex.def Info: images/shirt_results.jpg used on input line 345.
 (pdftex.def)             Requested size: 243.98238pt x 174.09692pt.
- [6 <./images/screen_printing_process.png (PNG copy)> <./images/shirt_results.j
-pg>]
-Overfull \hbox (3.8934pt too wide) in paragraph at lines 362--362
+
+Overfull \hbox (3.8934pt too wide) in paragraph at lines 366--366
  []\OT1/ptm/m/n/8 disagree| 
  []
 
 
-Overfull \hbox (27.85481pt too wide) in paragraph at lines 358--372
+Overfull \hbox (27.85481pt too wide) in paragraph at lines 362--376
  [][] 
+ []
+
+[6 <./images/shirt_results.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 2469) in paragraph at lines 445--446
+\OT1/ptm/m/n/10 through com-pu-ta-tional it-er-a-tion and rep-e-ti-tion (see th
+e
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-
-LaTeX Warning: Reference `emily_design' on page 9 undefined on input line 445.
-
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1102) has occurred while \output is active []
 
  [9]
-[10] (./dresscode.bbl
+(./dresscode.bbl
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¡ in font ptmr7t!
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 539.
- [11]
+ [10]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 539.
  (./dresscode.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 539.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 539.
 Package rerunfilecheck Info: File `dresscode.out' has not changed.
-(rerunfilecheck)             Checksum: 0AF4ED93275A4A8D2A4DC53D2F8DEF7D;1922.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 4C7C1E00EC6F40A48F6C382C77637FEF;1947.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 539.
  ) 
 Here is how much of TeX's memory you used:
  7994 strings out of 493311
- 114894 string characters out of 6137857
- 224657 words of memory out of 5000000
- 11233 multiletter control sequences out of 15000+600000
+ 114808 string characters out of 6137857
+ 221220 words of memory out of 5000000
+ 11232 multiletter control sequences out of 15000+600000
  36375 words of font info for 82 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,11n,32p,1964b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.31} has been referenced but does not exi
+ 41i,11n,32p,1704b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.32} has been referenced but does not exi
 st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.31} has been referenced but does not exist
+, replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.30} has been referenced but does not exist
 , replaced by a fixed one
@@ -614,10 +616,10 @@ exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-di
 st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
 ype1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on dresscode.pdf (11 pages, 7574134 bytes).
+Output written on dresscode.pdf (10 pages, 7920910 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 257 compressed objects within 3 object streams
- 78 named destinations out of 1000 (max. 500000)
- 255 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 263 words of extra memory for PDF output out of 10000 (max. 10000000)
 
