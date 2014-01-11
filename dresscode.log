@@ -1,40 +1,38 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.5)  5 JAN 2014 18:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  6 JAN 2014 06:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **dresscode.tex
 (./dresscode.tex
 LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 21 languages loaded.
-(./sigchi.cls
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/epsfig.sty
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(./sigchi.cls (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
-
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count79
@@ -45,10 +43,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \epsfxsize=\dimen104
 \epsfysize=\dimen105
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
@@ -56,24 +54,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip41
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
 \ex@=\dimen106
 ))
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen107
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count80
@@ -135,61 +133,6 @@ Excerpts were taken from (Journal Style) 'esub2acm.cls'.
 \allauboxes=\dimen121
 \addauthors=\toks21
 \subtitletext=\toks22
-! Font \secfnt=phvb7t at 9.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.386 \newfont{\secfnt}{phvb7t at 9pt}
-                                                          % 05-16-2006 atd
-? 
-! Font \secit=phvbo7t at 9.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.387 \newfont{\secit}{phvbo7t at 9pt}
-                                                          % 05-16-2006 atd
-? 
-! Font \subsecfnt=phvro7t at 9.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.388 \newfont{\subsecfnt}{phvro7t at 9pt}
-                                                              % 05-16-2006 atd
-? 
-! Font \subsecit=phvr7t at 9.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.389 \newfont{\subsecit}{phvr7t at 9pt}
-                                                            % 05-16-2006 atd
-? 
-! Font \ttlfnt=phvb7t at 18.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.390 \newfont{\ttlfnt}{phvb7t at 18pt}
-                                                           % 05-16-2006 atd
-? 
-! Font \ttlit=phvbo7t at 18.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.391 \newfont{\ttlit}{phvbo7t at 18pt}
-                                                           % 05-16-2006 atd
-? 
-! Font \subttlfnt=phvr7t at 14.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.392 \newfont{\subttlfnt}{phvr7t at 14pt}
-                                                              % 05-16-2006 atd
-? 
-! Font \subttlit=phvro7t at 14.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.393 \newfont{\subttlit}{phvro7t at 14pt}
-                                                               % 05-16-2006 atd
-
-? 
-! Font \subttlbf=phvb7t at 14.0pt not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.394 \newfont{\subttlbf}{phvb7t at 14pt}
-                                                             % 05-16-2006 atd
-? 
 \savesection=\count95
 \sectioncntr=\count96
 \c@figure=\count97
@@ -202,7 +145,7 @@ LaTeX Warning: You have requested document class `sigchi',
                but the document class provides `chi2012'.
 
 Document Class: chi2012 2011/06/06 - V0.16
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/base/latexsym.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
@@ -234,86 +177,80 @@ Using 'Abbrev' bibliography style
 \acmcopyr=\toks33
 \boilerplate=\toks34
 \copyrightetc=\toks35
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen123
 )
-
-! LaTeX Error: File `balance.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/psnfss/times.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count109
 \lst@gtempboxa=\box29
 \lst@token=\toks36
 \lst@length=\count110
-\lst@currlwidth=\dimen123
+\lst@currlwidth=\dimen124
 \lst@column=\count111
 \lst@pos=\count112
-\lst@lostspace=\dimen124
-\lst@width=\dimen125
+\lst@lostspace=\dimen125
+\lst@width=\dimen126
 \lst@newlines=\count113
 \lst@lineno=\count114
 \abovecaptionskip=\skip46
 \belowcaptionskip=\skip47
-\lst@maxwidth=\dimen126
+\lst@maxwidth=\dimen127
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
 \c@lstnumber=\count115
 \lst@skipnumbers=\count116
 \lst@framebox=\box30
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2007/02/22 1.4 listings configuration
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
 ))
-Package: listings 2007/02/22 1.4 (Carsten Heinz)
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/color.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2013/05/16 v3.9f The Babel package
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/babel/babel.def
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2013/05/16 v3.9f Babel common definitions
 \babel@savecnt=\count117
-\U@D=\dimen127
+\U@D=\dimen128
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/setspace/setspace.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 Package color Info: Redefining color black on input line 33.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.s
-ty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/hobsub-generic.st
-y
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -353,25 +290,26 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2013basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen128
+\@linkdim=\dimen129
 \Hy@linkcounter=\count118
 \Hy@pagecounter=\count119
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count120
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -383,10 +321,10 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count121
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen129
+\XeTeXLinkMargin=\dimen130
 \Fld@menulength=\count122
-\Field@Width=\dimen130
-\Fld@charsize=\dimen131
+\Field@Width=\dimen131
+\Fld@charsize=\dimen132
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -403,12 +341,12 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver: hpdftex.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count126
 \c@bookmark@seq@number=\count127
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -418,7 +356,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 96.
 Package hyperref Info: Option `colorlinks' set `true' on input line 96.
 Package hyperref Info: Option `breaklinks' set `true' on input line 96.
- (./dresscode.aux)
+
+(./dresscode.aux)
 \openout1 = `dresscode.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
@@ -438,25 +377,26 @@ LaTeX Font Info:    ... okay on input line 103.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 103.
 
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count128
-\scratchdimen=\dimen132
+\scratchdimen=\dimen133
 \scratchbox=\box31
 \nofMPsegments=\count129
 \nofMParguments=\count130
 \everyMPshowfont=\toks37
 \MPscratchCnt=\count131
-\MPscratchDim=\dimen133
+\MPscratchDim=\dimen134
 \MPnumerator=\count132
 \makeMPintoPDFobject=\count133
 \everyMPtoPDFconversion=\toks38
-) (/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -464,18 +404,18 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \c@lstlisting=\count134
 \AtBeginShipoutBox=\box32
 Package hyperref Info: Link coloring ON on input line 103.
- (/usr/local/texlive/2013basic/texmf-dist/tex/latex/hyperref/nameref.sty
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/gettitlestring.st
-y
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count135
@@ -483,145 +423,31 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 103.
 LaTeX Info: Redefining \pageref on input line 103.
 LaTeX Info: Redefining \nameref on input line 103.
- (./dresscode.out) (./dresscode.out)
+
+(./dresscode.out) (./dresscode.out)
 \@outlinefile=\write3
 \openout3 = `dresscode.out'.
 
-Missing character: There is no D in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no Y in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
 LaTeX Font Info:    Try loading font information for U+msa on input line 122.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 122.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+lasy on input line 122.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/base/ulasy.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Missing character: There is no A in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no K in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no K in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no U in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no N in font nullfont!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
+
+
+LaTeX Warning: Citation `dewey' on page 1 undefined on input line 135.
 
 
 LaTeX Warning: Citation `buechley_wild' on page 1 undefined on input line 135.
@@ -630,136 +456,37 @@ LaTeX Warning: Citation `buechley_wild' on page 1 undefined on input line 135.
 LaTeX Warning: Citation `buechley_comptext' on page 1 undefined on input line 1
 35.
 
-Missing character: There is no C in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no V in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no U in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no U in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no T in font nullfont!
+
+LaTeX Warning: Citation `codeable_objects' on page 1 undefined on input line 13
+5.
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1{/usr/local/texlive/2013basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1{/Users/jenniferjacobs/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map}
 
 
 Non-PDF special ignored!
 
 ]
+Underfull \hbox (badness 1308) in paragraph at lines 141--141
+[][]\secfnt CREATIVE OP-POR-TU-NI-TIES IN COM-PU-TA-TIONAL DE-
+ []
+
 
 LaTeX Warning: Citation `mindstorms' on page 2 undefined on input line 142.
 
-Missing character: There is no C in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no n in font nullfont!
+
+LaTeX Warning: Citation `reas' on page 2 undefined on input line 142.
+
+
+LaTeX Warning: Citation `resnick1' on page 2 undefined on input line 161.
+
+
+LaTeX Warning: Citation `rosner_craft_vs_design' on page 2 undefined on input l
+ine 164.
+
 
 LaTeX Warning: Citation `dave' on page 2 undefined on input line 168.
 
@@ -779,50 +506,17 @@ Underfull \hbox (badness 1308) in paragraph at lines 168--170
 ional
  []
 
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no F in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no W in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no N in font nullfont!
+
+LaTeX Warning: Citation `abstracting_craft' on page 2 undefined on input line 1
+74.
+
+
+LaTeX Warning: Citation `the_craftsman' on page 2 undefined on input line 178.
+
 
 LaTeX Warning: Citation `ainsworth' on page 2 undefined on input line 182.
 
-<images/auto_generated_code.jpg, id=142, 1064.97874pt x 548.0475pt>
+<images/auto_generated_code.jpg, id=50, 1064.97874pt x 548.0475pt>
 File: images/auto_generated_code.jpg Graphic file (type jpg)
 
 <use images/auto_generated_code.jpg>
@@ -835,196 +529,212 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no R in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no O in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no s in font nullfont!
 
-Underfull \hbox (badness 1824) in paragraph at lines 203--204
-\OT1/ptm/m/n/10 on prin-ci-ples of con-struc-tion-ism and em-bod-i-ment [[][]10
-[][]].
+LaTeX Warning: Citation `papert' on page 2 undefined on input line 203.
+
+
+LaTeX Warning: Citation `resnick2' on page 2 undefined on input line 203.
+
+
+LaTeX Warning: Citation `processing' on page 2 undefined on input line 203.
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 203--204
+\OT1/ptm/m/n/10 on prin-ci-ples of con-struc-tion-ism and em-bod-i-ment [\OT1/p
+tm/b/n/10 ?\OT1/ptm/m/n/10 ].
  []
 
 [2]
-Missing character: There is no N in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no I in font nullfont!
+
+LaTeX Warning: Citation `sketchit' on page 3 undefined on input line 205.
+
+
+LaTeX Warning: Citation `sketchchair' on page 3 undefined on input line 205.
+
+
+LaTeX Warning: Citation `flatcad' on page 3 undefined on input line 205.
+
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 213.
 
- (/usr/local/texlive/2013basic/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
 (Font)              Font shape `OT1/pcr/b/n' tried instead on input line 213.
 
-! Font OT1/pcr/bx/n/8=pcrb7t at 8.0pt not loadable: Metric (TFM) file not found
-.
-<to be read again> 
-                   relax 
-l.213 ...ilable at: \url{ommitted for annonymity}}
-                                                  . The language supports co...
+Underfull \vbox (badness 7030) has occurred while \output is active []
 
-? 
-! Font \OT1/pcr/b/n/8=nullfont not loadable: Metric (TFM) file not found.
-<to be read again> 
-                   \relax 
-l.213 ...ilable at: \url{ommitted for annonymity}}
-                                                  . The language supports co...
+ [3 <./images/auto_generated_code.jpg>]
+<images/graphic_tools.jpg, id=70, 770.88pt x 103.38625pt>
+File: images/graphic_tools.jpg Graphic file (type jpg)
 
-? 
-! \textfont 0 is undefined (character o).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.213 ...ilable at: \url{ommitted for annonymity}}
-                                                  . The language supports co...
+<use images/graphic_tools.jpg>
+Package pdftex.def Info: images/graphic_tools.jpg used on input line 227.
+(pdftex.def)             Requested size: 182.98677pt x 24.54028pt.
 
-? 
-! \textfont 0 is undefined (character m).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.213 ...ilable at: \url{ommitted for annonymity}}
-                                                  . The language supports co...
 
-? 
-! \textfont 0 is undefined (character m).
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.213 ...ilable at: \url{ommitted for annonymity}}
-                                                  . The language supports co...
+LaTeX Warning: Reference `fig:graphic_tools' on page 4 undefined on input line 
+234.
 
-? 
-! Emergency stop.
-\Url@FormatString ...\Url@String \UrlRight \m@th $
-                                                  
-l.213 ...ilable at: \url{ommitted for annonymity}}
-                                                  . The language supports co...
-End of file on the terminal!
 
- 
+LaTeX Warning: Reference `fig:auto_generated_code' on page 4 undefined on input
+ line 234.
+
+
+LaTeX Warning: Reference `fig:declarative_view' on page 4 undefined on input li
+ne 245.
+
+<images/selection_mechanism.jpg, id=71, 2354.7975pt x 1182.4175pt>
+File: images/selection_mechanism.jpg Graphic file (type jpg)
+
+<use images/selection_mechanism.jpg>
+Package pdftex.def Info: images/selection_mechanism.jpg used on input line 249.
+
+(pdftex.def)             Requested size: 243.98238pt x 122.50664pt.
+
+
+LaTeX Warning: Reference `fig:stamps' on page 4 undefined on input line 256.
+
+<images/stamps.jpg, id=72, 2003.485pt x 1442.38875pt>
+File: images/stamps.jpg Graphic file (type jpg)
+ <use images/stamps.jpg>
+Package pdftex.def Info: images/stamps.jpg used on input line 261.
+(pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
+
+
+LaTeX Warning: Citation `computational_thinking' on page 4 undefined on input l
+ine 269.
+
+[4 <./images/graphic_tools.jpg> <./images/selection_mechanism.jpg> <./images/st
+amps.jpg>]
+
+LaTeX Warning: Reference `table:experience' on page 5 undefined on input line 2
+87.
+
+
+LaTeX Warning: Reference `fig:screen_printing_process' on page 5 undefined on i
+nput line 321.
+
+<images/screen_printing_process.png, id=84, 2522.42375pt x 1228.59pt>
+File: images/screen_printing_process.png Graphic file (type png)
+
+<use images/screen_printing_process.png>
+Package pdftex.def Info: images/screen_printing_process.png used on input line 
+324.
+(pdftex.def)             Requested size: 243.98238pt x 118.83565pt.
+
+
+LaTeX Warning: Reference `fig:screen_results' on page 5 undefined on input line
+ 332.
+
+
+Underfull \vbox (badness 1253) has occurred while \output is active []
+
+ [5 <./images/screen_printing_process.png (PNG copy)>]
+<images/shirt_results.jpg, id=97, 2204.235pt x 1572.87625pt>
+File: images/shirt_results.jpg Graphic file (type jpg)
+
+<use images/shirt_results.jpg>
+Package pdftex.def Info: images/shirt_results.jpg used on input line 336.
+(pdftex.def)             Requested size: 243.98238pt x 174.09692pt.
+
+
+LaTeX Warning: Reference `table:graphic_tools' on page 6 undefined on input lin
+e 349.
+
+
+Overfull \hbox (3.8934pt too wide) in paragraph at lines 357--357
+ []\OT1/ptm/m/n/8 disagree| 
+ []
+
+
+Overfull \hbox (27.85481pt too wide) in paragraph at lines 353--367
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `fig:screen_results' on page 6 undefined on input line
+ 382.
+
+[6 <./images/shirt_results.jpg>]
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+ [7]
+
+LaTeX Warning: Reference `fig:screen_results' on page 8 undefined on input line
+ 436.
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 436--437
+\OT1/ptm/m/n/10 through com-pu-ta-tional it-er-a-tion and rep-e-ti-tion (see th
+e
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+[9] (./dresscode.bbl
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 530.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 530.
+ (./dresscode.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 530.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 530.
+
+
+Package rerunfilecheck Warning: File `dresscode.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `dresscode.out':
+(rerunfilecheck)             Before: CFCDC6260E6374FF929B3FACB394D1CF;591
+(rerunfilecheck)             After:  FF81E234895283731911FD46108BA048;1902.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 530.
+ ) 
 Here is how much of TeX's memory you used:
- 7905 strings out of 494536
- 113881 string characters out of 6167447
- 212794 words of memory out of 5000000
- 10990 multiletter control sequences out of 15000+600000
- 23969 words of font info for 65 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 41i,10n,32p,1837b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 7973 strings out of 493311
+ 114545 string characters out of 6137857
+ 226013 words of memory out of 5000000
+ 11219 multiletter control sequences out of 15000+600000
+ 36375 words of font info for 82 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 41i,11n,32p,1837b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.9} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.4} has been referenced but does not exist,
+ replaced by a fixed one
+
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on dresscode.pdf (10 pages, 7919028 bytes).
+PDF statistics:
+ 190 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+
