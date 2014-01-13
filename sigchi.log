@@ -1,0 +1,41 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.5)  11 JAN 2014 15:56
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**sigchi.cls
+(./sigchi.cls
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 21 languages loaded.
+Document Class sigchi' <Oct 19, 2011>. Updated for chi 2012 based on chi2012.cl
+s by William Hudson and Jean-Daniel Fekete.
+Document Class `chi2011' <October 19, 2010>. Tweaked by Manas Tungare.
+Shamelessly copied from
+`chiproceedings' <7th Sep. '00>. Modified by Jan O. Borchers
+`acm_proc_article-sp' <2nd. October '02>. Modified by G.K.M. Tobin
+`acmconf' <22 May 89>. Hacked 4/91 by shivers@cs.cmu.edu, 4/93 by theobald@cs.m
+cgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+./sigchi.cls:158: You can't use `\spacefactor' in vertical mode.
+\@->\spacefactor 
+                 \@m 
+l.158 \@
+        ifundefined{footheight}{\newdimen\footheight}{}% this is for LaTeX2e
+? 
+./sigchi.cls:158: Emergency stop.
+\@->\spacefactor 
+                 \@m 
+l.158 \@
+        ifundefined{footheight}{\newdimen\footheight}{}% this is for LaTeX2e
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 9 strings out of 494536
+ 152 string characters out of 6167447
+ 46958 words of memory out of 5000000
+ 3357 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 5i,0n,1p,146b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+./sigchi.cls:158:  ==> Fatal error occurred, no output PDF file produced!

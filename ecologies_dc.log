@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  10 JAN 2014 17:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 JAN 2014 23:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -205,15 +205,15 @@ Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 \lst@maxwidth=\dimen127
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 \c@lstnumber=\count115
 \lst@skipnumbers=\count116
 \lst@framebox=\box30
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2013/08/26 1.5b listings configuration
+File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
-Package: listings 2013/08/26 1.5b (Carsten Heinz)
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -357,11 +357,7 @@ Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 96.
 Package hyperref Info: Option `colorlinks' set `true' on input line 96.
 Package hyperref Info: Option `breaklinks' set `true' on input line 96.
 
-(./ecologies_dc.aux
-
-LaTeX Warning: Label `fig:stamps' multiply defined.
-
-)
+(./ecologies_dc.aux)
 \openout1 = `ecologies_dc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
@@ -380,7 +376,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
 LaTeX Font Info:    ... okay on input line 103.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 103.
 
- (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -446,115 +443,228 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 122.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-<images/application_image_sm_content.jpg, id=64, 2568.59625pt x 1136.245pt>
-File: images/application_image_sm_content.jpg Graphic file (type jpg)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
 
-<use images/application_image_sm_content.jpg>
-Package pdftex.def Info: images/application_image_sm_content.jpg used on input 
-line 141.
-(pdftex.def)             Requested size: 512.1496pt x 226.55147pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 142.
 
-<images/graphic_tools.jpg, id=67, 436.63126pt x 153.57375pt>
-File: images/graphic_tools.jpg Graphic file (type jpg)
+LaTeX Warning: Citation `dewey' on page 1 undefined on input line 134.
 
-<use images/graphic_tools.jpg>
-Package pdftex.def Info: images/graphic_tools.jpg used on input line 151.
-(pdftex.def)             Requested size: 243.98238pt x 85.81323pt.
 
-Underfull \vbox (badness 2020) has occurred while \output is active []
+LaTeX Warning: Citation `buechley_wild' on page 1 undefined on input line 134.
 
- [1{/Users/jenniferjacobs/.texlive2013/texmf-var/fonts/map/pdftex/updmap/pdftex
-.map}
+
+Underfull \hbox (badness 1308) in paragraph at lines 140--140
+[][]\secfnt CREATIVE OP-POR-TU-NI-TIES IN COM-PU-TA-TIONAL DE-
+ []
+
+
+LaTeX Warning: Citation `mindstorms' on page 1 undefined on input line 141.
+
+
+LaTeX Warning: Citation `reas' on page 1 undefined on input line 141.
+
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 Non-PDF special ignored!
 
- <./images/graphic_tools.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+]
+
+LaTeX Warning: Citation `resnick1' on page 2 undefined on input line 160.
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 172--173
+LaTeX Warning: Citation `rosner_craft_vs_design' on page 2 undefined on input l
+ine 160.
+
+
+LaTeX Warning: Citation `grasshopper' on page 2 undefined on input line 170.
+
+
+LaTeX Warning: Citation `OpenScad' on page 2 undefined on input line 170.
+
+
+LaTeX Warning: Citation `tinkercad' on page 2 undefined on input line 172.
+
+
+LaTeX Warning: Citation `two_view_ui' on page 2 undefined on input line 175.
+
+
+LaTeX Warning: Citation `dreamweaver' on page 2 undefined on input line 175.
+
+
+LaTeX Warning: Citation `eclipse' on page 2 undefined on input line 175.
+
+
+LaTeX Warning: Citation `something else' on page 2 undefined on input line 175.
+
+
+
+LaTeX Warning: Citation `victor' on page 2 undefined on input line 175.
+
+
+LaTeX Warning: Citation `white' on page 2 undefined on input line 175.
+
+
+LaTeX Warning: Citation `ainsworth' on page 2 undefined on input line 175.
+
+
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [2]
+
+LaTeX Warning: Citation `codeable_objects' on page 3 undefined on input line 18
+0.
+
+<images/application_image_sm_content.jpg, id=209, 2568.59625pt x 1136.245pt>
+File: images/application_image_sm_content.jpg Graphic file (type jpg)
+
+<use images/application_image_sm_content.jpg>
+Package pdftex.def Info: images/application_image_sm_content.jpg used on input 
+line 187.
+(pdftex.def)             Requested size: 512.1496pt x 226.55147pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 188.
+
+<images/graphic_tools.jpg, id=212, 436.63126pt x 153.57375pt>
+File: images/graphic_tools.jpg Graphic file (type jpg)
+
+<use images/graphic_tools.jpg>
+Package pdftex.def Info: images/graphic_tools.jpg used on input line 197.
+(pdftex.def)             Requested size: 243.98238pt x 85.81323pt.
+ [3 <./images/graphic_tools.jpg>]
+Underfull \hbox (badness 1275) in paragraph at lines 218--219
 []\OT1/ptm/m/n/10 The draw-ing API is for-mu-lated on an Ob-ject Ori-ented
  []
 
 
-Underfull \vbox (badness 6961) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <./images/application_image_sm_content.jpg>]
-<images/stamps.jpg, id=93, 2003.485pt x 1442.38875pt>
+ [4 <./images/application_image_sm_content.jpg>]
+<images/stamps.jpg, id=227, 2003.485pt x 1442.38875pt>
 File: images/stamps.jpg Graphic file (type jpg)
  <use images/stamps.jpg>
-Package pdftex.def Info: images/stamps.jpg used on input line 182.
+Package pdftex.def Info: images/stamps.jpg used on input line 228.
 (pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
 
-[3 <./images/stamps.jpg>]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 208.
 
+LaTeX Warning: Reference `fig:auto_generated_code' on page 5 undefined on input
+ line 245.
 
-LaTeX Warning: Reference `fig:auto_generated_code' on page 4 undefined on input
- line 208.
+[5 <./images/stamps.jpg>]
 
-<images/selection_mechanism.jpg, id=101, 2354.7975pt x 1182.4175pt>
+LaTeX Warning: Citation `need citation' on page 6 undefined on input line 248.
+
+<images/selection_mechanism.jpg, id=234, 2354.7975pt x 1182.4175pt>
 File: images/selection_mechanism.jpg Graphic file (type jpg)
 
 <use images/selection_mechanism.jpg>
-Package pdftex.def Info: images/selection_mechanism.jpg used on input line 233.
+Package pdftex.def Info: images/selection_mechanism.jpg used on input line 252.
 
 (pdftex.def)             Requested size: 243.98238pt x 122.50664pt.
-File: images/stamps.jpg Graphic file (type jpg)
- <use images/stamps.jpg>
-Package pdftex.def Info: images/stamps.jpg used on input line 245.
-(pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-No file ecologies_dc.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
-
-Package balance Warning: You have called \balance in second column
-(balance)                Columns might not be balanced.
-
-[4 <./images/selection_mechanism.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
- (./ecologies_dc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 264.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 264.
+LaTeX Warning: Citation `information_ecologies' on page 6 undefined on input li
+ne 263.
 
 
-Package rerunfilecheck Warning: File `ecologies_dc.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: Citation `introductory_programing' on page 6 undefined on input 
+line 266.
 
-Package rerunfilecheck Info: Checksums for `ecologies_dc.out':
-(rerunfilecheck)             Before: 76AF4DDBC6427F8D7637B9E8077EB95D;892
-(rerunfilecheck)             After:  C15E81BD74398C374E4EA8C82F745EC0;1253.
+
+LaTeX Warning: Citation `learning_in_design' on page 6 undefined on input line 
+272.
+
+
+LaTeX Warning: Citation `computational_thinkng' on page 6 undefined on input li
+ne 272.
+
+
+LaTeX Warning: Citation `introductory_programming' on page 6 undefined on input
+ line 275.
+
+[6 <./images/selection_mechanism.jpg>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+
+LaTeX Warning: Citation `csiks' on page 7 undefined on input line 278.
+
+
+LaTeX Warning: Citation `introductory_programing' on page 7 undefined on input 
+line 281.
+
+
+LaTeX Warning: Citation `dave' on page 7 undefined on input line 284.
+
+
+LaTeX Warning: Citation `kit_of_no_parts' on page 7 undefined on input line 284
+.
+
+
+LaTeX Warning: Citation `jie' on page 7 undefined on input line 284.
+
+
+LaTeX Warning: Citation `leah_lilypad' on page 7 undefined on input line 284.
+
+(./ecologies_dc.bbl
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 10.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 10.
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+ [7])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+ [8
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
+
+(./ecologies_dc.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
+Package rerunfilecheck Info: File `ecologies_dc.out' has not changed.
+(rerunfilecheck)             Checksum: 771286E64B42E6DA6D832F76348CF963;2800.
+
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 264.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 319.
  ) 
 Here is how much of TeX's memory you used:
- 7821 strings out of 493311
- 112560 string characters out of 6137857
- 212660 words of memory out of 5000000
- 11126 multiletter control sequences out of 15000+600000
- 27866 words of font info for 55 fonts, out of 8000000 for 9000
+ 8005 strings out of 493315
+ 114930 string characters out of 6137904
+ 214949 words of memory out of 5000000
+ 11243 multiletter control sequences out of 15000+600000
+ 31693 words of font info for 71 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,32p,1444b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.18} has been referenced but does not exi
+ 41i,10n,32p,1697b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.46} has been referenced but does not exi
 st, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.7} has been referenced but does not exist,
- replaced by a fixed one
+pdfTeX warning (dest): name{section*.45} has been referenced but does not exist
+, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.6} has been referenced but does not exist,
+pdfTeX warning (dest): name{section*.39} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.33} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.24} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.12} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.7} has been referenced but does not exist,
  replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
@@ -564,16 +674,18 @@ pdfTeX warning (dest): name{section*.4} has been referenced but does not exist,
  replaced by a fixed one
 
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
-ve/2013/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013
-/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf
--dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/font
-s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/ur
-w/times/utmri8a.pfb>
-Output written on ecologies_dc.pdf (4 pages, 1380163 bytes).
+live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2013/texmf-di
+st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fon
+ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
+rw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on ecologies_dc.pdf (8 pages, 1425379 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 322 PDF objects out of 1000 (max. 8388607)
+ 297 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 365 words of extra memory for PDF output out of 10000 (max. 10000000)
 

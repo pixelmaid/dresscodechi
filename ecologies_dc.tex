@@ -102,7 +102,7 @@ breaklinks=true,
 % End of preamble. Here it comes the document.
 \begin{document}
 
-\title{DressCode: The Design of Computational Design Tool Through Information Ecology}
+\title{DressCode: Subtitle to come}
 
 \numberofauthors{3}
 \author{
@@ -130,9 +130,55 @@ breaklinks=true,
 
 \category{H.5.m.}{Information Interfaces and Presentation (e.g. HCI)}{Miscellaneous}
 
-\section{Introduction}
-\section{Background}
+\section{Introduction} %clean up to emphasize priorities #1 accessible computational design tools for young people, #2 relevant contexutalization of tools through activity design incorporating craft
+There is a growing emphasis on teaching young people skills in technological production to advance our societal technological progress. A common component of these learning initiatives is that they seek to provide students with skills for \textit{future} careers in technology. We believe in the value of working with young people in technological production, but draw upon Dewey's observation that education oriented towards future responsibilities can hinder active participation by students in the present \cite{dewey}. Furthermore, we recognize that limited participation in STEM fields by women and minorities is partly due to the perception that STEM applications themselves are constrained in cultural and intellectual diversity and breadth \cite{buechley_wild}. To successfully engage a diverse population of young people in technology-based creation requires two components. First we must develop tools that are accessible and appealing to then.  Second, we must apply these tools to forms of creation that are relevant to their \emph{current} lives and personal interests. Computational design provides an opportune space to achieve these objectives. Prior research has demonstrated that physical craft practices offer a compelling way to engage young people in computation. Building off of this work, we explored the application of novice-accessible computational design for craft through the creation of a stand-alone computational design software aimed at young novice programmers, and a activity design employing this tool in the production of wearable artifacts.
+
+The process of combining craft and computational design raises several important questions. Foremost, what are important design principles to consider when developing computational design tools for young people? What methods are helpful in ensuring accessibility, creative flexibility, and support of computational affordances? Furthermore, how can both the software and the activity structure reduce technical and conceptual challenges in translating a computational design into a viable physical artifact? Lastly, what values are reflected in this form of production, what range of young people are engaged by this form of making, and how are the resulting artifacts applicable to their lives?
+
+To explore these questions we have developed our own computational software, DressCode, which features linked editable representations between programing code and graphic drawing and manipulation. In the process of developing DressCode, we prototyped several specific craft activities in sewing, jewelery making and t-shirt design. We used this process as the basis for the development of an activity design which we evaluated in one preliminary and one long term workshop with high-school students where participants designed and produced jewelery and printed onto clothing. In this paper, we detail the features of the DressCode software, the principles of our computational activity design for young people, and our methodology and results from the workshops. Through analysis of these experiences, we describe design factors that enable young people to computation and making in ways that emphasize pleasure, exploration, intellectual engagement and utility in the service of personal expression. We conclude with a set of recommendations for the development of tools and activities for future forms of engagement in computational design and making.
+
+\section{Creative Opportunities in Computational Design}
+Papert and collaborators recognized early on that computer programing can serve as a way for children to learn powerful ideas about mathematics, geometry and logic \cite{mindstorms}. In computational design, programming provides a powerful way of thinking about design in direct relation to math and logic. Additionally, computational design offers a unique approach to the design process itself. Computational design is best represented as a way of applying procedural thinking to a design task. Designers author rules that define systems capable of producing many outcomes, enabling the production of  multiple design variations that share a set of constraints. Through this systematic abstraction, the following are possible \cite{reas}:
+\begin{itemize}
+\item \textbf{Precision:} Computation supports high levels of numerical precision.
+\vspace{-8pt}
+\item \textbf{Visual Complexity:} Computational design allows for rapid creation and transformation of complex patterns and structures, allowing for complex manipulations of numerous design elements.
+\vspace{-6pt}
+\item \textbf{Generativity:} Designers create algorithms that allow for the computer to autonomously produce unique and unexpected designs.
+\vspace{-6pt}
+\item \textbf{Parameterization:} Computation allows users to specify a set of degrees of freedom and constraints of a model and then adjust the values of the degrees of freedom while maintaining the constraints.
+\vspace{-6pt}
+\item \textbf{Remixing:} Computationally generated designs are created by a program which can be modified by other designers. 
+\end{itemize} 
+%Computational design also contains a number of unique challenges: bring these up in discussion
+%\begin{itemize}
+%\item \textbf{Formalizing complex problems} As design problems grow in complexity, formalizing the problem in a manner that can be expressed programmatically becomes challenging. 
+%\item \textbf{Creating singularities:} A designer will often choose to deviate from a set pattern or structure at specific points in order to create a special emphasis in the area of deviation. Because computational design is governed by a systematized ruleset, the methods of breaking these rules at arbitrary points are often unclear or tedious to implement. 
+%\item \textbf{Selecting a final design:} Computational design gives the designer the ability to produce extremely large numbers of solutions to a single design problem. While this is useful in situations where multiple solutions are required, when a single design must be chosen, the process of deciding on a solution is difficult, especially if the decision is based on aesthetic criteria.
+%\end{itemize}
+\subsection{Challenges in Access and Application}
+Although amatuer use of computational design growing, it remains largely inaccessible to individuals who are new to programing. This is in part due to practical and technical barriers. Many of the programming languages used for computational design are difficult for novices to learn and most novice oriented programming environments emphasize producing screen-based work rather than physical objects. Novice-oriented computer-aided-design (CAD) software emphasizes graphic interaction and seldom features computational methods as a key design tool. Significant perceptual barriers also exist. Many people consider programming to be irrelevant to their interests, and are unmotivated to pursue what they perceive to be a highly specialized and difficult undertaking \cite{resnick1}. There also are perceptions of technology in general which may engagement by people who are interested in making. Digital technology is often portrayed as reducing the need or desire for manual human labor, rather than supporting it in creative forms \cite{rosner_craft_vs_design}.
+
 \section{Related Work}
+We examined several fields of related software tools including learning-oriented programing environments, Computer Aided Design (CAD) tools with computational functionality, as well as digital design tools with linked forms of editing. We also considered prior research in combining craft, computational design for young people.
+
+\subsection{Learning Oriented Programing Environments}
+Logo is the seminal novice programming language founded on principles of constructionism and embodiment \cite{papert}. The Scratch programing environment was developed as a successor to Logo. Scratch is one of the most successful modern novice-oriented programming environments, and allows users to create interactive projects by combining command blocks \cite{resnick2}. Processing is a language and development environment for creating complex forms and animations. Described as an entry level programming environment, Processing has also become a successful professional computational design tool\cite{processing}. Although neither Logo, Scratch or Processing were explicitly created for compatibility with craft practices, they share features that enable creative programing by novices. They contain a simplified programming syntax, prioritize visual feedback, and are applicable to a diverse range of projects and interests.
+%discuss codeable objects
+
+\subsection{CAD tools with Computational Design Functionality} %make this about computational design tools for novices
+Arguably, computational design can be performed with any programming language that has the capability to output some form of graphic data. A number of CAD tools have been developed that explicitly feature computational design through programing. Most are designed for professional users. In Adobe software like Photoshop and Illustrator, it is possible to write Javascript-based programs to automate various application procedures. Similarly, 3D modeling tools such as Maya and Blender feature the ability to script behaviors in languages that are syntactically similar to Perl and Python, respectively. In all of these examples the programming interface is omitted from the primary interfaces of the application and must be deliberately activated by the user. Other computational design and CAD tools feature a more direct emphasis on programing in their interface. Grasshopper is data-flow programming environment that enables users to combine a variety of visual modules and blocks to create and adjust 3D models in Rhino \cite{grasshopper}, and DesignScript, an add-on to the Autodesk AutoCad software  that allows users to computationally create 3D architectural forms through a combination of associative and imperative programing paradigms in an effort to support a pedagogical transition between basic and advanced levels of programming \cite{DesignScript}. OpenSCAD is a script-based constructive solid-geometry modeling tool developed specifically for CAD applications. OpenSCAD contains a custom programming language in which the user can create descriptions of 3D models in a textual format and display them by compiling the script\cite{OpenScad}.
+
+Novice-oriented CAD tools with computational design features are rare, but some examples do exist. FlatCAD seeks to connect programming and digital fabrication, and allows users to build customized construction kits with a laser cutter by programming in FlatLang, a novice-oriented programming language modeled on Logo \cite{flatcad}. TinkerCad is 3D-modeling tool designed for entry level users to create forms for 3d printing. TinkerCAD recently added "shape scripts", functionality enabling the creation of javascript programs that produce 3D forms \cite{tinkercad}.
+
+\subsection{Linked Editors}
+Avrahami, Brooks and Brown demonstrated an early approach to a two-view system for designing user interfaces by combining a graphic editor with direct manipulation of interface elements with a special-purpose programming language. Interface designs can be edited in either view, and the changes are reflected in the other view \cite{two_view_ui}. Commercially, the two-view approach has been incorporated primarily into web editors \cite{dreamweaver}and UI design tools in software development kits \cite{eclipse}, \cite{something else}. Victor has convincingly advocated for the incorporation of a of forms of linked representations in a broad range of fields including circuit design, game development and graphic design. His approach has been to advocate through the development of demonstrative examples rather than functioning tools \cite{victor}. Educational researchers have also found multiple linked representations to be advantageous in supporting learning \cite{white}. When applied to the appropriate context, multiple external representations can reduce the amount of cognitive effort required to solve a problem, and often better communicate complex content \cite{ainsworth}.
+
+\subsection{Craft and Computing Research}
+Eisenberg and Buechley's research on pervasive fabrication provides a foundation for our objectives combining computational design and craft. Their research encompasses techniques and approaches for incorporating digital fabrication into educational settings, and describes how fabrication enables youth to decorate their environments, allows them to create novel artifacts in the service of personal expression, and stimulates intellectual development \cite{pervasive_fab}. 
+
+The development of DressCode is a direct successor to the research by Jacobs and Buechley on combining computational design and fashion. Jacobs and Buechley created a Processing-based programing library entitled Codeable Objects, to facilitate a series of workshops where young people produced fashion accessories and clothing by creating designs computationally and realizing them through a combination of digital fabrication and manual sewing and crafting \cite{codeable_objects}. Although our work is motivated by the rich engagement opportunities illustrated by Codeable Objects research, we are primarily interested developing a stand-alone design tool for novice computational design that combines textual programing with graphic drawing and manipulation. By developing a tool with linked representations, we seek to address the issues Jacobs and Buechley describe in their use of Processing with novice coders; including difficulties learning programing syntax, a frustration with the lack of visual feedback, and the need for frequent instructor assistance in technical programing tasks. 
+
 
 \section{Dress Code Software Description}
 DressCode is a 2D computational design tool that is distinguished by its support of \emph{linked editable representations} of a design in two forms: programmatic and graphic. As designs create and manipulate forms graphically, the software generates readable, editable programming expressions that correspond to their actions. designs can also generate graphic forms by writing programming expressions and manipulate these forms with the graphic editing tools. Here, we describe the interface and toolset of DressCode, the interaction paradigm by which a design creates a design, and the technical implementation that facilitates this paradigm.
@@ -195,38 +241,11 @@ First, we considered \textit{where} generated expressions appear within a progra
 \subsubsection{Reference}
 We also considered \textit{how} shapes should be referenced when transitioning between graphics and code. Similar to many functional programing languages, the DressCode language enables methods to be nested within one-another. Furthermore, there is no \textit{draw} method. Shapes that are initialized automatically appear in a design. Therefore there is a degree of flexibility and ambiguity for how a designer may employs identifiers in their code. In order to deal with this ambiguity when translating graphic actions to programmatic representations, we considered what would make a program most readable for a design. All graphic actions that create new shapes produce programmatic expressions that are automatically assigned an identifier. Subsequent transformation graphic actions will produce programmatic expressions that reference auto generated identifier on the following line. This produces code that while requiring more lines, is readable. In the case that the design problematically initializes a shape without an identifier and then transforms it graphically, the software will recognize the distinction and resort to wrapping the initialization expression in the appropriate transformation expression. if the design re-assigns or modifies the identifier of a shape through a programmatic action, future graphic actions on the shape will recognize this modification and use the new identifier.     
 
-\subsubsection{Declarative History}
-It was important to us that the \textit{history} of a design was also readable. Because the DressCode programing language employs a declarative paradigm, designs are represented as a series of the designs' actions, rather than a single state which is updated as changes are made. Therefore while a single shape in a design always has a current position, scale and rotation that determines how it is drawn at that point, the program of the design 
+\subsubsection{Imperative History}
+It was important to us that the steps used to arrive at a design were also readable. Because the DressCode programing language employs an imperative paradigm, designs are represented as a series of the designer's actions, rather than a single state which is updated as changes are made. We developed the linkages between graphic actions so that the programatic expressions also reflected the steps a designer made in the graphic interface. DressCode takes a verbose approach to generating programming expressions. For example, when a shape is moved with the move tool, a textual move expresssion is inserted into the designer's program. For all subsequent moves following the first move, rather than generate a successive string of additional move statements, the move expression is updated to reflect the new coordinates of the shape. However, if another tool is used to alter the shape, or a programatic expression is manually inserted by the designer to manipulate the shape, following the move statement, future actions with the move tool on the same shape will generate a new move statement, which will be subsequently updated until another tool is used (see Figure \ref{fig:auto_generated_code}).  This same logic applies to all other transformation tools in DressCode. We chose this structure, because it allows the program to preserve the designer's actions in the graphic panel as a series of discrete steps, thereby prodividng an opportunity  for the program to also serve as a means of reflection and evaluation on one's practice and design intentions. 
 
-
-Declarative highlighting
-
-
-why multiple expressions
-History is also maintained
-automatically generated identifiers
-When a primitive is moved for the first time, a textual move expression is inserted into the design's program. For all subsequent moves of that primitive with the move tool, the inserted move expression is updated to reflect the new coordinates of the primitive (see Figure \ref{fig:auto_generated_code}).
-%\subsubsection{Simplicity}
-
-%Primitives can be modified through two kinds transformation methods, geometric and stylistic. Geometric transformations allow for primitives to be rotated, scaled, moved or combined with other primitives through polygon boolean operations, (union, intersection, either-or and difference), and are performed relative to the origin of the primitive, unless otherwise specified. Stylistic transformations modify the appearance of a primitive (color and stroke weight).  By using the transformation methods to manipulate primitives it is possible to generate complex and generative designs from the repetition and structured distribution of simple forms. As a method of organizing sets of primitives, DressCode contains a group datatype, a specialized list for organizing and performing collective transformations on multiple primitives. Groups facilitate more advanced transformations including clipping masks and collective merge operations. When a primitive is moved for the first time, a textual move expression is inserted into the design's program. For all subsequent moves of that primitive with the move tool, the inserted move expression is updated to reflect the new coordinates of the primitive (see Figure \ref{fig:auto_generated_code}).
-
- 
-
-\subsection{Technical Implementation}
-Resolving conflicts between identifiers
-placing elements in loops and expressions
-handling functions
-
-%\begin{center}
-%\begin{figure}[h!]
-%\includegraphics[width=\columnwidth]{images/auto_generated_code.jpg}
-%\caption{Graphically created polygon, rectangle, and irregular polygon, and corresponding automatically-generated code. (The irregular polygon has just been moved with the selection tool.)}
-%\label{fig:auto_generated_code}
-%\end{figure}
-%\end{center}
-%\vspace{-20pt}
-
-The declarative view contains a listing of all primitives in the current design. Child primitives are nested within their parent groups. When selected in the declarative view, the primitive is selected and highlighted in the design view, and the line where the primitive was last modified in the text-editor is highlighted (see Figure \ref{fig:declarative_view}). The declarative view is designed to provide visual feedback on how elements of a design connect to the design's program, and provide a practical selection technique for complex designs.
+\subsection{Declarative Representations}
+Although DressCode relies on an imperative paradigm, we recognized that a state-based representation could provide a useful means of illuminating the connections between the visual design and the textual program. Specifically, it was important to help a designer determine what code in their program was affecting specific shape in their design. Contemporary programing environments now frequently employ debug tools that allow the user to step through their code in an effort to dechipher its effects \cite{need citation}. Similarly many code editors contain declarative listings of all of the methods and identifiers in a class, providing an alternatve means of navigating one's code. We combined these tools in a way that is specific to a tool for programing and graphic drawing. DressCode features a declarative view which contains a listing of all primitives in the current design. Child primitives are nested within their parent groups. When selected in the declarative view, the primitive is selected and highlighted in the design view, and the line where the primitive was last modified in the text-editor is highlighted (see Figure \ref{fig:declarative_view}). The declarative view is designed to provide visual feedback on how elements of a design connect to the design's program, and provide a practical selection technique for complex designs.
 
 \begin{center}
 \begin{figure}[h!]
@@ -237,24 +256,60 @@ The declarative view contains a listing of all primitives in the current design.
 \end{center}
 \vspace{-20pt}
 
-DressCode contains functionality to help people organize their code in the form of static and dynamic \textit{stamps}: graphically created functions that return shape primitives. Dynamic stamps are created by selecting a portion of code in a design's program and then selecting the dynamic stamp option from the menu. A dynamic stamp will package the selected code in a function with a name specified by the design. Static stamps are created by graphically selecting a single primitive or group with either the selection tool or the declarative view, and selecting the static stamp option. Static stamps translate shapes generated in random positions to explicit primitives, allowing designs to save a specific instances of a generative design (see Figure \ref{fig:stamps}).
-Stamps are listed in the stamp menu and can be added to a design's primary program by selecting the \textit{+} icon next to each stamp. The code of both static and dynamic stamps can be modified by the design as the code generated is human readable.
+\subsection{Technical Implementation}
+DressCode was developed as a Java-based application. The DressCode programming language is interpreted with semantic functionality that is simulated through a Java-based library. For most programs, interpretation is instantaneous; however, complex operations require several seconds to be executed. Here I can go into detail about how I built it, but maybe this is not important. If it is, I will write it later on. 
 
-\begin{center}
-\begin{figure}[h!]
-\includegraphics[width=\columnwidth]{images/stamps.jpg}
-\caption{Static stamp functionality. (Top: design defined code which generates five random ellipses. The ellipses' positioning and size will change each time the program is run. Bottom: static stamp created from ellipses which will always return the same design.)}
-\label{fig:stamps}
-\end{figure}
-\end{center}
-\vspace{-20pt}
-\section{Development Process}
-\subsection{Initial Development Objectives}
-\subsection{First Workshop}
-\subsection{Second Workshop}
+\section{Design Process}
+ Technology use in the real world can be understood from an ecological perspective, where people's activities and tools adjust and are adjusted to each other in a complex system of interactions between norms, technical functionality and cultural values \cite{information_ecologies}. We developed DressCode with the objective of better understanding how a computational design tool could be effectively situated within the everyday lives of young people. In addition, we wished to incorporate a specific set values into our tool design which are frequently absent from mainstream technological use. It was necessary therefore that our design process and evaluation methods allowed us to understand the context in which our tool might be applied in the real world, and what values were reflected by this use. Our design process was to develop DressCode in an iterative fashion by testing successive versions in workshops with young people where they used the tool in the context of hand-craft applications to produce a finished artifact for their personal use. Here we elaborate on the values and specific evaluation behind DressCode, demonstrate the rationale for applying DressCode to craft, and describe our workshop methodology.
+
+\subsection{Values and Evaluation Criteria}
+By evaluating prior research in youth engagement in computational tools \cite{computational_thinking}, \cite{introductory_programing}, in conjunction to our own research motivations described in the introduction, we outlined set of value categories for DressCode, and corresponding evaluation critera.
+
+\subsubsection{Accessibility}
+ Although perhaps obvious when developing tools for novice use, accessibility is of paramount importance. To evaluate the accessibility of DressCode, we were concerned with the following questions: Could young programmers use the tool with a high degree of independence? What forms of experimentation and exploration were demonstrated? Were components of the tool intuitive to use? What level of confidence did people express in their use of the tool?
+
+\subsubsection{Diversity}
+ Whether performed by experts or novices, individual approaches to design are incredibly subjective and diverse \cite{learning_in_design}. It is essential then that computational design tools afford a diversity of practices. Drawing from Brennan and Resnick, we wish to value diverse forms of computational practice. Are participants able to meaningfully apply computational constructs to their design objectives? Are they able to remix other people's designs? Are they able to critique other's designs and offer technical and aesthetic advice \cite{computational_thinkng}? Does use of the tool produce a wide variety of end products? Beyond a diversity of design practices, what forms of diversity are exhibited by the people who are interested in using the tool? %this last sentence could be much better
+
+\subsubsection{Relevancy}
+  Despite our belief that computation can serve as a valuable tool for personal expression, people who are new to computer science often view computer programing as irrelevant to their personal interests \cite{introductory_programming}. It is important that our approach with DressCode allows for a reconciliation between computational practices and the values and goals of young people. We wonder how  artifacts created with DressCode may be used in daily lives of the people who made them. How long are they kept and cared for by their makers? Further, how might the use of DressCode alter perspectives towards the creative applications of programing?
+
+\subsubsection{Engagement}
+Note: Improve this section. Csikszentmihalyi’s research has demonstrated the importance of personal motivation and enjoyment in high levels of achievement, particularly in the case of young people \cite{csiks}.  In developing our tool, we were concerned with specific behaviors that we believe could be used as indicators of a deep engagement in the creative application of computational tools. Do users of the tool demonstrate motivation to take on difficult tasks? Do participants take pride in their artifacts and exhibit care and attention to detail in their creation? Do people express an interest in future participation in similar activities? 
+
+\subsubsection{Social Connections}
+A common perspective of computer programing is that it is an asocial and solitary activity \cite{introductory_programing}. Because we recognize that social engagement is a core component of a young person's life, as well as a necessary element of creativity, we seek to promote forms of computational engagement that emphasize social connections, and evaluate DressCode by how it enables people to work together. In particular, we wish to foster forms of creation where the process of creating with others is a central component of an activity, leading to forms of social interaction with peers which are both pleasurable and productive. 
+
+\subsection{Craft Application}
+Craft based approaches offer powerful way to engage young people in computation, and in particular offer the opportunity to reach under-respresented demographics like young women. Most frequently, craft has been connected to electronics and physical computing enabling the integration of electronic actuation, sensing and interactivity into craft artifacts \cite{dave}, \cite{kit_of_no_parts}, \cite{jie}, \cite{leah_lilypad}. These combinations have been effective in enaging novice programers and non-traditional user groups. Inspired by this work, we chose to combine craft and computing in a different way, by developing tools to enable the computational design of the visual and physical forms of craft artifacts. We anticipated that this approach would allow for many of the rich properties of craft to be combined with the unique design principles of computational design. The properties of craft we are interested in are as follows:
+MAKE THESE SPECIFIC TO HOW THEY EXTEND COMPUTATIONAL DESIGN and factor into our original objectives (relevancy, accessibility, diversity, engagement)
+\subsection{Properties of Craft}
+\begin{itemize}
+\item \textbf{Materiality:} Craft involves working with physical materials by hand. Intuitive decisions are made while physically manipulating the material. 
+\vspace{-6pt}
+\item \textbf{Pleasure through physical labor:} Fundamental to traditional conceptions of arts and crafts is the idea of pleasure in working with one's hands \cite{abstracting_craft}.
+\vspace{-6pt}
+\item \textbf{Unification of form and function:} Many forms of craft can applied the creation of objects that merge ornamental and useful qualities.
+\vspace{-6pt}
+\item \textbf{Craftsmanship:} Traditional notions of craft are closely connected to the idea craftsmanship: the motivation to produce quality work for its own sake \cite{the_craftsman}.
+\end{itemize}
+
+
+\section{Workshops}
+\subsection{Workshop 1}
+\subsection{Workshop 1 Results}
+\subsection{Design Revisions}
+\subsection{Workshop 2}
+\subsection{Workshop 2 Results}
+
 \section{Discussion}
+\subsection{Accessibility}
+\subsection{Diversity}
+\subsection{Relevancy}
+\subsection{Engagement}
+\subsection{Social Connections}
+
 \section{Conclusion}
-\balance
 
 % REFERENCES FORMAT
 % References must be the same font size as other body text.
