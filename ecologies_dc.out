@@ -1,5 +1,5 @@
 \BOOKMARK [1][-]{section*.4}{Introduction}{}% 1
-\BOOKMARK [1][-]{section*.5}{Creative Opportunities in Computational Design}{}% 2
+\BOOKMARK [1][-]{section*.5}{Creative Affordances of Computational Design}{}% 2
 \BOOKMARK [2][-]{section*.6}{Challenges in Access and Application}{section*.5}% 3
 \BOOKMARK [1][-]{section*.7}{Related Work}{}% 4
 \BOOKMARK [2][-]{section*.8}{Learning Oriented Programing Environments}{section*.7}% 5
@@ -7,37 +7,35 @@
 \BOOKMARK [2][-]{section*.10}{Linked Editors}{section*.7}% 7
 \BOOKMARK [2][-]{section*.11}{Craft and Computing Research}{section*.7}% 8
 \BOOKMARK [1][-]{section*.12}{Dress Code Software Description}{}% 9
-\BOOKMARK [2][-]{section*.13}{System Overiew}{section*.12}% 10
+\BOOKMARK [2][-]{section*.13}{System Overview}{section*.12}% 10
 \BOOKMARK [2][-]{section*.14}{Linked Representations In Practice}{section*.12}% 11
 \BOOKMARK [2][-]{section*.15}{Symmetry}{section*.12}% 12
-\BOOKMARK [3][-]{section*.16}{Auto-generated programing expressions}{section*.15}% 13
-\BOOKMARK [3][-]{section*.17}{Static and Dynamic Generativity}{section*.15}% 14
-\BOOKMARK [2][-]{section*.18}{Readability}{section*.12}% 15
-\BOOKMARK [3][-]{section*.19}{Expression Insertion}{section*.18}% 16
-\BOOKMARK [3][-]{section*.20}{Reference}{section*.18}% 17
-\BOOKMARK [3][-]{section*.21}{Imperative History}{section*.18}% 18
-\BOOKMARK [2][-]{section*.22}{Declarative Representations}{section*.12}% 19
-\BOOKMARK [2][-]{section*.23}{Technical Implementation}{section*.12}% 20
-\BOOKMARK [1][-]{section*.24}{Design Process}{}% 21
-\BOOKMARK [2][-]{section*.25}{Values and Evaluation Criteria}{section*.24}% 22
-\BOOKMARK [3][-]{section*.26}{Accessibility}{section*.25}% 23
-\BOOKMARK [3][-]{section*.27}{Diversity}{section*.25}% 24
-\BOOKMARK [3][-]{section*.28}{Relevancy}{section*.25}% 25
-\BOOKMARK [3][-]{section*.29}{Engagement}{section*.25}% 26
-\BOOKMARK [3][-]{section*.30}{Social Connections}{section*.25}% 27
-\BOOKMARK [2][-]{section*.31}{Craft Application}{section*.24}% 28
-\BOOKMARK [2][-]{section*.32}{Properties of Craft}{section*.24}% 29
-\BOOKMARK [1][-]{section*.33}{Workshops}{}% 30
-\BOOKMARK [2][-]{section*.34}{Workshop 1}{section*.33}% 31
-\BOOKMARK [2][-]{section*.35}{Workshop 1 Results}{section*.33}% 32
-\BOOKMARK [2][-]{section*.36}{Design Revisions}{section*.33}% 33
-\BOOKMARK [2][-]{section*.37}{Workshop 2}{section*.33}% 34
-\BOOKMARK [2][-]{section*.38}{Workshop 2 Results}{section*.33}% 35
-\BOOKMARK [1][-]{section*.39}{Discussion}{}% 36
-\BOOKMARK [2][-]{section*.40}{Accessibility}{section*.39}% 37
-\BOOKMARK [2][-]{section*.41}{Diversity}{section*.39}% 38
-\BOOKMARK [2][-]{section*.42}{Relevancy}{section*.39}% 39
-\BOOKMARK [2][-]{section*.43}{Engagement}{section*.39}% 40
-\BOOKMARK [2][-]{section*.44}{Social Connections}{section*.39}% 41
-\BOOKMARK [1][-]{section*.45}{Conclusion}{}% 42
-\BOOKMARK [1][-]{section*.46}{REFERENCES }{}% 43
+\BOOKMARK [3][-]{section*.16}{Static and Dynamic Generativity}{section*.15}% 13
+\BOOKMARK [2][-]{section*.17}{Readability}{section*.12}% 14
+\BOOKMARK [3][-]{section*.18}{Readable Edits}{section*.17}% 15
+\BOOKMARK [3][-]{section*.19}{Readable References}{section*.17}% 16
+\BOOKMARK [3][-]{section*.20}{Readable Design Steps}{section*.17}% 17
+\BOOKMARK [2][-]{section*.21}{Declarative Representations}{section*.12}% 18
+\BOOKMARK [1][-]{section*.22}{Design Process}{}% 19
+\BOOKMARK [2][-]{section*.23}{Values and Evaluation Criteria}{section*.22}% 20
+\BOOKMARK [3][-]{section*.24}{Accessibility}{section*.23}% 21
+\BOOKMARK [3][-]{section*.25}{Diversity}{section*.23}% 22
+\BOOKMARK [3][-]{section*.26}{Relevancy}{section*.23}% 23
+\BOOKMARK [3][-]{section*.27}{Engagement}{section*.23}% 24
+\BOOKMARK [3][-]{section*.28}{Social Connections}{section*.23}% 25
+\BOOKMARK [2][-]{section*.29}{Craft Application}{section*.22}% 26
+\BOOKMARK [1][-]{section*.30}{Workshops}{}% 27
+\BOOKMARK [2][-]{section*.31}{Evaluation Methods}{section*.30}% 28
+\BOOKMARK [2][-]{section*.32}{Preliminary Study: Wrist cuffs}{section*.30}% 29
+\BOOKMARK [2][-]{section*.33}{Preliminary Results}{section*.30}% 30
+\BOOKMARK [2][-]{section*.34}{Design Revisions}{section*.30}% 31
+\BOOKMARK [2][-]{section*.35}{Primary Study: Screen Printing}{section*.30}% 32
+\BOOKMARK [2][-]{section*.36}{Screen Printing Results}{section*.30}% 33
+\BOOKMARK [1][-]{section*.37}{Discussion}{}% 34
+\BOOKMARK [2][-]{section*.38}{Notions of Value}{section*.37}% 35
+\BOOKMARK [2][-]{section*.39}{Social Connections}{section*.37}% 36
+\BOOKMARK [2][-]{section*.40}{Identity and Tool use}{section*.37}% 37
+\BOOKMARK [2][-]{section*.41}{Forms of diversity in computational design practice}{section*.37}% 38
+\BOOKMARK [2][-]{section*.42}{Linked Representations as a mechanism for Dialog}{section*.37}% 39
+\BOOKMARK [1][-]{section*.43}{Conclusion}{}% 40
+\BOOKMARK [1][-]{section*.44}{REFERENCES }{}% 41

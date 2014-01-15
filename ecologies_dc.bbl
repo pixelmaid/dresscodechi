@@ -2,18 +2,41 @@
   \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
 \begin{thebibliography}{10}
 
-\bibitem{buechley_wild}
-
-
 \bibitem{OpenScad}
 About, O.
 \newblock \url{http://www.openscad.org/about.html}, 2013.
 \newblock (Accessed: 06/3/2013).
 
+\bibitem{ainsworth}
+Ainsworth, S.
+\newblock Deft: A conceptual framework for learning with multiple
+  representations.
+\newblock {\em Learning and Instruction\/} (2006).
+
 \bibitem{DesignScript}
 Aish, R.
 \newblock {\em DesignScript: origins, explanation, illustration.}
 \newblock Springer, 2012.
+
+\bibitem{123D}
+AutoDesk.
+\newblock 123d.
+\newblock \url{http://www.123dapp.com/}, 2013.
+\newblock (Accessed: 06/21/2013).
+
+\bibitem{two_view_ui}
+Avrahami, G., Brooks, K.~P., and Brown, M.~H.
+\newblock A two-view approach to constructing user interfaces.
+\newblock In {\em Proceedings of the 16th Annual Conference on Computer
+  Graphics and Interactive Techniques}, SIGGRAPH '89, ACM (New York, NY, USA,
+  1989).
+
+\bibitem{bardzell}
+Bardzell, S., Rosner, D.~K., and Bardzell, J.
+\newblock Crafting quality in design: Integrity, creativity, and public
+  sensibility.
+\newblock In {\em Proceedings of the Designing Interactive Systems Conference}
+  (2012).
 
 \bibitem{rosner_craft_vs_design}
 Bean, J., and Rosner, D.
@@ -26,6 +49,20 @@ Brennan, K., and Resnick, M.
   computational thinking.
 \newblock In {\em Proceedings of the Annual American Educational Research
   Association} (Vancouver, Canada, 2012).
+
+\bibitem{lilypad}
+Buechley, L., Eisenberg, M., Catchen, J., and Crockett, A.
+\newblock The lilypad arduino: Using computational textiles to investigate
+  engagement, aesthetics, and diversity in computer science education.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, ACM (New York, NY, USA, 2008).
+
+\bibitem{buechley_wild}
+Buechley, L., and Hill, B.
+\newblock Lilypad in the wild: How hardware's long tail is supporting new
+  engineering and design communities.
+\newblock In {\em Proceedings of the 8th ACM Conference on Designing
+  Interactive Systems}, DIS '10 (New York, NY, USA, 2010), 199--207.
 
 \bibitem{dewey}
 Dewey, J.
@@ -49,20 +86,41 @@ Johnson, G.
 \newblock Flatcad and flatlang: Kits by code.
 \newblock In {\em VL/HCC, IEEE,} (Herrsching am Ammersee, Germany, 2008).
 
+\bibitem{view_based}
+Li, P., and Wohlstadter, E.
+\newblock View-based maintenance of graphical user interfaces.
+\newblock In {\em Proceedings of the 7th International Conference on
+  Aspect-oriented Software Development}, AOSD '08, ACM (New York, NY, USA,
+  2008).
+
 \bibitem{abstracting_craft}
 McCullough, M.
 \newblock {\em Abstracting Craft: The Practiced Digital Hand}.
 \newblock The MIT Press, Cambridge, Massachusetts, 1996.
+
+\bibitem{information_ecologies}
+Nardi, B., and O'Day, V.
+\newblock {\em Information ecologies: using technology with heart}.
+\newblock MIT Press, 1999.
 
 \bibitem{papert}
 Papert, S.
 \newblock {\em Mindstorms: Children, Computers, and Powerful Ideas.}
 \newblock BasicBooks, New York, 1980.
 
+\bibitem{introductory_programming}
+Porter, L., Guzdial, M., McDowell, C., and Simon, B.
+\newblock Success in introductory programming: what works?
+
 \bibitem{processing}
 Processing.
 \newblock \url{ http://www.processing.cc.}, 2001.
 \newblock (Accessed: 06/3/2013).
+
+\bibitem{pye}
+Pye, D.
+\newblock {\em The Nature and Art of Workmanship}.
+\newblock Cambridge University Press, Cambridge, UK, 1968.
 
 \bibitem{reas}
 Reas, N., McWilliams, C., and LUST.
@@ -81,6 +139,13 @@ Resnick, M., and Silverman, B.
 \newblock In {\em Proceedings of the 2005 Conference on Interaction Design and
   Children} (2005).
 
+\bibitem{learning_in_design}
+Rivard, K., and Faste, H.
+\newblock How learning works in design education: Educating for creative
+  awareness through formative reflexivity.
+\newblock In {\em Proceedings of the Designing Interactive Systems Conference},
+  DIS '12, ACM (New York, NY, USA, 2012).
+
 \bibitem{the_craftsman}
 Sennett, R.
 \newblock {\em The Craftsman}.
@@ -90,5 +155,21 @@ Sennett, R.
 Tinkercad.
 \newblock \url{http://tinkercad.com.}, 2012.
 \newblock (Accessed: 06/3/2013).
+
+\bibitem{victor}
+Victor, B.
+\newblock Inventing on principle, 2012.
+
+\bibitem{white}
+White, B.
+\newblock Thinkertools: Casual models, conceptual change, and science
+  education.
+\newblock {\em Cognition and Instruction\/} (1993).
+
+\bibitem{zoran}
+Zoran, A., and Buechley, L.
+\newblock Hybrid reassemblage: An exploration of craft, digital fabrication and
+  artifact uniqueness.
+\newblock In {\em LEONARDO}, vol.~46 (2013).
 
 \end{thebibliography}

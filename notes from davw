@@ -1,0 +1,59 @@
+notes from dave:
+
+maybe move some of the frameworks to 
+
+if submitting to DIS, don't start with STEM
+
+think about story you're trying to tell in introduction
+consider stepping stones 4 or 5 primary points
+tell that arc
+different ideas, different points
+what is the story?
+then transition to what we did, what we learned from it
+
+programing is important creative tool for design process
+we're interested in including novices in design processes - talk about obstacles then remove obstacles to access from computational affordances section
+values in design tools
+connecting computation with graphic output - bring questions from tools section (define linked representations)
+another important way is connecting design with relevant artifacts - bring research questions regarding computationa and craft
+
+don't make justifcation for tool- do that in introduction- move important sentence to intro
+
+explicitly define computational design in creative affordances section
+
+explain what linked representations are in intro
+
+be more clear in related works sections how what I'm doing relates or is different to it
+emphasize in novice oriented programing environments that none of the tools have linked representations- we decided to build our own tool without out being constrained by syntax and interface of existing systems- focus on the things we were interested in, easier to build it ourselves
+
+in cad tools- list how we were interested in making scripting a core component
+
+bring linked representations to computational design
+distinguish between duplicate views verses complimentary views
+
+take out dynamically typed and. 
+
+add an implementation sentence in system overview
+
+correspondence instead of symmetry
+
+correspondence becomes tricky when you have randomness in the program- deal with this by providng an abstraction which gives the user the choice of capturing abstraction of program or shape itself
+
+put readable references at the begining of readabilty section
+
+combine edits and steps section
+emphasize that the important thing is that we're trying to make it readable
+change label from declarative view to tree view or something
+
+move the design process section to a backrground section
+
+delete workshop methodology section
+
+organize discussion by conclusion
+
+be more specific about references and claims especially in computational affordances section
+what does this tell us about design tools
+what does this tell us about incporporating programing into the design process
+what does this tell us about combining computational design and craft
+what does this tell us about introducing novices to design by having them create something they're going to use in their daily life
+How does the fact that people are making something for themselves change how they are participating in the process
