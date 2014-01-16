@@ -4,46 +4,47 @@ The top-level auxiliary file: ecologies_dc.aux
 The style file: acm-sigchi.bst
 Database file #1: ecologies_dc.bib
 Warning--I didn't find a database entry for "grasshopper"
+Warning--I didn't find a database entry for "zoran_tochi"
 Warning--empty journal in introductory_programming
-You've used 30 entries,
+You've used 31 entries,
             2243 wiz_defined-function locations,
-            680 strings with 8049 characters,
-and the built_in function-call counts, 7733 in all, are:
-= -- 678
-> -- 340
+            686 strings with 8250 characters,
+and the built_in function-call counts, 8006 in all, are:
+= -- 701
+> -- 352
 < -- 0
-+ -- 146
-- -- 112
-* -- 422
-:= -- 1299
-add.period$ -- 89
-call.type$ -- 30
-change.case$ -- 134
++ -- 151
+- -- 116
+* -- 438
+:= -- 1343
+add.period$ -- 92
+call.type$ -- 31
+change.case$ -- 139
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 385
-empty$ -- 754
-format.name$ -- 112
-if$ -- 1647
+cite$ -- 32
+duplicate$ -- 401
+empty$ -- 783
+format.name$ -- 116
+if$ -- 1706
 int.to.chr$ -- 0
-int.to.str$ -- 30
-missing$ -- 33
-newline$ -- 153
-num.names$ -- 60
-pop$ -- 250
+int.to.str$ -- 31
+missing$ -- 34
+newline$ -- 158
+num.names$ -- 62
+pop$ -- 259
 preamble$ -- 2
-purify$ -- 115
+purify$ -- 119
 quote$ -- 0
-skip$ -- 189
+skip$ -- 195
 stack$ -- 0
-substring$ -- 186
-swap$ -- 37
+substring$ -- 191
+swap$ -- 38
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 104
+type$ -- 108
 warning$ -- 1
-while$ -- 63
-width$ -- 32
-write$ -- 299
-(There were 2 warnings)
+while$ -- 65
+width$ -- 33
+write$ -- 309
+(There were 3 warnings)
