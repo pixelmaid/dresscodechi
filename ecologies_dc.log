@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  17 JAN 2014 22:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  18 JAN 2014 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -528,11 +528,7 @@ LaTeX Warning: Citation `zoran_tochi' on page 10 undefined on input line 369.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
-
-Underfull \vbox (badness 2197) has occurred while \output is active []
-
- [11]
-(./ecologies_dc.bbl
+ [11] (./ecologies_dc.bbl
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 7.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
@@ -544,28 +540,22 @@ LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¡ in font ptmr7t!
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 442.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 447.
  [13
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 442.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 447.
 
 (./ecologies_dc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 442.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 442.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 447.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 447.
+Package rerunfilecheck Info: File `ecologies_dc.out' has not changed.
+(rerunfilecheck)             Checksum: 8C14B82A51A2E68C4561AA69E04C11B8;2650.
 
-
-Package rerunfilecheck Warning: File `ecologies_dc.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ecologies_dc.out':
-(rerunfilecheck)             Before: 8F5ECD86888752875499D5FD05FFCF70;2664
-(rerunfilecheck)             After:  8C14B82A51A2E68C4561AA69E04C11B8;2650.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 442.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 447.
  ) 
 Here is how much of TeX's memory you used:
  8017 strings out of 493311
@@ -611,10 +601,10 @@ st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fon
 ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on ecologies_dc.pdf (13 pages, 1458477 bytes).
+Output written on ecologies_dc.pdf (13 pages, 1458812 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
+ 376 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
  102 named destinations out of 1000 (max. 500000)
  333 words of extra memory for PDF output out of 10000 (max. 10000000)
 
