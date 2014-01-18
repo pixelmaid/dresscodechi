@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  17 JAN 2014 18:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  17 JAN 2014 22:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -461,11 +461,11 @@ Non-PDF special ignored!
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 173.
+(hyperref)                than one, level fixed on input line 172.
 
 [2]
 
-LaTeX Warning: Citation `grasshopper' on page 3 undefined on input line 204.
+LaTeX Warning: Citation `grasshopper' on page 3 undefined on input line 203.
 
 [3]
 <images/application_image_sm_content.jpg, id=239, 2568.59625pt x 1136.245pt>
@@ -473,44 +473,41 @@ File: images/application_image_sm_content.jpg Graphic file (type jpg)
 
 <use images/application_image_sm_content.jpg>
 Package pdftex.def Info: images/application_image_sm_content.jpg used on input 
-line 221.
+line 220.
 (pdftex.def)             Requested size: 512.1496pt x 226.55147pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 222.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 221.
  [4]
 <images/graphic_tools.jpg, id=258, 436.63126pt x 153.57375pt>
 File: images/graphic_tools.jpg Graphic file (type jpg)
 
 <use images/graphic_tools.jpg>
-Package pdftex.def Info: images/graphic_tools.jpg used on input line 231.
+Package pdftex.def Info: images/graphic_tools.jpg used on input line 230.
 (pdftex.def)             Requested size: 243.98238pt x 85.81323pt.
 
 
-Package hyperref Warning: Suppressing empty link on input line 238.
+Package hyperref Warning: Suppressing empty link on input line 237.
 
 
-Package hyperref Warning: Suppressing empty link on input line 238.
+Package hyperref Warning: Suppressing empty link on input line 237.
 
-
-Underfull \vbox (badness 3260) has occurred while \output is active []
-
- [5 <./images/application_image_sm_content.jpg> <./images/graphic_tools.jpg>]
+[5 <./images/application_image_sm_content.jpg> <./images/graphic_tools.jpg>]
 <images/stamps.jpg, id=265, 2003.485pt x 1442.38875pt>
 File: images/stamps.jpg Graphic file (type jpg)
  <use images/stamps.jpg>
-Package pdftex.def Info: images/stamps.jpg used on input line 258.
+Package pdftex.def Info: images/stamps.jpg used on input line 257.
 (pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
 
 [6 <./images/stamps.jpg>]
 
 LaTeX Warning: Reference `fig:auto_generated_code' on page 7 undefined on input
- line 276.
+ line 275.
 
 <images/selection_mechanism.jpg, id=272, 2354.7975pt x 1182.4175pt>
 File: images/selection_mechanism.jpg Graphic file (type jpg)
 
 <use images/selection_mechanism.jpg>
-Package pdftex.def Info: images/selection_mechanism.jpg used on input line 283.
+Package pdftex.def Info: images/selection_mechanism.jpg used on input line 282.
 
 (pdftex.def)             Requested size: 243.98238pt x 122.50664pt.
 Missing character: There is no â in font ptmr7t!
@@ -520,20 +517,19 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
  [7 <./images/selection_mechanism.jpg>]
+[8] [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
-Underfull \vbox (badness 1062) has occurred while \output is active []
-
- [9]
-Underfull \vbox (badness 3078) has occurred while \output is active []
 
 
-
-LaTeX Warning: Citation `zoran_tochi' on page 10 undefined on input line 364.
+LaTeX Warning: Citation `zoran_tochi' on page 10 undefined on input line 369.
 
 [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+Underfull \vbox (badness 2197) has occurred while \output is active []
 
  [11]
 (./ecologies_dc.bbl
@@ -544,30 +540,37 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
 (Font)              Font shape `OT1/pcr/b/n' tried instead on input line 7.
+ [12]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¡ in font ptmr7t!
- [12])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 430.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 442.
  [13
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 430.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 442.
 
 (./ecologies_dc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 430.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 430.
-Package rerunfilecheck Info: File `ecologies_dc.out' has not changed.
-(rerunfilecheck)             Checksum: 8F5ECD86888752875499D5FD05FFCF70;2664.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 442.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 442.
 
+
+Package rerunfilecheck Warning: File `ecologies_dc.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `ecologies_dc.out':
+(rerunfilecheck)             Before: 8F5ECD86888752875499D5FD05FFCF70;2664
+(rerunfilecheck)             After:  8C14B82A51A2E68C4561AA69E04C11B8;2650.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 430.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 442.
  ) 
 Here is how much of TeX's memory you used:
  8017 strings out of 493311
  115072 string characters out of 6137857
- 218847 words of memory out of 5000000
+ 216847 words of memory out of 5000000
  11242 multiletter control sequences out of 15000+600000
  31693 words of font info for 71 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -608,7 +611,7 @@ st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fon
 ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on ecologies_dc.pdf (13 pages, 1457907 bytes).
+Output written on ecologies_dc.pdf (13 pages, 1458477 bytes).
 PDF statistics:
  375 PDF objects out of 1000 (max. 8388607)
  344 compressed objects within 4 object streams
