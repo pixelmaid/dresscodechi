@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  18 JAN 2014 22:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.9)  19 JAN 2014 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -241,7 +241,7 @@ File: babel.def 2013/05/16 v3.9f Babel common definitions
 (/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-Package color Info: Redefining color black on input line 33.
+Package color Info: Redefining color black on input line 34.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -353,28 +353,28 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip48
 )
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 96.
-Package hyperref Info: Option `colorlinks' set `true' on input line 96.
-Package hyperref Info: Option `breaklinks' set `true' on input line 96.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 97.
+Package hyperref Info: Option `colorlinks' set `true' on input line 97.
+Package hyperref Info: Option `breaklinks' set `true' on input line 97.
 
 (./ecologies_dc.aux)
 \openout1 = `ecologies_dc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 103.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 104.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -410,7 +410,7 @@ e
 ))
 \c@lstlisting=\count134
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring ON on input line 103.
+Package hyperref Info: Link coloring ON on input line 104.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -420,45 +420,40 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count135
 )
-LaTeX Info: Redefining \ref on input line 103.
-LaTeX Info: Redefining \pageref on input line 103.
-LaTeX Info: Redefining \nameref on input line 103.
+LaTeX Info: Redefining \ref on input line 104.
+LaTeX Info: Redefining \pageref on input line 104.
+LaTeX Info: Redefining \nameref on input line 104.
 
 (./ecologies_dc.out) (./ecologies_dc.out)
 \@outlinefile=\write3
 \openout3 = `ecologies_dc.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 122.
+LaTeX Font Info:    Try loading font information for U+msa on input line 125.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 122.
+LaTeX Font Info:    Try loading font information for U+msb on input line 125.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 122.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 125.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 135.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 139.
 
 
-LaTeX Warning: Citation `maeda' on page 1 undefined on input line 135.
+LaTeX Warning: Citation `maeda' on page 1 undefined on input line 139.
 
 
-LaTeX Warning: Citation `kafai' on page 1 undefined on input line 139.
+LaTeX Warning: Citation `kafai' on page 1 undefined on input line 143.
 
 
-LaTeX Warning: Citation `kanjun' on page 1 undefined on input line 139.
-
-
-Underfull \hbox (badness 3758) in paragraph at lines 141--143
-\OT1/ptm/m/n/10 soft-ware tool called Dress-Code. Dress-Code fea-tures
- []
+LaTeX Warning: Citation `kanjun' on page 1 undefined on input line 143.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -470,82 +465,99 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Non-PDF special ignored!
 
 ]
-Underfull \vbox (badness 3601) has occurred while \output is active []
+Underfull \hbox (badness 1571) in paragraph at lines 152--152
+[][]\secfnt CREATIVE AF-FOR-DANCES OF PHYS-I-CAL COM-PU-TA-
+ []
+
+
+Underfull \vbox (badness 1221) has occurred while \output is active []
 
  [2]
-
-LaTeX Warning: Citation `grasshopper' on page 3 undefined on input line 190.
-
-[3]
-<images/application_image_sm_content.jpg, id=215, 2568.59625pt x 1136.245pt>
+<images/application_image_sm_content.jpg, id=172, 2568.59625pt x 1136.245pt>
 File: images/application_image_sm_content.jpg Graphic file (type jpg)
 
 <use images/application_image_sm_content.jpg>
 Package pdftex.def Info: images/application_image_sm_content.jpg used on input 
-line 205.
-(pdftex.def)             Requested size: 512.1496pt x 226.55147pt.
+line 180.
+(pdftex.def)             Requested size: 384.1122pt x 169.90926pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 206.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 181.
 
-<images/graphic_tools.jpg, id=218, 436.63126pt x 153.57375pt>
+Underfull \vbox (badness 3930) has occurred while \output is active []
+
+
+
+LaTeX Warning: Citation `grasshopper' on page 3 undefined on input line 193.
+
+
+LaTeX Warning: Citation `openScad' on page 3 undefined on input line 193.
+
+
+Underfull \vbox (badness 4531) has occurred while \output is active []
+
+ [3]
+<images/graphic_tools.jpg, id=207, 436.63126pt x 153.57375pt>
 File: images/graphic_tools.jpg Graphic file (type jpg)
 
 <use images/graphic_tools.jpg>
-Package pdftex.def Info: images/graphic_tools.jpg used on input line 215.
+Package pdftex.def Info: images/graphic_tools.jpg used on input line 212.
 (pdftex.def)             Requested size: 243.98238pt x 85.81323pt.
+ [4 <./images/application_image_sm_content.jpg> <./images/graphic_tools.jpg>]
+Underfull \hbox (badness 2376) in paragraph at lines 225--226
+[]\OT1/ptm/m/n/10 We de-vel-oped the linked rep-re-sen-ta-tions in Dress-Code
+ []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \vbox (badness 3199) has occurred while \output is active []
 
 
-Package hyperref Warning: Suppressing empty link on input line 222.
-
-
-Package hyperref Warning: Suppressing empty link on input line 222.
-
-[4 <./images/graphic_tools.jpg>]
-Underfull \vbox (badness 4569) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5 <./images/application_image_sm_content.jpg>]
-<images/stamps.jpg, id=234, 2003.485pt x 1442.38875pt>
+<images/stamps.jpg, id=220, 2003.485pt x 1442.38875pt>
 File: images/stamps.jpg Graphic file (type jpg)
  <use images/stamps.jpg>
-Package pdftex.def Info: images/stamps.jpg used on input line 242.
+Package pdftex.def Info: images/stamps.jpg used on input line 238.
 (pdftex.def)             Requested size: 243.98238pt x 175.63223pt.
 
+[5 <./images/stamps.jpg>]
 
 LaTeX Warning: Reference `fig:auto_generated_code' on page 6 undefined on input
- line 260.
+ line 257.
 
-[6 <./images/stamps.jpg>]
-<images/selection_mechanism.jpg, id=241, 2354.7975pt x 1182.4175pt>
+<images/selection_mechanism.jpg, id=228, 2354.7975pt x 1182.4175pt>
 File: images/selection_mechanism.jpg Graphic file (type jpg)
 
 <use images/selection_mechanism.jpg>
-Package pdftex.def Info: images/selection_mechanism.jpg used on input line 267.
+Package pdftex.def Info: images/selection_mechanism.jpg used on input line 266.
 
 (pdftex.def)             Requested size: 243.98238pt x 122.50664pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
+ [6 <./images/selection_mechanism.jpg>]
+<images/screen_printing_process.png, id=237, 2522.42375pt x 1228.59pt>
+File: images/screen_printing_process.png Graphic file (type png)
+
+<use images/screen_printing_process.png>
+Package pdftex.def Info: images/screen_printing_process.png used on input line 
+323.
+(pdftex.def)             Requested size: 243.98238pt x 118.83565pt.
+ [7 <./images/screen_printing_process.png (PNG copy)>] <images/shirt_results.jp
+g, id=246, 2204.235pt x 1572.87625pt>
+File: images/shirt_results.jpg Graphic file (type jpg)
+
+<use images/shirt_results.jpg>
+Package pdftex.def Info: images/shirt_results.jpg used on input line 337.
+(pdftex.def)             Requested size: 243.98238pt x 174.09692pt.
+ [8 <./images/shirt_results.jpg>]
+
+LaTeX Warning: Citation `zoran_tochi' on page 9 undefined on input line 374.
+
+
+Underfull \vbox (badness 2617) has occurred while \output is active []
+
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
- [7 <./images/selection_mechanism.jpg>]
-[8] [9]
-
-LaTeX Warning: Citation `zoran_tochi' on page 10 undefined on input line 354.
-
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-[10]
-Underfull \vbox (badness 2197) has occurred while \output is active []
-
-
+ [9]
 (./ecologies_dc.bbl
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 7.
 
@@ -554,49 +566,54 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
 (Font)              Font shape `OT1/pcr/b/n' tried instead on input line 7.
- [11]
+ [10]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¡ in font ptmr7t!
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 433.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 433.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 453.
+ [11
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 453.
 
 (./ecologies_dc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 433.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 433.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 453.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 453.
 Package rerunfilecheck Info: File `ecologies_dc.out' has not changed.
-(rerunfilecheck)             Checksum: AD8C0B3264F0AE37E480853E36922F54;2355.
+(rerunfilecheck)             Checksum: 505380B85048F6D59C060E7E8725EBDE;2214.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 433.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 453.
  ) 
 Here is how much of TeX's memory you used:
- 7999 strings out of 493311
- 114789 string characters out of 6137857
- 216689 words of memory out of 5000000
- 11235 multiletter control sequences out of 15000+600000
- 31693 words of font info for 71 fonts, out of 8000000 for 9000
+ 8014 strings out of 493311
+ 115142 string characters out of 6137857
+ 216272 words of memory out of 5000000
+ 11245 multiletter control sequences out of 15000+600000
+ 36040 words of font info for 76 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,10n,32p,2445b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.37} has been referenced but does not exi
+ 41i,11n,32p,1830b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section*.35} has been referenced but does not exi
 st, replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.36} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.34} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.31} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.29} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.24} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.21} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.14} has been referenced but does not exist
+pdfTeX warning (dest): name{section*.12} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
+pdfTeX warning (dest): name{section*.7} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.6} has been referenced but does not exist,
  replaced by a fixed one
 
 pdfTeX warning (dest): name{section*.5} has been referenced but does not exist,
@@ -614,10 +631,10 @@ st/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2013/texmf-dist/fon
 ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/u
 rw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on ecologies_dc.pdf (12 pages, 1453607 bytes).
+Output written on ecologies_dc.pdf (11 pages, 8297335 bytes).
 PDF statistics:
- 338 PDF objects out of 1000 (max. 8388607)
- 308 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 298 compressed objects within 3 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 287 words of extra memory for PDF output out of 10000 (max. 10000000)
 
