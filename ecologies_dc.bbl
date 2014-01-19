@@ -2,7 +2,7 @@
   \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
 \begin{thebibliography}{10}
 
-\bibitem{OpenScad}
+\bibitem{openScad}
 About, O.
 \newblock \url{http://www.openscad.org/about.html}, 2013.
 \newblock (Accessed: 06/3/2013).
@@ -71,6 +71,11 @@ Eisenberg, M., and L., B.
 \newblock In {\em Computing and Communications Workshops, IEEE} (White Plains,
   New York, 2007).
 
+\bibitem{grasshopper}
+Grasshopper.
+\newblock \url{http://www.grasshopper3d.com/}, 2014.
+\newblock (Accessed: 1/18/2014).
+
 \bibitem{codeable_objects}
 Jacobs, J., and Buechley, L.
 \newblock Codeable objects: Computational design and digital fabrication for
@@ -89,6 +94,11 @@ Li, P., and Wohlstadter, E.
   Aspect-oriented Software Development}, AOSD '08, ACM (New York, NY, USA,
   2008).
 
+\bibitem{maeda}
+Maeda, J.
+\newblock {\em Design by Numbers}.
+\newblock MIT Press, 1999.
+
 \bibitem{abstracting_craft}
 McCullough, M.
 \newblock {\em Abstracting Craft: The Practiced Digital Hand}.
@@ -102,6 +112,7 @@ Papert, S.
 \bibitem{introductory_programming}
 Porter, L., Guzdial, M., McDowell, C., and Simon, B.
 \newblock Success in introductory programming: what works?
+\newblock {\em Communications of the ACM 56\/} (2013).
 
 \bibitem{processing}
 Processing.
@@ -144,11 +155,12 @@ Tinkercad.
 Victor, B.
 \newblock Inventing on principle, 2012.
 
-\bibitem{white}
-White, B.
-\newblock Thinkertools: Casual models, conceptual change, and science
-  education.
-\newblock {\em Cognition and Instruction\/} (1993).
+\bibitem{zoran_thesis}
+Zoran, A.
+\newblock {\em Hybrid reAssemblage: Bridging Traditional Craft and Digital
+  Design}.
+\newblock Phd thesis, Massachusetts Institute of Technology, Cambridge, MA,
+  2013.
 
 \bibitem{zoran}
 Zoran, A., and Buechley, L.

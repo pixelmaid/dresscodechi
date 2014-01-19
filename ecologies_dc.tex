@@ -124,7 +124,7 @@ breaklinks=true,
 \maketitle
 
 \begin{abstract}
-Computational design has emerged as a powerful tool for the design of physical artifacts. Computational design has relevance not only as a tool for professional design, but as a creative tool for young people to design and build personally meaningful physical artifacts. We present DressCode, a novice oriented computational design tool for physical design. DressCode features linked editable representations between textual programing and graphic drawing in an effort to make computational design accessible and open to young people, and is compatible with digital fabrication and manual craft enabling programmatic forms to be translated to physical objects. This will introduce the latest version of DressCode and describe our evaluation of the tool through a series of workshops where young people designed and created personal artifacts through a combination of programing, graphic drawing, and manual craft. These workshops enable us to describe the diverse design affordances of linked representational tools for young designers, discuss the values and relevance attached to artifacts that emerge from this form of creation, and discuss how the design of computational tools can support different forms of identity.
+Computational design is a powerful tool for the design of physical artifacts and has relevance not only for professional designers, but for young people interested in aesthetic and physical forms of making. We present DressCode, a novice oriented computational design tool for making personal artifacts. DressCode features linked editable representations between textual programing and graphic drawing in an effort to make computational design accessible to young people, and is compatible with digital fabrication and manual craft enabling programmatic forms to be translated to physical objects. This paper introduces the current version of DressCode and describes our evaluation of it through a series of making workshops with young people. Through analysis of the experiences of people in the workshops and the artifacts they produced, we describe the diverse design affordances of linked representational tools for young designers, discuss the values that emerge from this form of creation, and discuss how the design of computational tools can be compatible with personal identity.
 \end{abstract}
 
 \keywords{
@@ -344,106 +344,83 @@ In the screen printing workshop, we observed three general design approaches: 1)
 Participants attitudes towards programming changed from what they were after the computational design sessions. In the majority of cases, this change was positive; participants indicated greater interest in learning programming in the future, a stronger belief that programming was a tool that they could create things they would use in their daily life, and greater comfort in programming on their own following the craft activity. Participants were positive about the graphic tools, although they requested that their functionality be extended to incorporate a greater range of transformation methods. All participants said they would be interested in using DressCode for another activity, and all but one indicated they would like to continue using the programming language in particular.
 
 \section{Discussion}
-Reflecting on the experiences and comments of the people involved in our workshops, we discuss some of the broader implications of DressCode.
+Reflecting on the experiences and comments of the people involved in our workshops, we discuss some of the broader implications of DressCode. We focus on reactions from the participants in the screen printing workshop as it constitutes our primary study of DressCode, but include reactions from the wrist cuff workshop to demonstrate distinctions in practice and attitudes between the two experiences. 
 
 \subsection{Diversity in design practice}
-%Graphic tools and programing tools have separate affordances. Graphic tools are based on metaphors of physical drawing and manipulation with traditional media, and often represented by icons and symbols that reflect this. As a result, they can be intuitive or inviting to new users. Textual programing tools are traditionally less intuitive, but have the advantage of readily supporting complexity and automation in design, and are a natural fit for parametric representations.
 We found that linked-representations in computational design tools leads to diversity of design practices for novices in three ways. The intuitive graphic tools offers a way to scaffold the process of learning programing. Enabling correspondence between graphic and programmatic manipulation provides flexibility in the degree to which people rely on computational or graphic methods, and that linked representations can foster noteworthy design aesthetics that blend qualities of hand drawing with computational complexity and repetition.
 
-Responses from the participants regarding the use of DressCode affirmed our attitude that the tool was accessible for novices. Before the graphic tools were formally introduced, several participants independently started experimenting with them on their own. When asked to describe the tool structure, one participant responded"
+Responses from the screen printing participants demonstrated that the graphic portions of linked representations were easy for people to use. Before the graphic tools were demonstrated, several participants independently started experimenting with them and described their use to be self evident. Furthermore,the linkages between the graphic drawing and programing were described as being helpful in understanding the programing portion:
 \begin{quote}
-\textit{You find a tool, you draw on the canvas and it shows you the code, that's basically it.}
-\\Participant Z
-\end{quote}\noindent
-Several people also indicated that the graphic drawing tools also helped them to better understand the process of writing their program. As articulated by another participant:
-\begin{quote}
-\textit{I think that having the drawing tools and having it also show the code there makes it so that you can see as you're doing it. [By] having a graphical side and having it auto update the code, it can show you that you want to work with the code you're learning as you're using the GUI. So that people could try and say ok, if I can't do something with the graphical tools, let me try and manipulate the code. And then you already have some understanding because you've been using the graphical tools and it's been appearing over there the entire time.}
+\textit{[Having a graphical side and having it auto-update the code, it can show you that [if] you want to work with the code you're learning as you're using the GUI. So that people could try and say ok, if I can't do something with the graphical tools, let me try and manipulate the code. And then you already have some understanding because you've been using the graphical tools and it's been appearing over there the entire time.}
 \\Participant B
 \end{quote} 
-We find these responses to the tools as intuitive and understandable to be encouraging. As researchers, we find it more pertinent (and more interesting) to speak to the types of design practices our tool engendered. The diversity of design practices in the second workshop lead us to three conclusions. First, we are encouraged by the fact that diversity of design practices emerged within a relatively short time-period of using the tool. This points the potential creative openness of linked representations as computational design tools, and suggests that even more diverse approaches may result from longer design sessions. Second, because all of the approaches incorporate a significant degree of computation, it seems evident that computational design methods are relevant and appealing to young designers. As further evidence of this, when we asked the group if they would have preferred to participate in a similar workshop where designs were drawn by hand, or drawn with non-computational digital design tools, all but one answered that they either preferred the combination of the two forms, or at the very least, appreciated the option of using programming in their design:
-\begin{quote}
-\textit{I think combine them (computational design and hand-drawing). I could go for either one, or both, it doesn't really matter because they're both fun.}
-\\Participant M
-\end{quote}
+
+People also understood however that programing was well suited to tasks that would have been difficult to accomplish with graphic tools alone. One young man created a generative landscape with hand-drawn elements that were repeated in different positions. Because he structured the design as a parametric program, when he decided to alter the composition dimensions, he was able to avoid the task of manually re-positioning each element:
+\begin{quotation}
+  \textit{[DressCode] made changes much easier to change, rather than redoing the entire design}
+  \\Participant R
+\end{quotation}
+
+The combination of graphic drawing and programing also resulted in aesthetics that we as computational designers found to be incredibly exciting. The participants who relied on a balance of graphic and programmatic design tools produced designs that contained imperfect, irregular forms in direct conjunction with computational order, repetition and complexity. These designs were distinct to the individual creator, and their imperfections were deliberate. During one critique session, the creator of the heart t-shirt explained that he had deliberately chosen to draw a irregular heart form, because that was "his style". That visual qualities of these hand-drawn/computational hybrids (to borrow a term from Zoran \cite{zoran_thesis}) demonstrate that computational tools can support evidence of the human hand rather than eliminating it. We consider the development of a more nuanced palette of hand-drawing graphic tools and mechanisms (perhaps a tablet and stylus), as a worthy next step of exploration in this field.
+
+\subsection{Tensions in linked representations}
+Computational tools for novices often abstract lower-level functionality to ensure ease of use. In the context of linked representations for computational design, abstractions between graphic actions and computational correspondence should be weighted with respect to the assumptions they make about the intentions of the designer, and their ability to effectively represent the powerful ideas behind programing for design.
+
+People in the screen printing workshop had a range of opinions regarding what new graphic tools should be added to DressCode, how these tools should correspond with programing, and if existing features could represented graphically. Because most people used some form of randomness in their design, there was a debate on whether the creation of random distributions should be a graphic or programmatic. Two of the young women stated that they would have preferred graphic tools that enabled them create random groups of objects by pointing and clicking with the mouse. Another participant wanted the software to store the randomly created values for a specific program, and then have a graphic button that enabled him to reset these values to new random numbers. Still three others stated that they preferred creating random distributions using loops and variables in the text editor, and recognized that by creating random distributions graphically, DressCode would become too similar to existing tools, and lose some of the control gained through programing:
 \begin{quote}
 \textit{The important thing I really feel about DressCode is you can turn things like ''random". These are drawn [gesturing to a graphically drawn element of his design] and these are from the programing part [gesturing to the repetition of them] ... but in [Adobe] Illustrator it's just drawing. You can't have everything.}
 \\Participant Z
 \end{quote}
-The valuing of randomness and generativity was also evident in the screen printing designs themselves, where 5 out of 8 incorporated some form of noise in the design process. 
 
-Finally, we saw aesthetically distinct designs emerge from the linked representations in DressCode. The participants who relied on a balance of graphic and programmatic design tools produced aesthetics which featured repetition generativity and complexity, however they were distinguished by the presence of graphic elements that were clearly attributable to the style of their individual creator. The graphic tools enabled the designers to computationally alter hand-drawn forms, producing pieces that contained imperfect, irregular forms in direct conjunction with computational aesthetics. Furthermore, this imperfect aesthetic was deliberate. During one critique session, the creator of the heart t-shirt explained to another participant that he had deliberately chosen to draw a irregular heart form, even though he realized it was possible to computationally create an assortment of perfect, regular hearts. As designers ourselves, we were incredibly excited by the diverse visual qualities of these hand-drawn/computational hybrids (to borrow a term from Zoran \cite{zoran_tochi}), and we consider the development of a more nuanced palette of hand-drawing graphic tools and mechanisms (perhaps a tablet an stylus), as a worthy next step of exploration in this field, enabling evidence of the human hand to be supported by, rather than eliminated by computational tools.
-
-\subsection{Tensions in creating abstractions }
-Through their analysis on ways design choices impact usability in hardware construction kits for novices, Blikstein and Sipitakiat argue that age appropriate design is important when introducing unfamiliar technologies to children \cite{blik}. When abstracting lower-level functionality of the tool, it is inevitable that people's design processes will be effected. By evaluating the tool in a long-term design process there is a greater opportunity to gain insight on how abstractions should be structured to maintain the accessibility while preserving features that are important to the target user-group. 
-
-When we discussed people's experience with DressCode, participants not only described additional graphic tools they thought would be useful, such as a better curve tool, a shape scaling tool, and most prominently an eraser tool. More revealingly, they also talked about how they thought these tools should correspond with the programming environment. Here two participants discuss how they envision an eraser tool being implemented.
-
+Similarly, participants had different ideas for how new graphic tools should generate programing statements. Here two people discuss their ideas for the incorporation of an eraser tool:
 \begin{quote}
 Participant Z (Talking about erasing graphically): \textit{So if you erase one line, it becomes two lines...so it's going to generate the code for two lines.}
 Participant M: \textit{No like if you drew a line with the sidebar, and then you decided you didn't like, you don't have to go to the code, erase it and press play, you could just take the erase tool, click on it and then it goes away.}
 Participant Z: \textit{No, what I mean is like if you just wanted to erase half..}
 \end{quote}
 
-One participant in this conversation is advocating for a simplistic interaction, the ability to click on a shape graphically, and have both the line, and the code that generated be removed from the design. THe other is advocating a more complex editing functionality from the eraser- the ability to spawn new programing statements and create new shapes. 
+In linked representations, defaulting to making every programmatic action represented by a graphic action can lead to the trivialization of the ideas behind programmatic forms of representation. Relegating random distributions to a pre-defined set of graphically selectable icons may make them more accessible for immediate use, but it could also prevent a designer from understanding the design potential of generativity. Furthermore, the automatic inclusion of features that seem simple (such as an eraser tool) may in fact lead to inaccurate assumptions about the design objectives of the people using the tool. In developing linked representations between programing and graphic interactions, we advocate the following approaches. One, incorporate graphic drawing tools that are intuitive and familiar, and can be directly linked to a single programing method. Two, developing novel solutions for programmatic structures that are difficult to represent graphically (for example our use of stamps to deal with the correspondence issues raised by randomness). Three, do not rely exclusively on graphic tool correspondence to support entry into programing, but instead incorporate other forms of visualization and representation (such as the tree view), to help people understand the relationships between the program and the graphic design.
 
-People had similar discussions about the degree to which the creation of random distributions should be a graphic or programmatic. One participant wondered if he could have the software store the randomly created values for a specific program, and then have a graphic button that enabled him to reset these values to new random numbers when necessary. Other people stated that they would have found it useful to have graphic tools that enabled them create random groups of objects by pointing and clicking with the mouse. Other people strongly disagreed with this idea, stating that they felt this would take away from the process.
-
+\subsection{Designing experiences for diverse interests}
+People approach tools and activities with different motivations, and their response to a tool will be prominently affected by how relevant the activity was to their subjective interests. In both the wrist-cuff and screen printing workshops, we observed great diversity in how people valued their experience. Several young people were concerned with producing things that were unique, or expressed their personal style:
 \begin{quote}
- Well that would kind of take away from the programing part of it, because you’d be trying to turn everything into a UI, so it'd be like illustrator.
- \\Participant Z
+\textit{You can't find it at American Eagle. I buy a lot of my bracelets there, and you can't just go there and find this. I think it's cool if someone were to say ''Oh where did you get that from?, You can't find it.".}
+Participant C
 \end{quote}
-
-The tensions present in these comments demonstrate the complexities in developing design tools for novices. The automatic inclusion of features that seem simple, such as an eraser tool may in fact lead to inaccurate assumptions about the design objectives of the people using the tool. Furthermore even when designing for novices, choosing the simplest interaction may not always be the best option if it trivializes the idea behind the interaction. Relegating random distributions to a pre-defined set of graphically selectable icons may make them more accessible for immediate use, but it could also prevent a designer from understanding or experiencing the opportunities afforded by structured forms of generativity in a design. 
-
-\subsection{Designing Experiences to support a range of objectives and interests}
-People approach tools and activities with different motivations. %deal with this partWhether performed by experts or novices, individual approaches to design are incredibly subjective and diverse \cite{learning_in_design}. 
-Their response to the experience will be greatly effected by how accommodating the activity or tool was of their personal interests. In talking with people about what was most important to them in their experience using DressCode, people described a surprising range of different values. Some people appreciated the opportunity to create a unique artifact, as illustrated by this young woman who talked about her wrist cuff design:
-\begin{quote}
-Youth Participant C: \textit{You can't find it at American Eagle. I buy a lot of my bracelets there, and you can't just go there and find this. I think it's cool if someone were to say ''Oh where did you get that from?, You can't find it." (Laughs).}
-\\Interviewer:\textit{You can say that you made it yourself, you love how it's unique?"}
-\\YouthParticipant C: \textit{yeah}
-\end{quote}
-
-Other people talked about how they enjoyed the opportunity to produce something that was motivated by personal considerations:
-\begin{quote}
-\textit{Usually when you make something you're making it like ''oh I hope society likes this" but this was about self satisfaction, so I don't have to take into consideration someone else's opinion.}
-\\Youth Participant S
-\end{quote}
-
-Whereas others saw benefit in engaging in computer programing for the first time.
+Whereas others were excited about the opportunity to program:
 \begin{quote}
 \textit{``[The] computer programming was enjoyable for me because I had wanted to do it before but never had the chance. So this workshop gave me exposure to something that I wanted to do for a while and I totally loved it."}
 \\Youth Participant 092297m (survey)
 \end{quote}
-
-We also found that some people valued the opportunity to learn a craft process, and that this experience added an extra value to the designs they had created computationally:
+We also found that people valued the opportunity to learn a craft process:
 \begin{quote}
-\textit{I feel as though maybe like when you're programming stuff, you're on the computer but you're not using any physical work, but when you're screen printing there's the manual labor involved, so when you actually get something right it's I guess more gratifying, since you put hard work [into it]... Well you do put hard work into programming, but it's more a thinking thing, not actual physical labor.}
-Participant L: \textit{After all this hard work, you have this (pointing to the t-shirt she is wearing)}
-\\Participant R: \textit{It lets you take pride in it.}
+\textit{When you're screen printing there's the manual labor involved, so when you actually get something right it's I guess more gratifying, since you put hard work into it... Well you do put hard work into programming, but it's more a thinking thing, not actual physical labor.}
+Participant L
 \end{quote}
-
-In many forms of youth engagement in programing, we believe there is an inordinate emphasis is placed on learning computational concepts, rather than supporting diverse and subjective experiences. Brennan and Resnick point out that in their research examining the practices of young designers using Scratch, framing experience around computational concepts insufficiently represented other elements of learning and participation \cite{computational_thinking}. Similarly, we find it useful to evaluate youth computational activities on the diversity of experiences that emerge. Overall, it is important to situate computational tools for young people in activities that can support different experiences for different people, and especially when the activity is a person's first exposure to computer programing, as it can shape their desire for future participation. 
+Other people talked about what they wanted to do next with DressCode, including creating gifts for friends, building things they could sell, or combining it with 3D printing, pointing to a wealth of opportunities for future engagement. In many youth computer science activities, we believe there is an inordinate emphasis is placed on learning computational concepts, rather than supporting diverse and subjective experiences. Brennan and Resnick point out that in observing young people use Scratch, framing experience around computational concepts insufficiently represented other key elements of learning and participation \cite{computational_thinking}. Building on this idea, we emphasize evaluating youth computational activities on the diversity of experiences that emerge, and advocate designing computational activities in a way that will actively support different experiences for different people. The deep and thoughtful integration of craft with computation offers an excellent way to achieve this diversity, due to the rich variability of craft materials and the interconnected pathways of making that emerge when interleaving computation with working by hand. 
 
 \subsection{Identity and Tool use}
-Just as the design of an computational activity can determine the range of experiences people may have, the design of a computational tool can determine the types of people who are willing to use it. In the first DressCode workshop, we noted that people repeatedly described DressCode as a "programing'' tool when talking about it. The emphasis on programing was also present in their reactions to the designs they created. These two young women described their designs in the following ways:
+Just as the design of an computational activity can determine the range of experiences people have, the design of a tool can determine the types of people who are willing to use it. In the wrist-cuff workshop, people repeatedly described DressCode as a "programing'' tool. The emphasis on programing corresponded with their feeling of accomplishment in completing their artifact:
  \begin{quote}
 Youth Participant J: \textit{``It's on computers and I'm terrible at computers and for me to actually get something like this is really big."} 
 \\Interviewer: \textit{``How do you feel about that?"}
-\\Youth Participant J: \textit{``Really proud."} 
+\\Participant J: \textit{``Really proud."} 
 \end{quote}
 
  \begin{quote}
  Interviewer: \textit{``What stands out to you about your design?"}
- \\Youth Participant S.M.: \textit{``That I actually created it. I'm not really a programming person, doing it and typing it out."}
+ \\Participant S.M.: \textit{``That I actually created it. I'm not really a programming person, doing it and typing it out."}
  \end{quote}
 
-Although it is encouraging that participants were excited about accomplishing a programing task, what stands out to us about these comments is how the young women talk about their identity as programmers. These young people who clearly do not identify as "programmers", and are surprised that they were able to accomplish what they viewed as a "programming" task. The young woman from the second comment also later confided in us that she thought of herself as an "illustration person", and that although she liked using DressCode, in the long run, she felt most comfortable using what she identified as illustration-tools, rather than programing tools. 
-There is something profound in this young woman's statement. While initiatives that are aimed at getting more young people to identify as programmers are admirable, we also see a space for tools that do not push people to strongly identify as programmers. Just as programmers may venture into graphic design tools without identifying as "designers", we see opportunities for computational design tools that provide gentle access to computation as one means of creation for who do-not self identify as programmers. The linked representations in DressCode are one expression of this desire for balance.
-reference to popular culture- like day of code events, reference scratch as a positive example
+These two young women clearly do not identify as programmers, evident in their suprise at accomplishing what they viewed as a programming task. One of them explained that she considered herself as an "illustration person", and she felt most comfortable using what she identified as illustration tools. In the following workshop, after expanding DressCode to feature a larger set of graphic interaction tools, we noticed a shift in the way people talked about the software. Although people used the programing elements of DressCode, on the survey when we asked them to describe other software DressCode reminded them of, the most common answers were Photoshop, Illustrator and MS Paint, 
 
-\section{Conclusion}
-This is where a brilliant conclusion will go.
+While we wish to stress that these results are preliminary, for us these responses illustrate the importance of developing software that is appealing to multiple identity-types. While initiatives aimed at getting more young people to identify as programmers are admirable, it is also important to create tools that provide programing as an option, but equally represent features that will resonate with non-programmers.  Just as programmers may venture into graphic design tools without identifying as "designers", we believe that linked-representations in computational design tools may provide gentle, but clear access to computation, enabling those who do-not self identify as programmers to still see programming as an applicable tool in their creative palette.
+
+\section{Future Work}
+Compatibility between hand drawing and programatic representations
+Tool can communicate information about the craft process itself - spread of patterns for screen printing
+Longer term examination of how artifacts are used in the lives of the people who make them.
+
 % REFERENCES FORMAT
 % References must be the same font size as other body text.
 
