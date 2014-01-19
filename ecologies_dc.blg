@@ -3,48 +3,51 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ecologies_dc.aux
 The style file: acm-sigchi.bst
 Database file #1: ecologies_dc.bib
+Warning--I didn't find a database entry for "maeda"
+Warning--I didn't find a database entry for "kafai"
+Warning--I didn't find a database entry for "kanjun"
 Warning--I didn't find a database entry for "grasshopper"
 Warning--I didn't find a database entry for "zoran_tochi"
 Warning--empty journal in introductory_programming
-You've used 31 entries,
+You've used 27 entries,
             2243 wiz_defined-function locations,
-            686 strings with 8250 characters,
-and the built_in function-call counts, 8006 in all, are:
-= -- 701
-> -- 352
+            671 strings with 7852 characters,
+and the built_in function-call counts, 6992 in all, are:
+= -- 613
+> -- 309
 < -- 0
-+ -- 151
-- -- 116
-* -- 438
-:= -- 1343
-add.period$ -- 92
-call.type$ -- 31
-change.case$ -- 139
++ -- 133
+- -- 102
+* -- 383
+:= -- 1172
+add.period$ -- 80
+call.type$ -- 27
+change.case$ -- 122
 chr.to.int$ -- 0
-cite$ -- 32
-duplicate$ -- 401
-empty$ -- 783
-format.name$ -- 116
-if$ -- 1706
+cite$ -- 28
+duplicate$ -- 345
+empty$ -- 681
+format.name$ -- 102
+if$ -- 1489
 int.to.chr$ -- 0
-int.to.str$ -- 31
-missing$ -- 34
-newline$ -- 158
-num.names$ -- 62
-pop$ -- 259
+int.to.str$ -- 27
+missing$ -- 28
+newline$ -- 138
+num.names$ -- 54
+pop$ -- 226
 preamble$ -- 2
-purify$ -- 119
+purify$ -- 104
 quote$ -- 0
-skip$ -- 195
+skip$ -- 171
 stack$ -- 0
-substring$ -- 191
-swap$ -- 38
+substring$ -- 171
+swap$ -- 34
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 108
+type$ -- 96
 warning$ -- 1
-while$ -- 65
-width$ -- 33
-write$ -- 309
-(There were 3 warnings)
+while$ -- 57
+width$ -- 29
+write$ -- 268
+(There were 6 warnings)
