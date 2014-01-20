@@ -3,47 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ecologies_dc.aux
 The style file: acm-sigchi.bst
 Database file #1: ecologies_dc.bib
-Warning--I didn't find a database entry for "kafai"
-Warning--I didn't find a database entry for "kanjun"
-You've used 29 entries,
+You've used 28 entries,
             2243 wiz_defined-function locations,
-            678 strings with 7976 characters,
-and the built_in function-call counts, 7445 in all, are:
-= -- 657
-> -- 323
+            671 strings with 7898 characters,
+and the built_in function-call counts, 7086 in all, are:
+= -- 616
+> -- 325
 < -- 0
-+ -- 139
-- -- 106
-* -- 403
-:= -- 1252
-add.period$ -- 87
-call.type$ -- 29
++ -- 140
+- -- 108
+* -- 390
+:= -- 1201
+add.period$ -- 84
+call.type$ -- 28
 change.case$ -- 128
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 366
-empty$ -- 727
-format.name$ -- 106
-if$ -- 1587
+cite$ -- 28
+duplicate$ -- 342
+empty$ -- 686
+format.name$ -- 108
+if$ -- 1499
 int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 29
-newline$ -- 149
-num.names$ -- 58
-pop$ -- 242
+int.to.str$ -- 28
+missing$ -- 28
+newline$ -- 144
+num.names$ -- 54
+pop$ -- 236
 preamble$ -- 2
 purify$ -- 110
 quote$ -- 0
-skip$ -- 182
+skip$ -- 165
 stack$ -- 0
-substring$ -- 181
-swap$ -- 37
+substring$ -- 144
+swap$ -- 28
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 102
+type$ -- 98
 warning$ -- 0
-while$ -- 61
-width$ -- 31
-write$ -- 293
-(There were 2 warnings)
+while$ -- 54
+width$ -- 30
+write$ -- 282

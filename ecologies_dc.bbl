@@ -2,11 +2,6 @@
   \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
 \begin{thebibliography}{10}
 
-\bibitem{openScad}
-About, O.
-\newblock \url{http://www.openscad.org/about.html}, 2013.
-\newblock (Accessed: 06/3/2013).
-
 \bibitem{ainsworth}
 Ainsworth, S.
 \newblock Deft: A conceptual framework for learning with multiple
@@ -38,12 +33,6 @@ Bardzell, S., Rosner, D.~K., and Bardzell, J.
 \newblock In {\em Proceedings of the Designing Interactive Systems Conference}
   (2012).
 
-\bibitem{blik}
-Blikstein, P., and Sipitakiat, A.
-\newblock Qwerty and the art of designing microcontrollers for children.
-\newblock In {\em Proceedings of the 10th International Conference on
-  Interaction Design and Children}, ACM (2011).
-
 \bibitem{computational_thinking}
 Brennan, K., and Resnick, M.
 \newblock New frameworks for studying and assessing the development of
@@ -57,13 +46,6 @@ Buechley, L., Eisenberg, M., Catchen, J., and Crockett, A.
   engagement, aesthetics, and diversity in computer science education.
 \newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
   Computing Systems}, ACM (New York, NY, USA, 2008).
-
-\bibitem{buechley_wild}
-Buechley, L., and Hill, B.
-\newblock Lilypad in the wild: How hardware's long tail is supporting new
-  engineering and design communities.
-\newblock In {\em Proceedings of the 8th ACM Conference on Designing
-  Interactive Systems}, DIS '10 (New York, NY, USA, 2010), 199--207.
 
 \bibitem{pervasive_fab}
 Eisenberg, M., and L., B.
@@ -87,6 +69,13 @@ Johnson, G.
 \newblock Flatcad and flatlang: Kits by code.
 \newblock In {\em VL/HCC, IEEE,} (Herrsching am Ammersee, Germany, 2008).
 
+\bibitem{kafai}
+Kafai, Y.~B., Searle, K., Kaplan, E., Fields, D., Lee, E., and Lui, D.
+\newblock Cupcake cushions, scooby doo shirts, and soft boomboxes: E-textiles
+  in high school to promote computational concepts, practices, and perceptions.
+\newblock In {\em Proceeding of the 44th ACM Technical Symposium on Computer
+  Science Education}, SIGCSE '13 (2013).
+
 \bibitem{view_based}
 Li, P., and Wohlstadter, E.
 \newblock View-based maintenance of graphical user interfaces.
@@ -103,6 +92,11 @@ Maeda, J.
 McCullough, M.
 \newblock {\em Abstracting Craft: The Practiced Digital Hand}.
 \newblock The MIT Press, Cambridge, Massachusetts, 1996.
+
+\bibitem{openScad}
+Openscad.
+\newblock \url{http://www.openscad.org/about.html}, 2013.
+\newblock (Accessed: 06/3/2013).
 
 \bibitem{papert}
 Papert, S.
